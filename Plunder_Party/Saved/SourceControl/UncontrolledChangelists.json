@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset"
+			]
+		}
+	]
+}
