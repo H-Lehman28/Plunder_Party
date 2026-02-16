@@ -2320,3 +2320,1138 @@ LogInit: Object subsystem initialized
 [2026.02.16-14.20.54:256][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4609.877441
 [2026.02.16-14.20.55:256][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.16-14.20.55:257][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4610.546387, Update Interval: 336.096680
+[2026.02.16-14.27.18:274][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4993.846191
+[2026.02.16-14.27.18:423][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.27.18:423][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4993.988770, Update Interval: 353.783386
+[2026.02.16-14.28.01:518][652]LogEditorTransaction: Undo Edit R
+[2026.02.16-14.28.19:661][740]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.28.28:843][807]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.28.41:781][330]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.28.57:352][156]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.29.55:286][ 28]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.30.05:895][258]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.30.08:543][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.02.16-14.30.11:022][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.30.11:074][830]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen] ([2] browsable assets)...
+[2026.02.16-14.30.11:076][830]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_TitleScreen.WBP_TitleScreen]
+[2026.02.16-14.30.11:076][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen]
+[2026.02.16-14.30.11:086][830]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_TitleScreen
+[2026.02.16-14.30.11:086][830]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_TitleScreen80EB0FD14A066D0F3FB2639688C9A3AD.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset'
+[2026.02.16-14.30.11:093][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.724 ms (total: 635.707 ms)
+[2026.02.16-14.30.11:157][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.30.11:157][830]LogContentValidation: Enabled validators:
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.30.11:157][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.30.11:157][830]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_TitleScreen Validating asset
+[2026.02.16-14.30.13:643][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-14.30.13:650][104]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-14.30.13:650][104]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.16-14.30.13:651][104]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 851 us (total: 4.917 ms)
+[2026.02.16-14.30.13:651][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-14.30.13:679][104]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.30.13:684][104]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-14.30.13:685][104]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 952 us (total: 5.667 ms)
+[2026.02.16-14.30.13:686][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006398s)
+[2026.02.16-14.30.13:686][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006438s)
+[2026.02.16-14.30.13:706][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.02.16-14.30.13:709][104]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.16-14.30.13:711][104]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-14.30.13:711][104]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-14.30.13:711][104]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-14.30.13:711][104]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-14.30.13:713][104]LogWorldPartition: Display: WorldPartition initialize took 1.390 ms (total: 243.015 ms)
+[2026.02.16-14.30.13:713][104]LogPlayLevel: PIE: World Init took: (0.003283s)
+[2026.02.16-14.30.13:713][104]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.16-14.30.13:713][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-14.30.13:713][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-14.30.13:714][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-14.30.13:714][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-14.30.13:714][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-14.30.13:714][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-14.30.13:714][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-14.30.13:714][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-14.30.13:714][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-14.30.13:714][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-14.30.13:714][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-14.30.13:717][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-14.30.13:779][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.16-14.30.13:779][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-14.30.13:779][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-14.30.13:779][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-14.30.13:780][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.16-14.30.13:780][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.16-14.30.13:783][104]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.16-14.30.13:783][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.16-14.30.13:783][104]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.02.16-14.30.13:783][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.16-14.30.13:783][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.16-14.30.13:787][104]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.16-14.30.13:790][104]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.16-14.30.13
+[2026.02.16-14.30.13:790][104]LogWorld: Bringing up level for play took: 0.002110
+[2026.02.16-14.30.13:793][104]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.02.16-14.30.13:797][104]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.16-14.30.13:797][104]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.16-14.30.13:797][104]PIE: Server logged in
+[2026.02.16-14.30.13:799][104]PIE: Play in editor total start time 0.15 seconds.
+[2026.02.16-14.30.13:844][105]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-14.30.26:386][589]Cmd: quit
+[2026.02.16-14.30.26:387][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.30.26:388][589]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.30.26:410][589]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-14.30.26:410][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.30.26:410][589]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-14.30.26:412][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-14.30.26:416][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.30.26:442][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.16-14.30.26:442][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.16-14.30.26:442][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.16-14.30.26:444][589]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.16-14.30.26:448][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.30.26:452][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2026.02.16-14.30.26:504][590]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.02.16-14.31.00:887][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.02.16-14.31.00:888][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.024
+[2026.02.16-14.31.00:888][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2] ([1] browsable assets)...
+[2026.02.16-14.31.00:888][961]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2]
+[2026.02.16-14.31.00:892][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Auto6
+[2026.02.16-14.31.00:892][961]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Auto6A007FC3D4B39E7EB19D2D8B4DD0DE712.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Auto6.uasset'
+[2026.02.16-14.31.00:893][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2_Font] ([1] browsable assets)...
+[2026.02.16-14.31.00:893][961]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2_Font]
+[2026.02.16-14.31.00:897][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto6
+[2026.02.16-14.31.00:897][961]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Font_Auto6A65E3E354C3587004D756B9806E8447C.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto6.uasset'
+[2026.02.16-14.31.00:899][961]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.02.16-14.34.07:663][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5403.251465
+[2026.02.16-14.34.07:822][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.34.07:822][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5403.401855, Update Interval: 313.198639
+[2026.02.16-14.36.16:845][587]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.02.16-14.40.20:079][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5775.607422
+[2026.02.16-14.40.20:387][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.40.20:387][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5775.908691, Update Interval: 308.868073
+[2026.02.16-14.40.58:393][585]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.16-14.40.58:400][585]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.16-14.40.58:412][585]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.16-14.40.58:426][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.16-14.40.58:520][590]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2026.02.16-14.40.58:530][590]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.16-14.40.58:733][596]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.16-14.41.11:218][964]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Credits
+[2026.02.16-14.41.11:302][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.41.11:302][964]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.41.11:304][964]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.41.11:304][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.41.11:310][964]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-14.41.11:310][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Credits2843FFAE4E764EA22A862D8C3E124901.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-14.41.11:315][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.660 ms (total: 649.367 ms)
+[2026.02.16-14.41.11:423][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.16-14.41.11:447][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.02.16-14.41.11:468][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.16-14.41.11:524][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.41.11:524][964]LogContentValidation: Enabled validators:
+[2026.02.16-14.41.11:524][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.41.11:524][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.41.11:524][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.41.11:524][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.41.11:524][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.41.11:525][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.41.11:525][964]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-14.41.11:593][964]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-14.41.13:873][199]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits
+[2026.02.16-14.41.13:873][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.16-14.41.13:880][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.16-14.41.21:012][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.02.16-14.41.23:099][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.41.23:142][225]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen] ([2] browsable assets)...
+[2026.02.16-14.41.23:144][225]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_TitleScreen.WBP_TitleScreen]
+[2026.02.16-14.41.23:144][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen]
+[2026.02.16-14.41.23:155][225]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_TitleScreen
+[2026.02.16-14.41.23:155][225]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_TitleScreen62E6EB334753B69A174AC8B9E382EF2B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset'
+[2026.02.16-14.41.23:162][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.980 ms (total: 712.348 ms)
+[2026.02.16-14.41.23:225][225]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.41.23:225][225]LogContentValidation: Enabled validators:
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.41.23:225][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.41.23:226][225]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_TitleScreen Validating asset
+[2026.02.16-14.46.14:452][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6130.034180
+[2026.02.16-14.46.14:603][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.46.14:603][634]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6130.176270, Update Interval: 357.073883
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: ================================================
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Total job queries 18,341, among them cache hits 3,723 (20.30%), DDC hits 12,353 (67.35%), Duplicates 1,680 (9.16%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Tracking 12,938 distinct input hashes that result in 11,850 distinct outputs (91.59%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: RAM used: 158.28 MiB of 1.60 GiB budget. Usage: 9.66%
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Shaders Compiled: 585
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Jobs assigned 585, completed 585 (100%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Average time worker was idle: 63.26 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Time job spent in pending queue: average 3.62 s, longest 22.94 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Job execution time: average 5.46 s, max 20.86 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Job life time (pending + execution): average 9.08 s, max 29.60
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Shader code size: total 9.352 MiB, numShaders 608, average 15.75 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 66.88 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.32%
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Jobs were issued in 220 batches (only local compilation was used), average 2.66 jobs/batch
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Average processing rate: 8.75 jobs/sec
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Total thread time: 748.964 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Total thread preprocess time: 317.552 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Percentage time preprocessing: 42.40%
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Effective parallelization: 11.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.699964
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 5.93 sec, max 5.93 sec, min 5.93 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.82 sec, max 4.23 sec, min 3.42 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 3.57 sec, max 4.25 sec, min 2.93 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 3.44 sec, max 3.44 sec, min 3.44 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 3.42 sec, max 8.34 sec, min 1.19 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 38.08% of total time (compiled   80 times, average 3.57 sec, max 4.25 sec, min 2.93 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.02% of total time (compiled   48 times, average 0.94 sec, max 5.82 sec, min 0.33 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.16% of total time (compiled   21 times, average 1.84 sec, max 5.40 sec, min 0.74 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.03% of total time (compiled   11 times, average 3.42 sec, max 8.34 sec, min 1.19 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 4.08% of total time (compiled    8 times, average 3.82 sec, max 4.23 sec, min 3.42 sec)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: === Material stats ===
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Materials Translated:    143
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.16-14.49.14:142][573]LogShaderCompilers: Display: ================================================
+[2026.02.16-14.50.57:139][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.02.16-14.50.57:143][596]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.047
+[2026.02.16-14.50.57:143][596]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2] ([1] browsable assets)...
+[2026.02.16-14.50.57:143][596]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2]
+[2026.02.16-14.50.57:146][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Auto7
+[2026.02.16-14.50.57:146][596]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Auto7AFBE1E36414A579396DBF285635E475E.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Auto7.uasset'
+[2026.02.16-14.50.57:147][596]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2_Font] ([1] browsable assets)...
+[2026.02.16-14.50.57:147][596]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2_Font]
+[2026.02.16-14.50.57:150][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto7
+[2026.02.16-14.50.57:150][596]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Font_Auto7EC75F37C43370A57F94B60B794EA54DB.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto7.uasset'
+[2026.02.16-14.50.57:151][596]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.50.57:152][596]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.50.57:153][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.50.57:159][596]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Credits_Auto7
+[2026.02.16-14.50.57:159][596]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Credits_Auto70DF40A3243780A46F416EE95AC224FE6.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Credits_Auto7.uasset'
+[2026.02.16-14.50.57:160][596]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.02.16-14.52.52:340][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6527.875488
+[2026.02.16-14.52.53:340][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.52.53:340][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6528.542969, Update Interval: 343.862427
+[2026.02.16-14.55.18:035][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.02.16-14.55.19:836][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.55.19:880][ 21]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.55.19:884][ 21]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.55.19:884][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.55.19:898][ 21]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-14.55.19:898][ 21]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_CreditsFD88CE5B471BE56D54FC61B459AA5905.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-14.55.19:905][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.025 ms (total: 781.373 ms)
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: Enabled validators:
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.55.19:961][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.55.19:962][ 21]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-14.57.45:318][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.57.45:362][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.57.45:364][800]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.57.45:364][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.57.45:374][800]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-14.57.45:375][800]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_CreditsB3FE779E41BD5079C6E16DB3ABAD049B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-14.57.45:382][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.602 ms (total: 845.975 ms)
+[2026.02.16-14.57.45:428][800]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.57.45:428][800]LogContentValidation: Enabled validators:
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.57.45:428][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.57.45:429][800]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-14.57.45:983][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.02.16-14.57.48:082][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-14.57.48:089][ 75]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-14.57.48:089][ 75]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.16-14.57.48:090][ 75]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 930 us (total: 5.848 ms)
+[2026.02.16-14.57.48:090][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-14.57.48:112][ 75]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.57.48:118][ 75]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-14.57.48:118][ 75]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 959 us (total: 6.627 ms)
+[2026.02.16-14.57.48:119][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006373s)
+[2026.02.16-14.57.48:119][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006420s)
+[2026.02.16-14.57.48:144][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.02.16-14.57.48:147][ 75]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.16-14.57.48:149][ 75]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-14.57.48:149][ 75]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-14.57.48:149][ 75]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-14.57.48:149][ 75]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-14.57.48:151][ 75]LogWorldPartition: Display: WorldPartition initialize took 1.476 ms (total: 244.491 ms)
+[2026.02.16-14.57.48:151][ 75]LogPlayLevel: PIE: World Init took: (0.003483s)
+[2026.02.16-14.57.48:152][ 75]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-14.57.48:152][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-14.57.48:152][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-14.57.48:152][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-14.57.48:152][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-14.57.48:152][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-14.57.48:154][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-14.57.48:218][ 75]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.16-14.57.48:219][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-14.57.48:219][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-14.57.48:219][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-14.57.48:219][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.16-14.57.48:219][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.16-14.57.48:223][ 75]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.16-14.57.48:223][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.16-14.57.48:223][ 75]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.02.16-14.57.48:223][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.16-14.57.48:223][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.16-14.57.48:227][ 75]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.16-14.57.48:229][ 75]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.16-14.57.48
+[2026.02.16-14.57.48:229][ 75]LogWorld: Bringing up level for play took: 0.002151
+[2026.02.16-14.57.48:232][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.02.16-14.57.48:235][ 75]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.16-14.57.48:235][ 75]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.16-14.57.48:236][ 75]PIE: Server logged in
+[2026.02.16-14.57.48:238][ 75]PIE: Play in editor total start time 0.15 seconds.
+[2026.02.16-14.57.48:283][ 76]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-14.58.00:244][484]LogScript: Warning: Script Msg: The widget 'WBP_Credits_C_0' was already added to the screen.
+[2026.02.16-14.58.00:244][484]LogScript: Warning: Script Msg called by: WBP_Credits_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.WBP_TitleScreen_C_0.WidgetTree_0.WBP_Credits_C_0
+[2026.02.16-14.58.10:773][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.58.10:773][715]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.58.10:773][715]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-14.58.10:774][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.58.10:774][715]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-14.58.10:775][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-14.58.10:779][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.58.10:801][715]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.16-14.58.10:801][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.16-14.58.10:801][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.16-14.58.10:803][715]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.16-14.58.10:809][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.58.10:813][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.02.16-14.58.10:872][716]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.02.16-14.58.17:719][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.58.17:762][485]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.58.17:764][485]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.58.17:764][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.58.17:776][485]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-14.58.17:776][485]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_CreditsB81237E74897839BC8DBE28A6FF277C6.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-14.58.17:784][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.702 ms (total: 910.677 ms)
+[2026.02.16-14.58.17:846][485]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.58.17:846][485]LogContentValidation: Enabled validators:
+[2026.02.16-14.58.17:846][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.58.17:847][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.58.17:847][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.58.17:847][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.58.17:847][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.58.17:847][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.58.17:848][485]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-14.58.19:167][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.02.16-14.58.20:804][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-14.58.20:809][795]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-14.58.20:809][795]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.16-14.58.20:810][795]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 726 us (total: 6.574 ms)
+[2026.02.16-14.58.20:810][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-14.58.20:810][795]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.58.20:816][795]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-14.58.20:817][795]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 928 us (total: 7.556 ms)
+[2026.02.16-14.58.20:817][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005921s)
+[2026.02.16-14.58.20:817][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005952s)
+[2026.02.16-14.58.20:837][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.02.16-14.58.20:840][795]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.16-14.58.20:842][795]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-14.58.20:842][795]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-14.58.20:842][795]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-14.58.20:842][795]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-14.58.20:844][795]LogWorldPartition: Display: WorldPartition initialize took 1.410 ms (total: 245.901 ms)
+[2026.02.16-14.58.20:844][795]LogPlayLevel: PIE: World Init took: (0.003247s)
+[2026.02.16-14.58.20:844][795]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-14.58.20:844][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-14.58.20:844][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-14.58.20:844][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-14.58.20:844][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-14.58.20:844][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-14.58.20:847][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-14.58.20:911][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.16-14.58.20:911][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-14.58.20:911][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-14.58.20:911][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-14.58.20:911][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.16-14.58.20:911][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.16-14.58.20:914][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.16-14.58.20:914][795]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.16-14.58.20:914][795]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2026.02.16-14.58.20:914][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.16-14.58.20:914][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.16-14.58.20:918][795]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.16-14.58.20:921][795]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.16-14.58.20
+[2026.02.16-14.58.20:921][795]LogWorld: Bringing up level for play took: 0.002172
+[2026.02.16-14.58.20:923][795]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.02.16-14.58.20:927][795]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.16-14.58.20:927][795]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.16-14.58.20:928][795]PIE: Server logged in
+[2026.02.16-14.58.20:930][795]PIE: Play in editor total start time 0.12 seconds.
+[2026.02.16-14.58.20:981][796]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-14.58.29:994][858]Cmd: quit
+[2026.02.16-14.58.29:995][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.58.29:995][858]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-14.58.30:022][858]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-14.58.30:023][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.58.30:023][858]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-14.58.30:025][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-14.58.30:029][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-14.58.30:050][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.16-14.58.30:050][858]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.16-14.58.30:050][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.16-14.58.30:052][858]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.16-14.58.30:058][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-14.58.30:062][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2026.02.16-14.58.30:158][859]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.02.16-14.58.39:864][919]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.43:430][312]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.46:362][634]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.49:402][965]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.52:277][282]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.55:237][604]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.58.58:204][929]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.59.01:577][304]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.59.06:480][860]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-14.59.13:019][636]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6908.519531
+[2026.02.16-14.59.13:152][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-14.59.13:152][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6908.644531, Update Interval: 354.924164
+[2026.02.16-14.59.16:363][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.59.16:413][ 20]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-14.59.16:416][ 20]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-14.59.16:416][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-14.59.16:430][ 20]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-14.59.16:430][ 20]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Credits4A1E33B249BBF8816FE0D9A36A25D63B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-14.59.16:438][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.868 ms (total: 986.546 ms)
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: Enabled validators:
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.59.16:479][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.59.16:480][ 20]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-14.59.17:130][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.02.16-14.59.25:383][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-14.59.25:429][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen] ([2] browsable assets)...
+[2026.02.16-14.59.25:431][ 46]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_TitleScreen.WBP_TitleScreen]
+[2026.02.16-14.59.25:431][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen]
+[2026.02.16-14.59.25:444][ 46]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_TitleScreen
+[2026.02.16-14.59.25:444][ 46]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_TitleScreen2B8F05E1412A7299C0CF9A9CAF6C7537.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset'
+[2026.02.16-14.59.25:451][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.887 ms (total: 1.05 sec)
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: Enabled validators:
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-14.59.25:512][ 46]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-14.59.25:513][ 46]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_TitleScreen Validating asset
+[2026.02.16-15.00.13:734][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.00.13:782][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Credits] ([2] browsable assets)...
+[2026.02.16-15.00.13:785][885]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Credits.WBP_Credits]
+[2026.02.16-15.00.13:785][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Credits]
+[2026.02.16-15.00.13:797][885]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Credits
+[2026.02.16-15.00.13:798][885]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Credits41C087AD4E7C6CB9F4640984965D389A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Credits.uasset'
+[2026.02.16-15.00.13:805][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.855 ms (total: 1.12 sec)
+[2026.02.16-15.00.13:863][885]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-15.00.13:863][885]LogContentValidation: Enabled validators:
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.00.13:863][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.00.13:864][885]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Credits Validating asset
+[2026.02.16-15.00.14:726][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.02.16-15.02.23:526][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.02.23:564][892]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen] ([2] browsable assets)...
+[2026.02.16-15.02.23:566][892]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_TitleScreen.WBP_TitleScreen]
+[2026.02.16-15.02.23:567][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen]
+[2026.02.16-15.02.23:577][892]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_TitleScreen
+[2026.02.16-15.02.23:577][892]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_TitleScreen2670184546AE1B8037FF63AC754132E9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset'
+[2026.02.16-15.02.23:587][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.877 ms (total: 1.18 sec)
+[2026.02.16-15.02.23:629][892]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-15.02.23:629][892]LogContentValidation: Enabled validators:
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.02.23:629][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.02.23:630][892]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_TitleScreen Validating asset
+[2026.02.16-15.02.24:105][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.02.16-15.05.05:486][514]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-15.05.46:757][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7302.262695
+[2026.02.16-15.05.46:903][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.05.46:903][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7302.397461, Update Interval: 337.788635
+[2026.02.16-15.06.51:772][ 99]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/5.6/Engine/Source/Runtime/UMG/Public/Components/Image.h 
+[2026.02.16-15.06.51:989][ 99]LogWindows: Launch application code for C:/Program Files/Epic Games/5.6/Engine/Source/Runtime/UMG/Public/Components/Image.h : 42
+[2026.02.16-15.06.51:990][ 99]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2026.02.16-15.06.51:998][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.51:999][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:000][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:001][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:002][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:003][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:004][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:005][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:006][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:007][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:008][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:009][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:010][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:011][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:012][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:048][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:048][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:048][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:050][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:050][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:052][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:138][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:138][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:150][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:202][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:257][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:269][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:270][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:271][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:272][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:273][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:274][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:275][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:276][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:278][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:279][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:280][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:281][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:282][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:282][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:282][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:282][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:316][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:316][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:316][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:318][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:318][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:320][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:398][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:398][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:408][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:457][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.06.52:508][ 99]LogVSAccessor: Warning: Couldn't access module table
+[2026.02.16-15.10.33:169][213]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.16-15.10.33:176][213]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.16-15.10.33:185][213]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.16-15.10.33:196][214]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.16-15.10.40:795][ 47]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Options
+[2026.02.16-15.10.40:805][ 47]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.16-15.10.42:778][222]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Options.WBP_Options
+[2026.02.16-15.10.42:778][222]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.02.16-15.10.42:784][222]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.02.16-15.11.12:357][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.02.16-15.11.12:360][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.044
+[2026.02.16-15.11.12:360][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.02.16-15.11.12:362][614]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Options.WBP_Options]
+[2026.02.16-15.11.12:362][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Options]
+[2026.02.16-15.11.12:369][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Options_Auto8
+[2026.02.16-15.11.12:369][614]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Options_Auto80AE0344B42D31C1B83AFE49250225D06.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Options_Auto8.uasset'
+[2026.02.16-15.11.12:369][614]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.02.16-15.12.16:828][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7692.309570
+[2026.02.16-15.12.16:961][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.12.16:961][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7692.434082, Update Interval: 358.560730
+[2026.02.16-15.12.49:643][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.12.49:682][976]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.02.16-15.12.49:684][976]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Options.WBP_Options]
+[2026.02.16-15.12.49:684][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Options]
+[2026.02.16-15.12.49:691][976]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Options
+[2026.02.16-15.12.49:691][976]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Options6795BDA44E6A4E01EE9BB8836EEDD748.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Options.uasset'
+[2026.02.16-15.12.49:702][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.987 ms (total: 1.24 sec)
+[2026.02.16-15.12.49:751][976]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-15.12.49:751][976]LogContentValidation: Enabled validators:
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.12.49:751][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.12.49:752][976]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Options Validating asset
+[2026.02.16-15.12.49:770][976]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-15.12.50:852][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2026.02.16-15.13.16:247][877]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-15.13.30:635][555]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 610555
+[2026.02.16-15.13.30:635][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.13.30:642][556]LogSlate: Took 0.000892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.16-15.13.30:643][556]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.16-15.13.30:645][556]LogSlate: Took 0.000631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.16-15.13.30:646][556]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.16-15.13.30:651][556]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.16-15.16.08:893][166]LogEditorTransaction: Undo Edit Right
+[2026.02.16-15.16.11:569][429]LogEditorTransaction: Undo Edit Bottom
+[2026.02.16-15.19.15:430][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8110.882812
+[2026.02.16-15.19.16:430][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.19.16:430][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8111.548340, Update Interval: 313.059479
+[2026.02.16-15.21.12:915][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.02.16-15.21.12:917][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.049
+[2026.02.16-15.21.12:917][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2] ([1] browsable assets)...
+[2026.02.16-15.21.12:917][478]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2]
+[2026.02.16-15.21.12:925][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Auto9
+[2026.02.16-15.21.12:925][478]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Auto90AA82021479530C21A6F8E881A348087.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Auto9.uasset'
+[2026.02.16-15.21.12:925][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2_Font] ([1] browsable assets)...
+[2026.02.16-15.21.12:925][478]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2_Font]
+[2026.02.16-15.21.12:930][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto9
+[2026.02.16-15.21.12:930][478]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Font_Auto92F8CC2E24853A85490B780B566AB6ECA.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Engine/EngineFonts/HandWri2_Font_Auto9.uasset'
+[2026.02.16-15.21.12:931][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.02.16-15.21.12:943][478]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Options.WBP_Options]
+[2026.02.16-15.21.12:943][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Options]
+[2026.02.16-15.21.12:953][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Options_Auto9
+[2026.02.16-15.21.12:953][478]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Options_Auto98C61C640432456B9E91FF28EAC681F89.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Options_Auto9.uasset'
+[2026.02.16-15.21.12:953][478]LogFileHelpers: Auto-saving content packages took 0.036
+[2026.02.16-15.23.42:981][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.23.43:010][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Options] ([2] browsable assets)...
+[2026.02.16-15.23.43:012][236]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Options.WBP_Options]
+[2026.02.16-15.23.43:012][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Options]
+[2026.02.16-15.23.43:020][236]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Options
+[2026.02.16-15.23.43:021][236]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Options77ABCA444A0A606DDD5D6AB920BBA3ED.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Options.uasset'
+[2026.02.16-15.23.43:028][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.489 ms (total: 1.29 sec)
+[2026.02.16-15.23.43:094][236]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-15.23.43:094][236]LogContentValidation: Enabled validators:
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.23.43:094][236]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.23.43:095][236]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Options Validating asset
+[2026.02.16-15.23.50:696][100]LogSlate: Took 0.002345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.16-15.23.58:458][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2026.02.16-15.24.41:223][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.24.41:277][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen] ([2] browsable assets)...
+[2026.02.16-15.24.41:280][963]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_TitleScreen.WBP_TitleScreen]
+[2026.02.16-15.24.41:280][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_TitleScreen]
+[2026.02.16-15.24.41:292][963]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_TitleScreen
+[2026.02.16-15.24.41:292][963]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_TitleScreen558CDCE048C269DB513A9A8CAD45A0AA.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_TitleScreen.uasset'
+[2026.02.16-15.24.41:300][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.459 ms (total: 1.37 sec)
+[2026.02.16-15.24.41:344][963]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-15.24.41:344][963]LogContentValidation: Enabled validators:
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.24.41:344][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.24.41:344][963]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_TitleScreen Validating asset
+[2026.02.16-15.24.42:193][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.16-15.24.44:240][275]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.16-15.24.44:247][275]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.16-15.24.44:247][275]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.16-15.24.44:248][275]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.023 ms (total: 7.598 ms)
+[2026.02.16-15.24.44:248][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.16-15.24.44:285][275]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-15.24.44:291][275]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.16-15.24.44:292][275]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 954 us (total: 8.510 ms)
+[2026.02.16-15.24.44:292][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006410s)
+[2026.02.16-15.24.44:292][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006453s)
+[2026.02.16-15.24.44:313][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.16-15.24.44:317][275]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.16-15.24.44:318][275]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.16-15.24.44:318][275]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.16-15.24.44:318][275]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.16-15.24.44:319][275]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.16-15.24.44:320][275]LogWorldPartition: Display: WorldPartition initialize took 1.365 ms (total: 247.267 ms)
+[2026.02.16-15.24.44:320][275]LogPlayLevel: PIE: World Init took: (0.003288s)
+[2026.02.16-15.24.44:321][275]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.16-15.24.44:321][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.16-15.24.44:321][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.16-15.24.44:321][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.16-15.24.44:321][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.16-15.24.44:321][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.16-15.24.44:323][275]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.16-15.24.44:385][275]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.16-15.24.44:386][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.16-15.24.44:386][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.16-15.24.44:386][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.16-15.24.44:386][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.16-15.24.44:386][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.16-15.24.44:389][275]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.16-15.24.44:389][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.16-15.24.44:389][275]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2026.02.16-15.24.44:389][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.16-15.24.44:389][275]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.16-15.24.44:393][275]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.16-15.24.44:396][275]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.16-15.24.44
+[2026.02.16-15.24.44:396][275]LogWorld: Bringing up level for play took: 0.002209
+[2026.02.16-15.24.44:399][275]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.02.16-15.24.44:402][275]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.16-15.24.44:402][275]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.16-15.24.44:404][275]PIE: Server logged in
+[2026.02.16-15.24.44:406][275]PIE: Play in editor total start time 0.159 seconds.
+[2026.02.16-15.24.44:451][276]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.16-15.24.57:398][804]Cmd: quit
+[2026.02.16-15.24.57:399][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-15.24.57:399][804]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.16-15.24.57:425][804]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.24.57:426][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.24.57:426][804]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-15.24.57:428][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.16-15.24.57:433][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.24.57:454][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.16-15.24.57:455][804]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.16-15.24.57:455][804]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.16-15.24.57:457][804]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.16-15.24.57:463][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.16-15.24.57:467][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.02.16-15.24.57:558][805]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.02.16-15.25.05:720][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.02.16-15.25.05:725][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-15.25.05:779][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2] ([1] browsable assets)...
+[2026.02.16-15.25.05:779][697]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2]
+[2026.02.16-15.25.05:779][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineFonts/HandWri2" FILE="../../../Engine/Content/EngineFonts/HandWri2.uasset" SILENT=true
+[2026.02.16-15.25.05:818][697]LogSavePackage: Moving output files for package: /Engine/EngineFonts/HandWri2
+[2026.02.16-15.25.05:818][697]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri26433636246E24E259E400EA310D5B118.tmp' to '../../../Engine/Content/EngineFonts/HandWri2.uasset'
+[2026.02.16-15.25.05:821][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EngineFonts/HandWri2_Font] ([1] browsable assets)...
+[2026.02.16-15.25.05:821][697]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineFonts/HandWri2_Font]
+[2026.02.16-15.25.05:821][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineFonts/HandWri2_Font" FILE="../../../Engine/Content/EngineFonts/HandWri2_Font.uasset" SILENT=true
+[2026.02.16-15.25.05:824][697]LogSavePackage: Moving output files for package: /Engine/EngineFonts/HandWri2_Font
+[2026.02.16-15.25.05:824][697]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HandWri2_Font823BF7FF40308E04D638199FFBE0802E.tmp' to '../../../Engine/Content/EngineFonts/HandWri2_Font.uasset'
+[2026.02.16-15.25.05:832][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.167 ms (total: 1.47 sec)
+[2026.02.16-15.25.05:877][697]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.16-15.25.05:877][697]LogContentValidation: Enabled validators:
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-15.25.05:877][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-15.25.05:877][697]AssetCheck: /Engine/EngineFonts/HandWri2 Validating asset
+[2026.02.16-15.25.05:877][697]AssetCheck: /Engine/EngineFonts/HandWri2_Font Validating asset
+[2026.02.16-15.25.05:899][697]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-15.25.24:361][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8479.858398
+[2026.02.16-15.25.24:513][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.25.24:514][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8479.997070, Update Interval: 304.184082
+[2026.02.16-15.25.29:148][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2026.02.16-15.25.29:189][279]LogStall: Shutdown...
+[2026.02.16-15.25.29:189][279]LogStall: Shutdown complete.
+[2026.02.16-15.25.29:274][279]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:274][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:282][279]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:282][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:328][279]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:328][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:405][279]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:405][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:412][279]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:412][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:456][279]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:456][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:463][279]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.29:463][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.29:505][279]LogSlate: Window 'Plunder_Party - Unreal Editor' being destroyed
+[2026.02.16-15.25.29:985][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.02.16-15.25.30:014][279]Cmd: QUIT_EDITOR
+[2026.02.16-15.25.30:014][280]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.16-15.25.30:018][280]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.16-15.25.30:018][280]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.16-15.25.30:018][280]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.16-15.25.30:020][280]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.30:020][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.30:020][280]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.16-15.25.30:028][280]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.16-15.25.30:029][280]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.16-15.25.30:029][280]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.16-15.25.30:046][280]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.30:046][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.30:050][280]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.30:050][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.30:054][280]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.25.30:054][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.25.30:057][280]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.16-15.25.30:057][280]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.16-15.25.30:060][280]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.16-15.25.30:079][280]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.16-15.25.30:079][280]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.16-15.25.30:079][280]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.02.16-15.25.30:079][280]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.16-15.25.30:079][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.16-15.25.30:082][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.16-15.25.30:091][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.16-15.25.30:091][280]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.16-15.25.30:093][280]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.02.16-15.25.30:097][280]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.16-15.25.30:098][280]LogExit: Preparing to exit.
+[2026.02.16-15.25.30:148][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:154][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:155][280]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.16-15.25.30:547][280]LogEditorDataStorage: Deinitializing
+[2026.02.16-15.25.30:667][280]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.16-15.25.30:712][280]LogExit: Editor shut down
+[2026.02.16-15.25.30:721][280]LogExit: Transaction tracking system shut down
+[2026.02.16-15.25.31:020][280]LogExit: Object subsystem successfully closed.
+[2026.02.16-15.25.31:052][280]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.16-15.25.31:198][280]LogMemoryProfiler: Shutdown
+[2026.02.16-15.25.31:198][280]LogNetworkingProfiler: Shutdown
+[2026.02.16-15.25.31:198][280]LoadingProfiler: Shutdown
+[2026.02.16-15.25.31:198][280]LogTimingProfiler: Shutdown
+[2026.02.16-15.25.31:198][280]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.16-15.25.31:198][280]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.16-15.25.31:577][280]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.16-15.25.31:666][280]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.16-15.25.31:666][280]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF78BF6C6-4325-D381-72C9-D886364CC045%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e0efae1141ca44f803df4785a25deb60%7C%7Cb8fd0ed0-e6ac-4fa2-905e-43945a1e4675&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.16-15.25.32:231][280]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.16-15.25.32:231][280]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.16-15.25.32:231][280]RenderDocPlugin: plugin has been unloaded.
+[2026.02.16-15.25.32:234][280]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.16-15.25.32:234][280]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.16-15.25.32:234][280]LogPakFile: Destroying PakPlatformFile
+[2026.02.16-15.25.32:698][280]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.16-15.25.32:778][280]LogExit: Exiting.
+[2026.02.16-15.25.32:801][280]Log file closed, 02/16/26 15:25:32
