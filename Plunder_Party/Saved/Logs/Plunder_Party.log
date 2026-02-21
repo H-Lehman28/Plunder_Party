@@ -5623,3 +5623,561 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.21-13.48.03:925][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.21-13.48.03:926][523]AssetCheck: /Game/Levels/Peg_Leg Validating asset
 [2026.02.21-13.48.03:959][523]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-13.50.06:554][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9822.609375
+[2026.02.21-13.50.07:558][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-13.50.07:558][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9823.276367, Update Interval: 301.305573
+[2026.02.21-13.52.46:921][783]LogSlate: Took 0.000679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.21-13.55.43:262][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10159.702148
+[2026.02.21-13.55.43:421][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-13.55.43:421][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10159.854492, Update Interval: 315.238495
+[2026.02.21-13.58.26:073][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-13.58.26:110][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-13.58.26:244][921]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-13.58.26:244][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-13.58.26:261][921]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-13.58.26:261][921]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter32B50D414E653AC92FA066BCCB217EE5.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-13.58.26:272][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.573 ms (total: 4.44 sec)
+[2026.02.21-13.58.26:309][921]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-13.58.26:309][921]LogContentValidation: Enabled validators:
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-13.58.26:309][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-13.58.26:309][921]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-13.58.26:868][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2026.02.21-14.01.50:985][414]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10528.112305
+[2026.02.21-14.01.51:134][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.01.51:134][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10528.250977, Update Interval: 355.070648
+[2026.02.21-14.03.57:456][468]LogPSOHitching: Encountered 2250 PSO creation hitches so far (785 graphics, 1465 compute). 0 of them were precached.
+[2026.02.21-14.05.24:070][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-14.05.24:109][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-14.05.24:182][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-14.05.24:182][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-14.05.24:197][684]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-14.05.24:197][684]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter18F6B5BA4D9617D810E72E8E9DD52040.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-14.05.24:207][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.326 ms (total: 4.57 sec)
+[2026.02.21-14.05.24:242][684]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-14.05.24:242][684]LogContentValidation: Enabled validators:
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-14.05.24:242][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-14.05.24:243][684]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-14.05.24:819][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.02.21-14.05.30:033][319]LogPSOHitching: Encountered 2300 PSO creation hitches so far (803 graphics, 1497 compute). 0 of them were precached.
+[2026.02.21-14.05.30:213][319]LogPSOHitching: Encountered 2350 PSO creation hitches so far (804 graphics, 1546 compute). 0 of them were precached.
+[2026.02.21-14.05.30:483][320]LogPSOHitching: Encountered 2400 PSO creation hitches so far (816 graphics, 1584 compute). 0 of them were precached.
+[2026.02.21-14.05.31:279][368]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-14.05.31:287][368]LogContentBundle: [Peg_Leg(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-14.05.31:287][368]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' started...
+[2026.02.21-14.05.31:287][368]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' took 691 us (total: 150.006 ms)
+[2026.02.21-14.05.31:287][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-14.05.31:310][368]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.05.31:315][368]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-14.05.31:315][368]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 711 us (total: 23.627 ms)
+[2026.02.21-14.05.31:315][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005007s)
+[2026.02.21-14.05.31:315][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Peg_Leg.Peg_Leg to /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg (0.005043s)
+[2026.02.21-14.05.31:336][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.02.21-14.05.31:342][368]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-14.05.31:344][368]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-14.05.31:344][368]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-14.05.31:344][368]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-14.05.31:344][368]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-14.05.31:345][368]LogWorldPartition: Display: WorldPartition initialize took 1.214 ms (total: 489.135 ms)
+[2026.02.21-14.05.31:345][368]LogPlayLevel: PIE: World Init took: (0.003207s)
+[2026.02.21-14.05.31:346][368]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-14.05.31:346][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-14.05.31:346][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-14.05.31:346][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-14.05.31:346][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-14.05.31:346][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-14.05.31:347][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-14.05.31:411][368]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-14.05.31:412][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-14.05.31:412][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-14.05.31:412][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-14.05.31:413][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.02.21-14.05.31:413][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.02.21-14.05.31:414][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.02.21-14.05.31:414][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.02.21-14.05.31:414][368]LogInit: FAudioDevice initialized with ID 34.
+[2026.02.21-14.05.31:414][368]LogAudio: Display: Audio Device (ID: 34) registered with world 'Peg_Leg'.
+[2026.02.21-14.05.31:415][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.21-14.05.31:419][368]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-14.05.31:420][368]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg up for play (max tick rate 0) at 2026.02.21-14.05.31
+[2026.02.21-14.05.31:421][368]LogWorld: Bringing up level for play took: 0.001593
+[2026.02.21-14.05.31:422][368]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.02.21-14.05.31:426][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.05.31:427][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.05.31:430][368]PIE: Server logged in
+[2026.02.21-14.05.31:432][368]PIE: Play in editor total start time 0.146 seconds.
+[2026.02.21-14.05.31:480][369]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-14.05.33:161][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.05.33:161][545]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.05.33:161][545]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-14.05.33:161][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.05.33:162][545]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg
+[2026.02.21-14.05.33:166][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-14.05.33:170][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.05.33:191][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.05.33:191][545]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.21-14.05.33:191][545]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.02.21-14.05.33:193][545]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.02.21-14.05.33:200][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.21-14.05.33:317][546]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.02.21-14.05.35:104][702]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.05.35:129][702]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.07.11:300][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-14.07.11:360][ 43]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-14.07.11:425][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-14.07.11:425][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-14.07.11:440][ 43]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-14.07.11:441][ 43]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter7702390D4F674408B31291BEE2D9B4B6.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-14.07.11:450][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.408 ms (total: 4.72 sec)
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: Enabled validators:
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-14.07.11:493][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-14.07.11:493][ 43]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-14.07.12:616][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.02.21-14.07.19:575][956]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-14.07.19:581][956]LogContentBundle: [Peg_Leg(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-14.07.19:581][956]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' started...
+[2026.02.21-14.07.19:582][956]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' took 630 us (total: 150.636 ms)
+[2026.02.21-14.07.19:582][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-14.07.19:582][956]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.07.19:587][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-14.07.19:587][956]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 729 us (total: 24.357 ms)
+[2026.02.21-14.07.19:588][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005267s)
+[2026.02.21-14.07.19:588][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Peg_Leg.Peg_Leg to /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg (0.005299s)
+[2026.02.21-14.07.19:614][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.02.21-14.07.19:619][956]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-14.07.19:621][956]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-14.07.19:621][956]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-14.07.19:621][956]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-14.07.19:621][956]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-14.07.19:622][956]LogWorldPartition: Display: WorldPartition initialize took 1.211 ms (total: 490.347 ms)
+[2026.02.21-14.07.19:622][956]LogPlayLevel: PIE: World Init took: (0.003106s)
+[2026.02.21-14.07.19:623][956]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-14.07.19:623][956]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-14.07.19:623][956]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-14.07.19:623][956]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-14.07.19:623][956]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-14.07.19:623][956]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-14.07.19:625][956]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-14.07.19:689][956]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-14.07.19:689][956]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-14.07.19:689][956]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-14.07.19:689][956]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-14.07.19:690][956]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.02.21-14.07.19:690][956]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.02.21-14.07.19:692][956]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.02.21-14.07.19:692][956]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.02.21-14.07.19:692][956]LogInit: FAudioDevice initialized with ID 35.
+[2026.02.21-14.07.19:692][956]LogAudio: Display: Audio Device (ID: 35) registered with world 'Peg_Leg'.
+[2026.02.21-14.07.19:692][956]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.02.21-14.07.19:696][956]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-14.07.19:697][956]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg up for play (max tick rate 0) at 2026.02.21-14.07.19
+[2026.02.21-14.07.19:697][956]LogWorld: Bringing up level for play took: 0.001564
+[2026.02.21-14.07.19:699][956]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.02.21-14.07.19:703][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.07.19:703][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.07.19:706][956]PIE: Server logged in
+[2026.02.21-14.07.19:709][956]PIE: Play in editor total start time 0.128 seconds.
+[2026.02.21-14.07.19:755][957]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-14.07.32:539][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.07.32:539][453]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.07.32:539][453]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-14.07.32:540][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.07.32:540][453]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg
+[2026.02.21-14.07.32:545][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-14.07.32:550][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.07.32:569][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-14.07.32:569][453]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.02.21-14.07.32:569][453]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.02.21-14.07.32:571][453]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.02.21-14.07.32:575][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.07.32:579][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.02.21-14.07.32:717][454]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.02.21-14.07.34:552][627]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.07.34:571][627]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.07.34:686][640]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.21-14.08.25:944][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10923.280273
+[2026.02.21-14.08.26:103][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.08.26:103][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10923.432617, Update Interval: 307.718140
+[2026.02.21-14.08.28:018][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-14.08.28:059][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-14.08.28:123][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-14.08.28:123][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-14.08.28:139][928]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-14.08.28:140][928]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacterABC90D854BB5BA63DE17F6858D7A7102.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-14.08.28:148][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.618 ms (total: 4.85 sec)
+[2026.02.21-14.08.28:209][928]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-14.08.28:209][928]LogContentValidation: Enabled validators:
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-14.08.28:209][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-14.08.28:209][928]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-14.08.28:892][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.21-14.08.30:648][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-14.08.30:655][191]LogContentBundle: [Peg_Leg(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-14.08.30:655][191]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' started...
+[2026.02.21-14.08.30:656][191]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' took 635 us (total: 151.271 ms)
+[2026.02.21-14.08.30:656][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-14.08.30:679][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.08.30:683][191]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-14.08.30:683][191]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 683 us (total: 25.040 ms)
+[2026.02.21-14.08.30:684][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004780s)
+[2026.02.21-14.08.30:684][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Peg_Leg.Peg_Leg to /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg (0.004821s)
+[2026.02.21-14.08.30:708][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.21-14.08.30:712][191]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-14.08.30:714][191]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-14.08.30:714][191]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-14.08.30:714][191]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-14.08.30:714][191]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-14.08.30:715][191]LogWorldPartition: Display: WorldPartition initialize took 1.206 ms (total: 491.553 ms)
+[2026.02.21-14.08.30:715][191]LogPlayLevel: PIE: World Init took: (0.002979s)
+[2026.02.21-14.08.30:716][191]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-14.08.30:716][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-14.08.30:716][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-14.08.30:716][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-14.08.30:716][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-14.08.30:716][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-14.08.30:718][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-14.08.30:780][191]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-14.08.30:780][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-14.08.30:780][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-14.08.30:780][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-14.08.30:781][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.02.21-14.08.30:781][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.02.21-14.08.30:783][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.02.21-14.08.30:783][191]LogInit: FAudioDevice initialized with ID 36.
+[2026.02.21-14.08.30:783][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.02.21-14.08.30:783][191]LogAudio: Display: Audio Device (ID: 36) registered with world 'Peg_Leg'.
+[2026.02.21-14.08.30:783][191]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.02.21-14.08.30:787][191]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-14.08.30:788][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg up for play (max tick rate 0) at 2026.02.21-14.08.30
+[2026.02.21-14.08.30:788][191]LogWorld: Bringing up level for play took: 0.001701
+[2026.02.21-14.08.30:790][191]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.02.21-14.08.30:794][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.08.30:794][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-14.08.30:798][191]PIE: Server logged in
+[2026.02.21-14.08.30:800][191]PIE: Play in editor total start time 0.144 seconds.
+[2026.02.21-14.08.30:843][192]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-14.08.43:308][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.08.43:308][657]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-14.08.43:308][657]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-14.08.43:310][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.08.43:310][657]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg
+[2026.02.21-14.08.43:315][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-14.08.43:320][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-14.08.43:340][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-14.08.43:340][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.02.21-14.08.43:340][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.02.21-14.08.43:342][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.02.21-14.08.43:347][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-14.08.43:351][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.02.21-14.08.43:469][658]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.02.21-14.08.46:593][971]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.08.46:605][971]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-14.14.25:353][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11283.047852
+[2026.02.21-14.14.26:354][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.14.26:354][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11283.713867, Update Interval: 332.764069
+[2026.02.21-14.20.52:779][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11670.455078
+[2026.02.21-14.20.53:778][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.20.53:778][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11671.122070, Update Interval: 340.789825
+[2026.02.21-14.27.05:530][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12043.192383
+[2026.02.21-14.27.06:530][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.27.06:530][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12043.859375, Update Interval: 334.743500
+[2026.02.21-14.33.27:625][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12425.298828
+[2026.02.21-14.33.28:625][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.33.28:625][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12425.964844, Update Interval: 307.328094
+[2026.02.21-14.36.45:815][409]LogPSOHitching: Encountered 2450 PSO creation hitches so far (834 graphics, 1616 compute). 0 of them were precached.
+[2026.02.21-14.37.54:092][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.02.21-14.37.56:471][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.02.21-14.37.56:475][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Peg_Leg' took 0.026
+[2026.02.21-14.37.56:475][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-14.37.56:526][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-14.37.56:526][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-14.37.56:542][643]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2026.02.21-14.37.56:543][643]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter_Auto96A98687349EC00EEF38050919CCFE8FF.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2026.02.21-14.37.56:543][643]LogFileHelpers: Auto-saving content packages took 0.069
+[2026.02.21-14.39.29:512][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12787.312500
+[2026.02.21-14.39.30:515][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.39.30:515][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12787.979492, Update Interval: 347.024750
+[2026.02.21-14.45.55:853][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13173.894531
+[2026.02.21-14.45.56:852][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.45.56:852][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13174.560547, Update Interval: 312.374634
+[2026.02.21-14.49.56:262][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-14.49.56:313][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-14.49.56:314][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-14.49.56:330][812]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-14.49.56:330][812]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter06412ED74E36EEF2388A2C8025615317.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-14.49.56:338][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.317 ms (total: 4.93 sec)
+[2026.02.21-14.49.56:399][812]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-14.49.56:399][812]LogContentValidation: Enabled validators:
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-14.49.56:399][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-14.49.56:399][812]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-14.51.59:467][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13538.243164
+[2026.02.21-14.51.59:619][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.51.59:619][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13538.384766, Update Interval: 345.484802
+[2026.02.21-14.58.38:761][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13937.860352
+[2026.02.21-14.58.39:761][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-14.58.39:761][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13938.526367, Update Interval: 317.020172
+[2026.02.21-15.04.27:164][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14286.261719
+[2026.02.21-15.04.28:164][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.04.28:164][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14286.928711, Update Interval: 323.608521
+[2026.02.21-15.07.34:686][236]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.21-15.08.23:389][387]LogPSOHitching: Encountered 2500 PSO creation hitches so far (862 graphics, 1638 compute). 0 of them were precached.
+[2026.02.21-15.08.46:127][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.08.46:184][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_PegLegTimer] ([2] browsable assets)...
+[2026.02.21-15.08.46:184][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_PegLegTimer]
+[2026.02.21-15.08.46:194][  7]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_PegLegTimer
+[2026.02.21-15.08.46:194][  7]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_PegLegTimer4FDA429F475EE9C42457448A53DF67A3.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_PegLegTimer.uasset'
+[2026.02.21-15.08.46:201][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.444 ms (total: 5.00 sec)
+[2026.02.21-15.08.46:232][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.08.46:232][  7]LogContentValidation: Enabled validators:
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.08.46:232][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.08.46:233][  7]AssetCheck: /Game/ThirdPerson/Blueprints/BP_PegLegTimer Validating asset
+[2026.02.21-15.08.49:652][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.02.21-15.10.46:004][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14665.291992
+[2026.02.21-15.10.47:004][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.10.47:004][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14665.958008, Update Interval: 355.486328
+[2026.02.21-15.11.20:017][536]LogSlate: Took 0.000530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.21-15.14.05:866][743]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set Peg Leg  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.21-15.14.05:866][743]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set Peg Leg  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.02.21-15.14.05:918][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.02.21-15.14.18:135][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.21-15.14.22:097][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.14.22:151][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-15.14.22:297][598]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-15.14.22:297][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-15.14.22:315][598]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-15.14.22:316][598]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter7FEA669A4C007D9AE81454AE436A5A00.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-15.14.22:325][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.329 ms (total: 5.23 sec)
+[2026.02.21-15.14.22:384][598]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.14.22:384][598]LogContentValidation: Enabled validators:
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.14.22:384][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.14.22:384][598]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-15.14.26:703][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.14.26:711][ 96]LogContentBundle: [Peg_Leg(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.14.26:711][ 96]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' started...
+[2026.02.21-15.14.26:711][ 96]LogWorldPartition: Display: GenerateStreaming for 'Peg_Leg' took 753 us (total: 152.024 ms)
+[2026.02.21-15.14.26:712][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.14.26:712][ 96]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-15.14.26:717][ 96]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.14.26:717][ 96]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 760 us (total: 25.801 ms)
+[2026.02.21-15.14.26:718][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005509s)
+[2026.02.21-15.14.26:718][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Peg_Leg.Peg_Leg to /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg (0.005552s)
+[2026.02.21-15.14.26:742][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.02.21-15.14.26:746][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-15.14.26:748][ 96]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.14.26:748][ 96]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.14.26:748][ 96]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.14.26:748][ 96]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.14.26:749][ 96]LogWorldPartition: Display: WorldPartition initialize took 1.211 ms (total: 492.765 ms)
+[2026.02.21-15.14.26:750][ 96]LogPlayLevel: PIE: World Init took: (0.003245s)
+[2026.02.21-15.14.26:750][ 96]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.14.26:750][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.14.26:751][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.14.26:751][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.14.26:751][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.14.26:751][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.14.26:751][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.14.26:754][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.14.26:819][ 96]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.14.26:820][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.14.26:820][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.14.26:820][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.14.26:821][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.02.21-15.14.26:821][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.02.21-15.14.26:822][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.02.21-15.14.26:822][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.02.21-15.14.26:822][ 96]LogInit: FAudioDevice initialized with ID 37.
+[2026.02.21-15.14.26:822][ 96]LogAudio: Display: Audio Device (ID: 37) registered with world 'Peg_Leg'.
+[2026.02.21-15.14.26:822][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.02.21-15.14.26:831][ 96]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.14.26:833][ 96]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg up for play (max tick rate 0) at 2026.02.21-15.14.26
+[2026.02.21-15.14.26:833][ 96]LogWorld: Bringing up level for play took: 0.001638
+[2026.02.21-15.14.26:835][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.02.21-15.14.26:839][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.14.26:839][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.14.26:842][ 96]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.26:843][ 96]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.26:843][ 96]PIE: Server logged in
+[2026.02.21-15.14.26:845][ 96]PIE: Play in editor total start time 0.134 seconds.
+[2026.02.21-15.14.26:889][ 97]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.14.36:577][220]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.36:577][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.36:577][220]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.36:577][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.36:577][220]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.36:577][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.36:577][220]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.36:577][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.39:272][538]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.39:272][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.39:272][538]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.39:272][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.39:280][539]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.39:280][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.39:280][539]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.39:280][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.41:179][763]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.41:179][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.41:179][763]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.41:179][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.41:188][764]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.41:188][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.41:188][764]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.41:188][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.45:042][219]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.45:042][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.45:042][219]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.45:043][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.45:043][219]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.45:043][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.45:043][219]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.45:043][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.49:125][701]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.49:125][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.49:125][701]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.49:125][701]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.49:134][702]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_1
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.49:134][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.49:134][702]LogScript: Warning: Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0020
+[2026.02.21-15.14.49:134][702]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property ControllerReference in BP_ThirdPersonCharacter_C". Node:  Cast To BP_ThirdPersonCharacter Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.21-15.14.55:393][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.14.55:394][438]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Peg_Leg
+[2026.02.21-15.14.55:394][438]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.14.55:394][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.14.55:394][438]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Peg_Leg.Peg_Leg
+[2026.02.21-15.14.55:399][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.14.55:404][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.14.55:423][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.14.55:423][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.02.21-15.14.55:424][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.02.21-15.14.55:426][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.02.21-15.14.55:432][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.14.55:436][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.02.21-15.14.55:625][439]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.02.21-15.15.01:482][ 72]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.15.01:497][ 72]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.15.12:969][144]LogSlate: Window 'Delete Variable' being destroyed
+[2026.02.21-15.15.19:299][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.15.19:335][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.21-15.15.19:413][891]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.21-15.15.19:413][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.21-15.15.19:428][891]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.21-15.15.19:428][891]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter5E1C0C3549423EB1C029D7B367B0D287.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.21-15.15.19:439][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.256 ms (total: 5.37 sec)
+[2026.02.21-15.15.19:508][891]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.15.19:508][891]LogContentValidation: Enabled validators:
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.15.19:508][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.15.19:508][891]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.21-15.15.20:009][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.21-15.16.11:031][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
