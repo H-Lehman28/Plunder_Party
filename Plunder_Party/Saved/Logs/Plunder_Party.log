@@ -6181,3 +6181,1448 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.21-15.15.19:508][891]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
 [2026.02.21-15.15.20:009][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
 [2026.02.21-15.16.11:031][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.02.21-15.17.20:539][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15060.051758
+[2026.02.21-15.17.21:538][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.17.21:538][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15060.718750, Update Interval: 304.522858
+[2026.02.21-15.22.59:327][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15398.831055
+[2026.02.21-15.23.00:324][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.23.00:325][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15399.496094, Update Interval: 344.071167
+[2026.02.21-15.23.19:325][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.23.19:459][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2026.02.21-15.23.19:484][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.21-15.23.19:508][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.21-15.23.19:542][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.692 ms (total: 5.59 sec)
+[2026.02.21-15.23.25:364][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.02.21-15.23.25:366][944]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Splat_a_Rat.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.21-15.23.25:419][944]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.23.25:419][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.23.25:464][944]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.23.25:464][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.23.25:464][944]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.23.25:495][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.23.25:502][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.02.21-15.23.25:507][944]LogStreaming: Display: FlushAsyncLoading(922): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.23.25:527][944]LogAudio: Display: Audio Device (ID: 1) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.23.25:528][944]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.23.25:531][944]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.23.25:531][944]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.23.25:531][944]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.23.25:562][944]LogWorldPartition: Display: WorldPartition initialize took 31.251 ms (total: 524.017 ms)
+[2026.02.21-15.23.25:578][944]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.21-15.23.25:602][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.21-15.23.25:611][944]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.21-15.23.25:611][944]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.51ms to complete.
+[2026.02.21-15.23.25:612][944]LogSlate: Window 'Open Level' being destroyed
+[2026.02.21-15.23.25:675][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.21-15.23.25:743][946]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.23.25:772][946]LogPSOHitching: Encountered 2550 PSO creation hitches so far (882 graphics, 1668 compute). 0 of them were precached.
+[2026.02.21-15.23.28:640][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.23.28:647][252]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.23.28:647][252]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.23.28:648][252]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 568 us (total: 152.593 ms)
+[2026.02.21-15.23.28:648][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.23.28:699][252]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.23.28:699][252]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.23.28:699][252]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 686 us (total: 26.487 ms)
+[2026.02.21-15.23.28:699][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004573s)
+[2026.02.21-15.23.28:699][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004604s)
+[2026.02.21-15.23.28:715][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.02.21-15.23.28:717][252]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.23.28:719][252]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.23.28:719][252]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.23.28:719][252]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.23.28:719][252]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.23.28:720][252]LogWorldPartition: Display: WorldPartition initialize took 1.151 ms (total: 525.168 ms)
+[2026.02.21-15.23.28:720][252]LogPlayLevel: PIE: World Init took: (0.003013s)
+[2026.02.21-15.23.28:720][252]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.23.28:721][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.23.28:721][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.23.28:721][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.23.28:721][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.23.28:721][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.23.28:723][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.23.28:785][252]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.23.28:785][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.23.28:785][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.23.28:785][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.23.28:786][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.02.21-15.23.28:786][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.02.21-15.23.28:787][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.02.21-15.23.28:787][252]LogInit: FAudioDevice initialized with ID 38.
+[2026.02.21-15.23.28:787][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.02.21-15.23.28:787][252]LogAudio: Display: Audio Device (ID: 38) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.23.28:788][252]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.02.21-15.23.28:792][252]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.23.28:794][252]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.23.28
+[2026.02.21-15.23.28:794][252]LogWorld: Bringing up level for play took: 0.001512
+[2026.02.21-15.23.28:796][252]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.02.21-15.23.28:800][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.23.28:800][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.23.28:803][252]PIE: Server logged in
+[2026.02.21-15.23.28:805][252]PIE: Play in editor total start time 0.158 seconds.
+[2026.02.21-15.23.28:851][253]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.23.31:710][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.23.31:710][567]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.23.31:711][567]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.23.31:711][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.23.31:711][567]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.23.31:712][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.23.31:718][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.23.31:738][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.23.31:739][567]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.02.21-15.23.31:739][567]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.02.21-15.23.31:742][567]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.02.21-15.23.31:750][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.02.21-15.23.31:892][568]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.02.21-15.23.34:404][822]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.23.34:414][822]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.23.35:527][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.23.35:534][950]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.23.35:534][950]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.23.35:534][950]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 597 us (total: 153.191 ms)
+[2026.02.21-15.23.35:534][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.23.35:535][950]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.23.35:540][950]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.23.35:540][950]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 762 us (total: 27.249 ms)
+[2026.02.21-15.23.35:540][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005239s)
+[2026.02.21-15.23.35:540][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005271s)
+[2026.02.21-15.23.35:572][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.02.21-15.23.35:574][950]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.23.35:576][950]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.23.35:576][950]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.23.35:576][950]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.23.35:576][950]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.23.35:578][950]LogWorldPartition: Display: WorldPartition initialize took 1.215 ms (total: 526.384 ms)
+[2026.02.21-15.23.35:578][950]LogPlayLevel: PIE: World Init took: (0.003091s)
+[2026.02.21-15.23.35:579][950]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.23.35:579][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.23.35:579][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.23.35:579][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.23.35:579][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.23.35:579][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.23.35:581][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.23.35:651][950]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.23.35:651][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.23.35:651][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.23.35:651][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.23.35:652][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2026.02.21-15.23.35:652][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2026.02.21-15.23.35:654][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.02.21-15.23.35:654][950]LogInit: FAudioDevice initialized with ID 39.
+[2026.02.21-15.23.35:654][950]LogAudio: Display: Audio Device (ID: 39) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.23.35:654][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2026.02.21-15.23.35:654][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.02.21-15.23.35:657][950]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.23.35:659][950]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.23.35
+[2026.02.21-15.23.35:659][950]LogWorld: Bringing up level for play took: 0.001661
+[2026.02.21-15.23.35:662][950]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.02.21-15.23.35:666][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.23.35:666][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.23.35:669][950]PIE: Server logged in
+[2026.02.21-15.23.35:671][950]PIE: Play in editor total start time 0.137 seconds.
+[2026.02.21-15.23.35:716][951]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.24.11:770][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.24.11:770][193]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.24.11:771][193]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.24.11:771][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.24.11:771][193]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.24.11:773][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.24.11:779][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.24.11:800][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.24.11:801][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.02.21-15.24.11:801][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=4
+[2026.02.21-15.24.11:804][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39, StreamState=2
+[2026.02.21-15.24.11:814][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.02.21-15.24.11:964][194]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.02.21-15.24.14:003][397]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.24.14:011][397]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.24.38:878][170]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel
+[2026.02.21-15.24.38:879][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.21-15.25.09:329][619]LogPSOHitching: Encountered 2600 PSO creation hitches so far (903 graphics, 1697 compute). 0 of them were precached.
+[2026.02.21-15.28.10:511][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.28.10:555][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.28.10:608][657]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.28.10:608][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.28.10:617][657]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.28.10:617][657]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Barrel1706A59D44F2A7CB14249892FD48D911.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.28.10:625][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.857 ms (total: 5.70 sec)
+[2026.02.21-15.28.10:685][657]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.28.10:685][657]LogContentValidation: Enabled validators:
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.28.10:685][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.28.10:685][657]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.28.11:794][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.02.21-15.28.12:790][846]LogPSOHitching: Encountered 2650 PSO creation hitches so far (924 graphics, 1726 compute). 0 of them were precached.
+[2026.02.21-15.28.12:975][846]LogPSOHitching: Encountered 2700 PSO creation hitches so far (934 graphics, 1766 compute). 0 of them were precached.
+[2026.02.21-15.28.13:136][846]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.21-15.28.13:223][846]LogPSOHitching: Encountered 2750 PSO creation hitches so far (936 graphics, 1814 compute). 0 of them were precached.
+[2026.02.21-15.28.13:432][847]LogPSOHitching: Encountered 2800 PSO creation hitches so far (959 graphics, 1841 compute). 0 of them were precached.
+[2026.02.21-15.28.14:203][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.28.14:211][916]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.28.14:211][916]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.28.14:211][916]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 546 us (total: 153.738 ms)
+[2026.02.21-15.28.14:212][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.28.14:248][916]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.28.14:252][916]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.28.14:252][916]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 697 us (total: 27.947 ms)
+[2026.02.21-15.28.14:253][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004785s)
+[2026.02.21-15.28.14:253][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004825s)
+[2026.02.21-15.28.14:273][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.02.21-15.28.14:275][916]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.28.14:278][916]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.28.14:278][916]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.28.14:278][916]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.28.14:278][916]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.28.14:279][916]LogWorldPartition: Display: WorldPartition initialize took 1.065 ms (total: 527.449 ms)
+[2026.02.21-15.28.14:279][916]LogPlayLevel: PIE: World Init took: (0.002919s)
+[2026.02.21-15.28.14:280][916]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.28.14:280][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.28.14:280][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.28.14:280][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.28.14:280][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.28.14:280][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.28.14:283][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.28.14:343][916]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.28.14:343][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.28.14:343][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.28.14:343][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.28.14:344][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2026.02.21-15.28.14:344][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2026.02.21-15.28.14:346][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2026.02.21-15.28.14:346][916]LogInit: FAudioDevice initialized with ID 40.
+[2026.02.21-15.28.14:346][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2026.02.21-15.28.14:346][916]LogAudio: Display: Audio Device (ID: 40) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.28.14:346][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2026.02.21-15.28.14:350][916]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.28.14:351][916]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.28.14
+[2026.02.21-15.28.14:351][916]LogWorld: Bringing up level for play took: 0.001474
+[2026.02.21-15.28.14:354][916]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.02.21-15.28.14:357][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.28.14:358][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.28.14:361][916]PIE: Server logged in
+[2026.02.21-15.28.14:362][916]PIE: Play in editor total start time 0.152 seconds.
+[2026.02.21-15.28.14:408][917]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.28.15:555][ 34]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931189246] Rat
+[2026.02.21-15.28.15:555][ 34]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945416248] Rat
+[2026.02.21-15.28.15:758][ 58]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950707254] Rat
+[2026.02.21-15.28.15:927][ 78]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945419250] Rat
+[2026.02.21-15.28.16:538][150]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950705253] Rat
+[2026.02.21-15.28.17:012][206]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1325809239] Rat
+[2026.02.21-15.28.17:232][232]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945414247] Rat
+[2026.02.21-15.28.17:257][235]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1838665241] Rat
+[2026.02.21-15.28.17:281][238]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1804028240] Rat
+[2026.02.21-15.28.17:579][273]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950701251] Rat
+[2026.02.21-15.28.17:714][289]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950704252] Rat
+[2026.02.21-15.28.17:724][290]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931188245] Rat
+[2026.02.21-15.28.17:908][312]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950707254] Rat
+[2026.02.21-15.28.17:994][322]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945419250] Rat
+[2026.02.21-15.28.18:165][342]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945418249] Rat
+[2026.02.21-15.28.18:360][365]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931187244] Rat
+[2026.02.21-15.28.18:530][385]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1858701242] Rat
+[2026.02.21-15.28.18:580][391]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931189246] Rat
+[2026.02.21-15.28.18:598][393]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931183243] Rat
+[2026.02.21-15.28.19:279][473]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1804028240] Rat
+[2026.02.21-15.28.19:587][509]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1325809239] Rat
+[2026.02.21-15.28.19:621][513]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931183243] Rat
+[2026.02.21-15.28.19:647][516]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950707254] Rat
+[2026.02.21-15.28.19:913][546]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950705253] Rat
+[2026.02.21-15.28.20:305][590]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945418249] Rat
+[2026.02.21-15.28.20:305][590]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945416248] Rat
+[2026.02.21-15.28.20:366][597]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1858701242] Rat
+[2026.02.21-15.28.20:375][598]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945414247] Rat
+[2026.02.21-15.28.20:758][643]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1838665241] Rat
+[2026.02.21-15.28.20:849][654]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931188245] Rat
+[2026.02.21-15.28.20:867][656]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950701251] Rat
+[2026.02.21-15.28.21:182][693]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931187244] Rat
+[2026.02.21-15.28.21:273][704]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950704252] Rat
+[2026.02.21-15.28.21:951][784]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945414247] Rat
+[2026.02.21-15.28.21:984][788]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931188245] Rat
+[2026.02.21-15.28.22:068][798]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931189246] Rat
+[2026.02.21-15.28.22:147][807]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950707254] Rat
+[2026.02.21-15.28.22:257][820]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931183243] Rat
+[2026.02.21-15.28.22:291][824]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950705253] Rat
+[2026.02.21-15.28.22:385][835]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1804028240] Rat
+[2026.02.21-15.28.22:511][850]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950704252] Rat
+[2026.02.21-15.28.22:742][877]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945419250] Rat
+[2026.02.21-15.28.23:133][923]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931188245] Rat
+[2026.02.21-15.28.23:319][945]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950707254] Rat
+[2026.02.21-15.28.23:378][952]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1945414247] Rat
+[2026.02.21-15.28.23:445][960]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1858701242] Rat
+[2026.02.21-15.28.23:445][960]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950705253] Rat
+[2026.02.21-15.28.23:591][977]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1325809239] Rat
+[2026.02.21-15.28.24:173][ 46]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1950704252] Rat
+[2026.02.21-15.28.24:240][ 54]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1838665241] Rat
+[2026.02.21-15.28.24:477][ 82]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1858701242] Rat
+[2026.02.21-15.28.24:486][ 83]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931187244] Rat
+[2026.02.21-15.28.24:606][ 97]LogBlueprintUserMessages: [BP_Barrel_C_UAID_CC96E51B0A582DC102_1931189246] Rat
+[2026.02.21-15.28.24:649][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.28.24:649][ 98]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.28.24:649][ 98]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.28.24:650][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.28.24:650][ 98]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.28.24:651][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.28.24:656][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.28.24:677][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.28.24:678][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2026.02.21-15.28.24:678][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=4
+[2026.02.21-15.28.24:680][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40, StreamState=2
+[2026.02.21-15.28.24:689][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.02.21-15.28.24:810][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.02.21-15.28.27:883][409]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.28.27:895][409]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.29.28:118][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15788.133789
+[2026.02.21-15.29.28:267][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.29.28:267][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15788.273438, Update Interval: 333.804138
+[2026.02.21-15.32.37:652][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.32.37:704][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.32.37:776][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.32.37:776][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.32.37:785][731]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.32.37:785][731]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Barrel17BE9FBA4C0BAF0C35D8F5951CA77F07.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.32.37:793][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.752 ms (total: 5.84 sec)
+[2026.02.21-15.32.37:855][731]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.32.37:855][731]LogContentValidation: Enabled validators:
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.32.37:855][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.32.37:856][731]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.32.38:309][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2026.02.21-15.32.40:167][955]LogPSOHitching: Encountered 2850 PSO creation hitches so far (972 graphics, 1878 compute). 0 of them were precached.
+[2026.02.21-15.32.40:315][955]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.21-15.32.40:322][955]LogPSOHitching: Encountered 2900 PSO creation hitches so far (996 graphics, 1904 compute). 0 of them were precached.
+[2026.02.21-15.32.40:497][955]LogPSOHitching: Encountered 2950 PSO creation hitches so far (1000 graphics, 1950 compute). 0 of them were precached.
+[2026.02.21-15.32.40:758][955]LogPSOHitching: Encountered 3000 PSO creation hitches so far (1002 graphics, 1998 compute). 0 of them were precached.
+[2026.02.21-15.32.41:410][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.32.41:417][978]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.32.41:417][978]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.32.41:418][978]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 1.093 ms (total: 154.832 ms)
+[2026.02.21-15.32.41:418][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.32.41:446][978]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.32.41:451][978]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.32.41:452][978]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 651 us (total: 28.599 ms)
+[2026.02.21-15.32.41:452][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004696s)
+[2026.02.21-15.32.41:452][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004732s)
+[2026.02.21-15.32.41:472][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.02.21-15.32.41:476][978]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.32.41:477][978]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.32.41:477][978]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.32.41:477][978]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.32.41:477][978]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.32.41:478][978]LogWorldPartition: Display: WorldPartition initialize took 1.064 ms (total: 528.513 ms)
+[2026.02.21-15.32.41:478][978]LogPlayLevel: PIE: World Init took: (0.002897s)
+[2026.02.21-15.32.41:479][978]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.32.41:479][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.32.41:479][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.32.41:479][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.32.41:479][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.32.41:479][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.32.41:481][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.32.41:542][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.32.41:542][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.32.41:542][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.32.41:542][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.32.41:543][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.02.21-15.32.41:543][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.02.21-15.32.41:544][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.02.21-15.32.41:544][978]LogInit: FAudioDevice initialized with ID 41.
+[2026.02.21-15.32.41:544][978]LogAudio: Display: Audio Device (ID: 41) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.32.41:544][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.02.21-15.32.41:544][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.02.21-15.32.41:548][978]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.32.41:550][978]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.32.41
+[2026.02.21-15.32.41:550][978]LogWorld: Bringing up level for play took: 0.001524
+[2026.02.21-15.32.41:552][978]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.02.21-15.32.41:557][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.32.41:557][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.32.41:560][978]PIE: Server logged in
+[2026.02.21-15.32.41:562][978]PIE: Play in editor total start time 0.146 seconds.
+[2026.02.21-15.32.41:607][979]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.32.41:660][980]LogPSOHitching: Encountered 3050 PSO creation hitches so far (1024 graphics, 2026 compute). 0 of them were precached.
+[2026.02.21-15.32.55:728][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.32.55:728][623]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.32.55:729][623]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.32.55:729][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.32.55:729][623]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.32.55:730][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.32.55:734][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.32.55:754][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.32.55:754][623]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.02.21-15.32.55:754][623]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.02.21-15.32.55:757][623]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.02.21-15.32.55:761][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.32.55:766][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.02.21-15.32.55:895][624]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.02.21-15.32.56:802][691]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.32.56:814][691]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.34.01:336][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.34.01:370][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.34.01:442][323]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.34.01:442][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.34.01:452][323]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.34.01:452][323]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Barrel8765A36A4E14B66CAAE645BD1EA75D23.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.34.01:460][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.717 ms (total: 5.97 sec)
+[2026.02.21-15.34.01:505][323]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.34.01:505][323]LogContentValidation: Enabled validators:
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.34.01:505][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.34.01:505][323]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.34.02:491][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.02.21-15.34.09:178][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.34.09:186][181]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.34.09:186][181]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.34.09:186][181]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 584 us (total: 155.416 ms)
+[2026.02.21-15.34.09:186][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.34.09:216][181]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.34.09:220][181]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.34.09:221][181]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 655 us (total: 29.254 ms)
+[2026.02.21-15.34.09:221][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004715s)
+[2026.02.21-15.34.09:221][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004753s)
+[2026.02.21-15.34.09:243][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.21-15.34.09:247][181]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.34.09:249][181]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.34.09:249][181]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.34.09:249][181]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.34.09:249][181]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.34.09:250][181]LogWorldPartition: Display: WorldPartition initialize took 1.078 ms (total: 529.591 ms)
+[2026.02.21-15.34.09:250][181]LogPlayLevel: PIE: World Init took: (0.002928s)
+[2026.02.21-15.34.09:251][181]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.34.09:251][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.34.09:251][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.34.09:251][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.34.09:251][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.34.09:251][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.34.09:254][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.34.09:317][181]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.34.09:317][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.34.09:317][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.34.09:317][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.34.09:317][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.02.21-15.34.09:317][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.02.21-15.34.09:320][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.02.21-15.34.09:320][181]LogInit: FAudioDevice initialized with ID 42.
+[2026.02.21-15.34.09:320][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.02.21-15.34.09:320][181]LogAudio: Display: Audio Device (ID: 42) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.34.09:320][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.02.21-15.34.09:324][181]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.34.09:325][181]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.34.09
+[2026.02.21-15.34.09:325][181]LogWorld: Bringing up level for play took: 0.001473
+[2026.02.21-15.34.09:327][181]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.02.21-15.34.09:331][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.34.09:331][181]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.34.09:333][181]PIE: Server logged in
+[2026.02.21-15.34.09:336][181]PIE: Play in editor total start time 0.15 seconds.
+[2026.02.21-15.34.09:379][182]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.34.14:787][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.34.14:787][798]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.34.14:787][798]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.34.14:788][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.34.14:788][798]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.34.14:789][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.34.14:793][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.34.14:815][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.34.14:815][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.02.21-15.34.14:815][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.02.21-15.34.14:816][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.02.21-15.34.14:825][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.02.21-15.34.14:960][799]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.02.21-15.34.18:453][136]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.34.18:465][136]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.35.04:152][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.35.04:205][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.35.04:258][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.35.04:258][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.35.04:268][508]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.35.04:268][508]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BarrelE38C49514EF0C5CD965699B62549D306.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.35.04:276][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.439 ms (total: 6.09 sec)
+[2026.02.21-15.35.04:338][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.35.04:338][508]LogContentValidation: Enabled validators:
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.35.04:338][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.35.04:338][508]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.35.05:000][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.02.21-15.35.06:959][791]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.35.06:967][791]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.35.06:967][791]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.35.06:968][791]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 605 us (total: 156.022 ms)
+[2026.02.21-15.35.06:968][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.35.06:968][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.35.06:972][791]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.35.06:973][791]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 734 us (total: 29.989 ms)
+[2026.02.21-15.35.06:973][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005067s)
+[2026.02.21-15.35.06:973][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005100s)
+[2026.02.21-15.35.06:999][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.02.21-15.35.07:002][791]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.35.07:003][791]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.35.07:004][791]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.35.07:004][791]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.35.07:004][791]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.35.07:005][791]LogWorldPartition: Display: WorldPartition initialize took 1.203 ms (total: 530.795 ms)
+[2026.02.21-15.35.07:005][791]LogPlayLevel: PIE: World Init took: (0.003022s)
+[2026.02.21-15.35.07:006][791]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.35.07:006][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.35.07:006][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.35.07:006][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.35.07:006][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.35.07:006][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.35.07:009][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.35.07:073][791]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.35.07:073][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.35.07:073][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.35.07:073][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.35.07:074][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.02.21-15.35.07:074][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.02.21-15.35.07:075][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.02.21-15.35.07:075][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.02.21-15.35.07:075][791]LogInit: FAudioDevice initialized with ID 43.
+[2026.02.21-15.35.07:075][791]LogAudio: Display: Audio Device (ID: 43) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.35.07:075][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.02.21-15.35.07:079][791]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.35.07:081][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.35.07
+[2026.02.21-15.35.07:081][791]LogWorld: Bringing up level for play took: 0.001591
+[2026.02.21-15.35.07:083][791]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.02.21-15.35.07:087][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.35.07:088][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.35.07:091][791]PIE: Server logged in
+[2026.02.21-15.35.07:092][791]PIE: Play in editor total start time 0.125 seconds.
+[2026.02.21-15.35.07:133][792]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.35.24:787][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.35.24:787][850]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.35.24:787][850]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.35.24:788][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.35.24:788][850]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.35.24:789][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.35.24:794][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.35.24:813][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.35.24:813][850]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.02.21-15.35.24:813][850]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.02.21-15.35.24:816][850]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.02.21-15.35.24:825][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2026.02.21-15.35.24:959][851]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.02.21-15.35.26:536][998]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.35.26:548][998]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.35.48:763][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16169.012695
+[2026.02.21-15.35.48:946][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.35.48:946][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16169.186523, Update Interval: 319.080170
+[2026.02.21-15.36.02:166][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.36.02:221][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.36.02:295][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.36.02:295][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.36.02:304][110]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.36.02:304][110]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BarrelA54E31C5459416F7E03A708EA66DCFE8.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.36.02:313][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.451 ms (total: 6.24 sec)
+[2026.02.21-15.36.02:372][110]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.36.02:372][110]LogContentValidation: Enabled validators:
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.36.02:372][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.36.02:373][110]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.36.04:316][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.02.21-15.36.06:523][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.36.06:529][567]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.36.06:529][567]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.36.06:530][567]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 576 us (total: 156.598 ms)
+[2026.02.21-15.36.06:530][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.36.06:530][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.36.06:535][567]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.36.06:535][567]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 738 us (total: 30.728 ms)
+[2026.02.21-15.36.06:535][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005239s)
+[2026.02.21-15.36.06:535][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005271s)
+[2026.02.21-15.36.06:560][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.02.21-15.36.06:564][567]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.36.06:566][567]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.36.06:566][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.36.06:566][567]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.36.06:566][567]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.36.06:567][567]LogWorldPartition: Display: WorldPartition initialize took 1.155 ms (total: 531.951 ms)
+[2026.02.21-15.36.06:567][567]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2026.02.21-15.36.06:567][567]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.36.06:568][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.36.06:568][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.36.06:568][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.36.06:568][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.36.06:568][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.36.06:570][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.36.06:634][567]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.36.06:634][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.36.06:634][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.36.06:634][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.36.06:634][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.02.21-15.36.06:634][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.02.21-15.36.06:637][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.02.21-15.36.06:637][567]LogInit: FAudioDevice initialized with ID 44.
+[2026.02.21-15.36.06:637][567]LogAudio: Display: Audio Device (ID: 44) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.36.06:637][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.02.21-15.36.06:637][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.02.21-15.36.06:641][567]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.36.06:642][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.36.06
+[2026.02.21-15.36.06:642][567]LogWorld: Bringing up level for play took: 0.001513
+[2026.02.21-15.36.06:645][567]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.02.21-15.36.06:649][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.36.06:649][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.36.06:652][567]PIE: Server logged in
+[2026.02.21-15.36.06:654][567]PIE: Play in editor total start time 0.125 seconds.
+[2026.02.21-15.36.06:696][568]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.36.19:036][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.36.19:036][ 13]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.36.19:036][ 13]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.36.19:036][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.36.19:036][ 13]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.36.19:038][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.36.19:043][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.36.19:065][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.36.19:065][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.02.21-15.36.19:065][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.02.21-15.36.19:068][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.02.21-15.36.19:077][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.02.21-15.36.19:220][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.02.21-15.36.21:008][182]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.36.21:018][182]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.36.22:079][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.36.22:085][305]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.36.22:085][305]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.36.22:086][305]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 579 us (total: 157.178 ms)
+[2026.02.21-15.36.22:086][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.36.22:125][305]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.36.22:129][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.36.22:129][305]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 654 us (total: 31.383 ms)
+[2026.02.21-15.36.22:130][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004671s)
+[2026.02.21-15.36.22:130][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004705s)
+[2026.02.21-15.36.22:149][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.02.21-15.36.22:151][305]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.36.22:153][305]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.36.22:153][305]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.36.22:153][305]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.36.22:153][305]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.36.22:155][305]LogWorldPartition: Display: WorldPartition initialize took 1.166 ms (total: 533.117 ms)
+[2026.02.21-15.36.22:155][305]LogPlayLevel: PIE: World Init took: (0.002932s)
+[2026.02.21-15.36.22:156][305]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.36.22:156][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.36.22:156][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.36.22:156][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.36.22:156][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.36.22:156][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.36.22:158][305]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.36.22:218][305]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.36.22:218][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.36.22:218][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.36.22:218][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.36.22:219][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.02.21-15.36.22:219][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.02.21-15.36.22:221][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.02.21-15.36.22:221][305]LogInit: FAudioDevice initialized with ID 45.
+[2026.02.21-15.36.22:221][305]LogAudio: Display: Audio Device (ID: 45) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.36.22:221][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.02.21-15.36.22:221][305]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.02.21-15.36.22:224][305]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.36.22:226][305]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.36.22
+[2026.02.21-15.36.22:226][305]LogWorld: Bringing up level for play took: 0.001503
+[2026.02.21-15.36.22:228][305]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.02.21-15.36.22:232][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.36.22:232][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.36.22:235][305]PIE: Server logged in
+[2026.02.21-15.36.22:237][305]PIE: Play in editor total start time 0.152 seconds.
+[2026.02.21-15.36.22:280][306]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.36.50:766][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.36.50:766][627]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.36.50:766][627]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.36.50:767][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.36.50:767][627]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.36.50:768][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.36.50:773][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.36.50:794][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.36.50:794][627]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.02.21-15.36.50:794][627]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.02.21-15.36.50:795][627]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.02.21-15.36.50:804][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.21-15.36.50:942][628]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.02.21-15.36.52:798][807]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.36.52:809][807]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.37.39:078][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.37.39:122][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.37.39:199][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.37.39:199][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.37.39:208][249]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.37.39:208][249]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Barrel5F24237A4AA5B0785AE599827A22C762.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.37.39:216][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.893 ms (total: 6.38 sec)
+[2026.02.21-15.37.39:255][249]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.37.39:255][249]LogContentValidation: Enabled validators:
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.37.39:255][249]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.37.39:255][249]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.37.41:344][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.02.21-15.37.43:827][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.37.43:834][756]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.37.43:834][756]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.37.43:834][756]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 569 us (total: 157.747 ms)
+[2026.02.21-15.37.43:834][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.37.43:874][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.37.43:878][756]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.37.43:879][756]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 662 us (total: 32.045 ms)
+[2026.02.21-15.37.43:879][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004654s)
+[2026.02.21-15.37.43:879][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004688s)
+[2026.02.21-15.37.43:900][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.02.21-15.37.43:902][756]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.37.43:905][756]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.37.43:905][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.37.43:905][756]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.37.43:905][756]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.37.43:906][756]LogWorldPartition: Display: WorldPartition initialize took 1.127 ms (total: 534.245 ms)
+[2026.02.21-15.37.43:906][756]LogPlayLevel: PIE: World Init took: (0.002914s)
+[2026.02.21-15.37.43:906][756]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.02.21-15.37.43:906][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.37.43:906][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.37.43:906][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.37.43:906][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.37.43:906][756]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.37.43:907][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.37.43:907][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.37.43:907][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.37.43:907][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.37.43:907][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.37.43:907][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.37.43:909][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.37.43:970][756]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.37.43:970][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.37.43:970][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.37.43:970][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.37.43:970][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.02.21-15.37.43:970][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2026.02.21-15.37.43:973][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.02.21-15.37.43:973][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2026.02.21-15.37.43:973][756]LogInit: FAudioDevice initialized with ID 46.
+[2026.02.21-15.37.43:973][756]LogAudio: Display: Audio Device (ID: 46) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.37.43:973][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.02.21-15.37.43:976][756]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.37.43:977][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.37.43
+[2026.02.21-15.37.43:978][756]LogWorld: Bringing up level for play took: 0.001496
+[2026.02.21-15.37.43:979][756]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.02.21-15.37.43:984][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.37.43:984][756]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.37.43:987][756]PIE: Server logged in
+[2026.02.21-15.37.43:989][756]PIE: Play in editor total start time 0.155 seconds.
+[2026.02.21-15.37.44:031][757]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.37.50:735][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.37.50:735][538]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.37.50:735][538]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.37.50:736][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.37.50:736][538]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.37.50:737][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.37.50:742][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.37.50:764][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.37.50:764][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.02.21-15.37.50:764][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.02.21-15.37.50:765][538]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.02.21-15.37.50:774][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.02.21-15.37.50:912][539]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.02.21-15.37.52:511][688]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.37.52:522][688]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.38.01:609][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.38.01:640][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.38.01:694][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.38.01:694][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.38.01:703][751]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.38.01:704][751]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Barrel108F17A943D901310EA42ABFA0FD4B60.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.38.01:712][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.658 ms (total: 6.48 sec)
+[2026.02.21-15.38.01:754][751]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.38.01:754][751]LogContentValidation: Enabled validators:
+[2026.02.21-15.38.01:754][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.38.01:755][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.38.01:755][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.38.01:755][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.38.01:755][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.38.01:755][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.38.01:755][751]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.38.02:942][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.02.21-15.38.05:598][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.38.05:605][172]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.38.05:605][172]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.38.05:606][172]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 565 us (total: 158.312 ms)
+[2026.02.21-15.38.05:606][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.38.05:606][172]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.38.05:611][172]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.38.05:611][172]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 759 us (total: 32.805 ms)
+[2026.02.21-15.38.05:611][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005302s)
+[2026.02.21-15.38.05:612][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005335s)
+[2026.02.21-15.38.05:637][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2026.02.21-15.38.05:641][172]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.38.05:642][172]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.38.05:642][172]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.38.05:642][172]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.38.05:642][172]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.38.05:643][172]LogWorldPartition: Display: WorldPartition initialize took 1.140 ms (total: 535.385 ms)
+[2026.02.21-15.38.05:643][172]LogPlayLevel: PIE: World Init took: (0.002963s)
+[2026.02.21-15.38.05:644][172]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.38.05:644][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.38.05:644][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.38.05:644][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.38.05:644][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.38.05:644][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.38.05:646][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.38.05:710][172]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.38.05:711][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.38.05:711][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.38.05:711][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.38.05:711][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2026.02.21-15.38.05:711][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2026.02.21-15.38.05:714][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2026.02.21-15.38.05:714][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2026.02.21-15.38.05:714][172]LogInit: FAudioDevice initialized with ID 47.
+[2026.02.21-15.38.05:714][172]LogAudio: Display: Audio Device (ID: 47) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.38.05:714][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2026.02.21-15.38.05:718][172]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.38.05:719][172]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.38.05
+[2026.02.21-15.38.05:720][172]LogWorld: Bringing up level for play took: 0.001527
+[2026.02.21-15.38.05:722][172]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.02.21-15.38.05:725][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.38.05:725][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.38.05:728][172]PIE: Server logged in
+[2026.02.21-15.38.05:730][172]PIE: Play in editor total start time 0.125 seconds.
+[2026.02.21-15.38.05:772][173]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.38.57:126][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.38.57:126][213]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.38.57:126][213]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.38.57:127][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.38.57:127][213]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.38.57:128][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.38.57:133][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.38.57:156][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.38.57:156][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2026.02.21-15.38.57:156][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2026.02.21-15.38.57:157][213]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2026.02.21-15.38.57:167][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.02.21-15.38.57:294][214]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.02.21-15.39.00:668][563]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.39.00:679][563]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.39.33:000][219]LogPSOHitching: Encountered 3100 PSO creation hitches so far (1042 graphics, 2058 compute). 0 of them were precached.
+[2026.02.21-15.39.33:054][219]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.21-15.39.33:153][219]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.02.21-15.39.36:350][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.02.21-15.39.40:859][919]LogContentBrowser: Attempting asset rename: BP_PegLegTimer1 -> BP_PegLegTimer1
+[2026.02.21-15.39.49:362][868]LogContentBrowser: Attempting asset rename: BP_PegLegTimer1 -> BP_Timer1
+[2026.02.21-15.39.49:455][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.39.49:455][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Timer1] ([2] browsable assets)...
+[2026.02.21-15.39.49:455][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Timer1]
+[2026.02.21-15.39.49:464][868]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Timer1
+[2026.02.21-15.39.49:464][868]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Timer19B899CCD47813F2A105220A66FB74DCB.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Timer1.uasset'
+[2026.02.21-15.39.49:470][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.279 ms (total: 6.50 sec)
+[2026.02.21-15.39.49:499][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.02.21-15.39.49:521][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.02.21-15.39.49:546][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.21-15.39.49:606][868]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.39.49:606][868]LogContentValidation: Enabled validators:
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.39.49:606][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.39.49:606][868]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Timer1 Validating asset
+[2026.02.21-15.39.49:678][868]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-15.40.09:508][ 88]LogContentBrowser: Attempting asset rename: BP_Timer1 -> BP_SplatARatTimer
+[2026.02.21-15.40.09:602][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.40.09:602][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_SplatARatTimer] ([2] browsable assets)...
+[2026.02.21-15.40.09:602][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_SplatARatTimer]
+[2026.02.21-15.40.09:612][ 88]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_SplatARatTimer
+[2026.02.21-15.40.09:612][ 88]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_SplatARatTimer9FD14C6C4D0B660700FE179326365DAD.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_SplatARatTimer.uasset'
+[2026.02.21-15.40.09:617][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.324 ms (total: 6.51 sec)
+[2026.02.21-15.40.09:648][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.02.21-15.40.09:671][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.02.21-15.40.09:691][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: Enabled validators:
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.40.09:755][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.40.09:755][ 88]AssetCheck: /Game/ThirdPerson/Blueprints/BP_SplatARatTimer Validating asset
+[2026.02.21-15.40.09:808][ 88]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-15.40.12:396][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer_C
+[2026.02.21-15.40.12:396][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer_C
+[2026.02.21-15.40.12:397][334]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer as actor: BP_SplatARatTimer_C /Game/Levels/Splat_a_Rat.Splat_a_Rat:PersistentLevel.BP_SplatARatTimer_C_0
+[2026.02.21-15.40.12:398][334]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer as actor: BP_SplatARatTimer_C /Game/Levels/Splat_a_Rat.Splat_a_Rat:PersistentLevel.BP_SplatARatTimer_C_0
+[2026.02.21-15.40.15:258][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.21-15.40.15:261][652]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.21-15.40.15:267][652]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer_C
+[2026.02.21-15.40.15:267][652]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer_C
+[2026.02.21-15.40.15:268][652]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer as actor: BP_SplatARatTimer_C /Game/Levels/Splat_a_Rat.Splat_a_Rat:PersistentLevel.BP_SplatARatTimer_C_UAID_CC96E51B0A583AC102_1487587545
+[2026.02.21-15.40.15:269][652]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer as actor: BP_SplatARatTimer_C /Game/Levels/Splat_a_Rat.Splat_a_Rat:PersistentLevel.BP_SplatARatTimer_C_UAID_CC96E51B0A583AC102_1487587545
+[2026.02.21-15.40.26:366][816]LogStreaming: Display: FlushAsyncLoading(961): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.40.26:433][816]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-15.40.26:437][816]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.40.26:437][816]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.40.26:437][816]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.40.26:438][816]LogWorldPartition: Display: WorldPartition initialize took 1.682 ms (total: 537.068 ms)
+[2026.02.21-15.40.26:613][826]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.21-15.40.26:626][826]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.26:626][826]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.26:626][826]LogStreaming: Display: FlushAsyncLoading(1005): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.40.27:344][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.02.21-15.40.27:356][900]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.02.21-15.40.33:868][604]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.33:868][604]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.35:261][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.21-15.40.35:264][751]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.02.21-15.40.35:270][751]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.35:270][751]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.35:279][751]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Levels/Peg_Leg_LevelInstance_6849fc583fa5f650_0) is flushing async loading
+[2026.02.21-15.40.35:279][751]LogStreaming: Display: FlushAsyncLoading(1006): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.40.35:289][751]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.40.35:289][751]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.40.35:289][751]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Levels/Peg_Leg_LevelInstance_6849fc583fa5f650_0.Peg_Leg, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-1510.00, Y=230.00, Z=1070.00), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.40.35:290][751]LogActorComponent: ReregisterComponent: (/Temp/Game/Levels/Peg_Leg_LevelInstance_6849fc583fa5f650_0.Peg_Leg:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.02.21-15.40.35:311][751]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.21-15.40.35:311][751]LogActorComponent: ReregisterComponent: (/Temp/Game/Levels/Peg_Leg_LevelInstance_6849fc583fa5f650_0.Peg_Leg:PersistentLevel.PostProcessVolume_UAID_F4A475FF15A3736A02_1961895679.BrushComponent0) Not currently registered. Aborting.
+[2026.02.21-15.40.35:311][751]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.21-15.40.35:311][751]LogWorldPartition: Display: WorldPartition initialize took 22.868 ms (total: 559.937 ms)
+[2026.02.21-15.40.35:348][751]LogLevelInstance: Loaded 1 levels in 0.07 seconds
+[2026.02.21-15.40.35:358][751]LogSlate: Took 0.002606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.21-15.40.37:627][984]Cmd: TRANSACTION UNDO
+[2026.02.21-15.40.37:627][984]LogEditorTransaction: Undo Place Objects
+[2026.02.21-15.40.37:668][984]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.40.37:668][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.40.37:668][984]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Levels/Peg_Leg_LevelInstance_6849fc583fa5f650_0.Peg_Leg
+[2026.02.21-15.40.37:695][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.02.21-15.40.37:718][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.02.21-15.40.37:743][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.02.21-15.40.37:744][984]LogLevelInstance: Unloaded 1 levels in 0.079 seconds
+[2026.02.21-15.40.41:863][363]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.41:863][363]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.42:076][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.21-15.40.42:079][382]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.02.21-15.40.44:138][615]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.44:138][615]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.45:111][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.21-15.40.45:114][717]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.21-15.40.45:416][749]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.45:416][749]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.40.45:699][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.21-15.40.45:701][777]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.21-15.40.59:690][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.21-15.41.00:749][342]LogSlate: Window 'Save Content' being destroyed
+[2026.02.21-15.41.00:758][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.41.00:794][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S
+[2026.02.21-15.41.00:794][342]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HEU9NN42FHZ0RO89SG361S0E6E8A084FB63DE2CD83949401D295A2.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S.uasset'
+[2026.02.21-15.41.00:804][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.447 ms (total: 6.56 sec)
+[2026.02.21-15.41.00:859][342]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.41.00:859][342]LogContentValidation: Enabled validators:
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.41.00:859][342]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.41.00:859][342]AssetCheck: /Game/Levels/Splat_a_Rat Validating asset
+[2026.02.21-15.41.00:889][342]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.21-15.41.03:253][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.02.21-15.41.03:257][596]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.41.03:258][596]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Peg_Leg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.21-15.41.03:278][596]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.03:279][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.03:279][596]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.41.03:308][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.41.03:313][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.02.21-15.41.03:315][596]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.03:316][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.03:316][596]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.41.03:343][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.02.21-15.41.03:429][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.02.21-15.41.03:430][596]LogStreaming: Display: FlushAsyncLoading(1048): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.41.03:451][596]LogAudio: Display: Audio Device (ID: 1) registered with world 'Peg_Leg'.
+[2026.02.21-15.41.03:451][596]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-15.41.03:454][596]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.41.03:454][596]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.41.03:454][596]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.41.03:483][596]LogWorldPartition: Display: WorldPartition initialize took 29.182 ms (total: 589.119 ms)
+[2026.02.21-15.41.03:495][596]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.21-15.41.03:522][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.02.21-15.41.03:531][596]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.21-15.41.03:532][596]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.584ms to complete.
+[2026.02.21-15.41.03:626][598]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.41.24:203][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.21-15.41.24:208][847]LogStreaming: Display: FlushAsyncLoading(1091): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.41.24:229][847]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.41.24:233][847]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.41.24:233][847]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.41.24:233][847]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.41.24:263][847]LogWorldPartition: Display: WorldPartition initialize took 29.729 ms (total: 618.848 ms)
+[2026.02.21-15.41.24:266][847]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.41.24:266][847]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Splat_a_Rat.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.21-15.41.24:287][847]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.24:287][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.24:287][847]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.41.24:321][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.41.24:326][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.02.21-15.41.24:328][847]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.24:329][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.24:329][847]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.41.24:356][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.02.21-15.41.24:431][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.21-15.41.24:453][847]LogAudio: Display: Audio Device (ID: 1) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.41.24:453][847]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.41.24:455][847]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.41.24:455][847]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.41.24:455][847]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.41.24:485][847]LogWorldPartition: Display: WorldPartition initialize took 30.233 ms (total: 649.081 ms)
+[2026.02.21-15.41.24:500][847]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.21-15.41.24:528][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.02.21-15.41.24:537][847]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.21-15.41.24:537][847]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.475ms to complete.
+[2026.02.21-15.41.24:640][849]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.41.38:259][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16517.095703
+[2026.02.21-15.41.38:409][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.41.38:409][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16517.236328, Update Interval: 308.434082
+[2026.02.21-15.41.50:150][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.02.21-15.41.51:044][724]LogSlate: Window 'Save Content' being destroyed
+[2026.02.21-15.41.51:065][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.41.51:126][724]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S
+[2026.02.21-15.41.51:127][724]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HEU9NN42FHZ0RO89SG361S0AE316B2418CBF85965F019B912D3BF7.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S.uasset'
+[2026.02.21-15.41.51:136][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.567 ms (total: 6.63 sec)
+[2026.02.21-15.41.51:191][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.41.51:191][724]LogContentValidation: Enabled validators:
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.41.51:191][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.41.51:191][724]AssetCheck: /Game/Levels/Splat_a_Rat Validating asset
+[2026.02.21-15.41.54:137][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.21-15.41.54:139][ 23]LogStreaming: Display: FlushAsyncLoading(1171): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.41.54:162][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-15.41.54:163][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.41.54:163][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.41.54:164][ 23]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.41.54:193][ 23]LogWorldPartition: Display: WorldPartition initialize took 30.486 ms (total: 679.568 ms)
+[2026.02.21-15.41.54:196][ 23]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.41.54:196][ 23]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Peg_Leg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.21-15.41.54:258][ 23]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.54:258][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.54:258][ 23]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.41.54:283][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.41.54:288][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.02.21-15.41.54:290][ 23]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.41.54:290][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.41.54:290][ 23]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.41.54:316][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.02.21-15.41.54:398][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.21-15.41.54:421][ 23]LogAudio: Display: Audio Device (ID: 1) registered with world 'Peg_Leg'.
+[2026.02.21-15.41.54:421][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.02.21-15.41.54:423][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.41.54:423][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.41.54:423][ 23]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.41.54:451][ 23]LogWorldPartition: Display: WorldPartition initialize took 27.665 ms (total: 707.234 ms)
+[2026.02.21-15.41.54:463][ 23]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.21-15.41.54:488][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.02.21-15.41.54:496][ 23]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.21-15.41.54:497][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.513ms to complete.
+[2026.02.21-15.41.54:584][ 25]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.42.05:836][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.21-15.42.05:841][256]LogStreaming: Display: FlushAsyncLoading(1257): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.42.05:860][256]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.42.05:864][256]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.42.05:864][256]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.42.05:864][256]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.42.05:893][256]LogWorldPartition: Display: WorldPartition initialize took 28.119 ms (total: 735.353 ms)
+[2026.02.21-15.42.05:897][256]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.42.05:897][256]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Splat_a_Rat.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.21-15.42.05:957][256]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.42.05:957][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.42.05:957][256]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.02.21-15.42.05:983][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.42.05:988][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.21-15.42.05:991][256]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.42.05:991][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.42.05:991][256]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.42.06:016][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.02.21-15.42.06:100][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.02.21-15.42.06:122][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.42.06:122][256]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.42.06:125][256]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.21-15.42.06:125][256]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.42.06:125][256]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Splat_a_Rat.Splat_a_Rat, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.42.06:152][256]LogWorldPartition: Display: WorldPartition initialize took 27.570 ms (total: 762.924 ms)
+[2026.02.21-15.42.06:167][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.21-15.42.06:191][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.02.21-15.42.06:201][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.21-15.42.06:201][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.512ms to complete.
+[2026.02.21-15.42.06:286][258]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.42.26:500][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.42.26:508][500]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.42.26:508][500]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.42.26:508][500]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 640 us (total: 158.953 ms)
+[2026.02.21-15.42.26:508][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.42.26:533][500]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.42.26:538][500]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.42.26:538][500]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 717 us (total: 33.522 ms)
+[2026.02.21-15.42.26:538][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005021s)
+[2026.02.21-15.42.26:538][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005056s)
+[2026.02.21-15.42.26:563][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.21-15.42.26:569][500]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.42.26:571][500]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.42.26:571][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.42.26:571][500]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.42.26:571][500]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.42.26:571][500]LogWorldPartition: Display: WorldPartition initialize took 1.171 ms (total: 764.096 ms)
+[2026.02.21-15.42.26:571][500]LogPlayLevel: PIE: World Init took: (0.002995s)
+[2026.02.21-15.42.26:572][500]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.42.26:572][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.42.26:572][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.42.26:572][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.42.26:572][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.42.26:572][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.42.26:575][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.42.26:639][500]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.42.26:639][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.42.26:639][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.42.26:639][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.42.26:640][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2026.02.21-15.42.26:640][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2026.02.21-15.42.26:642][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2026.02.21-15.42.26:642][500]LogInit: FAudioDevice initialized with ID 48.
+[2026.02.21-15.42.26:642][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2026.02.21-15.42.26:642][500]LogAudio: Display: Audio Device (ID: 48) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.42.26:643][500]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2026.02.21-15.42.26:646][500]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.42.26:648][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.42.26
+[2026.02.21-15.42.26:648][500]LogWorld: Bringing up level for play took: 0.001624
+[2026.02.21-15.42.26:650][500]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.02.21-15.42.26:655][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.42.26:655][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.42.26:658][500]PIE: Server logged in
+[2026.02.21-15.42.26:660][500]PIE: Play in editor total start time 0.152 seconds.
+[2026.02.21-15.42.26:706][501]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.42.29:094][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.42.29:094][759]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.42.29:094][759]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.42.29:095][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.42.29:095][759]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.42.29:096][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.42.29:101][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.42.29:120][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.42.29:120][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2026.02.21-15.42.29:120][759]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2026.02.21-15.42.29:121][759]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2026.02.21-15.42.29:129][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.02.21-15.42.29:243][760]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.02.21-15.42.30:406][854]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.42.30:420][854]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.42.37:654][449]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_SplatARatTimer.BP_SplatARatTimer
+[2026.02.21-15.42.37:654][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.21-15.42.42:160][892]LogPSOHitching: Encountered 3150 PSO creation hitches so far (1063 graphics, 2087 compute). 0 of them were precached.
+[2026.02.21-15.43.19:968][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.43.20:024][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_SplatARatTimer] ([2] browsable assets)...
+[2026.02.21-15.43.20:024][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_SplatARatTimer]
+[2026.02.21-15.43.20:034][324]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_SplatARatTimer
+[2026.02.21-15.43.20:034][324]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_SplatARatTimerC1BE926A4B89E172CB96CAB2C7DFC42A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_SplatARatTimer.uasset'
+[2026.02.21-15.43.20:042][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.479 ms (total: 6.70 sec)
+[2026.02.21-15.43.20:089][324]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.43.20:089][324]LogContentValidation: Enabled validators:
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.43.20:089][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.43.20:089][324]AssetCheck: /Game/ThirdPerson/Blueprints/BP_SplatARatTimer Validating asset
+[2026.02.21-15.43.21:207][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.02.21-15.43.25:676][947]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.43.25:683][947]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.43.25:683][947]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.43.25:683][947]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 638 us (total: 159.591 ms)
+[2026.02.21-15.43.25:684][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.43.25:713][947]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.43.25:717][947]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.43.25:717][947]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 697 us (total: 34.220 ms)
+[2026.02.21-15.43.25:717][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004875s)
+[2026.02.21-15.43.25:717][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.004914s)
+[2026.02.21-15.43.25:739][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.02.21-15.43.25:741][947]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.43.25:743][947]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.43.25:743][947]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.43.25:743][947]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.43.25:743][947]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.43.25:744][947]LogWorldPartition: Display: WorldPartition initialize took 1.159 ms (total: 765.256 ms)
+[2026.02.21-15.43.25:744][947]LogPlayLevel: PIE: World Init took: (0.002997s)
+[2026.02.21-15.43.25:745][947]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.43.25:745][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.43.25:745][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.43.25:745][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.43.25:745][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.43.25:745][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.43.25:747][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.43.25:809][947]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.43.25:809][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.43.25:809][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.43.25:809][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.43.25:809][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2026.02.21-15.43.25:810][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2026.02.21-15.43.25:812][947]LogInit: FAudioDevice initialized with ID 49.
+[2026.02.21-15.43.25:812][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2026.02.21-15.43.25:812][947]LogAudio: Display: Audio Device (ID: 49) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.43.25:812][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2026.02.21-15.43.25:812][947]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2026.02.21-15.43.25:816][947]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.43.25:818][947]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.43.25
+[2026.02.21-15.43.25:818][947]LogWorld: Bringing up level for play took: 0.001553
+[2026.02.21-15.43.25:820][947]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.02.21-15.43.25:823][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.43.25:824][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.43.25:826][947]PIE: Server logged in
+[2026.02.21-15.43.25:828][947]PIE: Play in editor total start time 0.146 seconds.
+[2026.02.21-15.43.25:874][948]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.43.55:787][458]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Game_Select"
+[2026.02.21-15.43.55:787][458]LogNet: Browse: /Game/Levels/Game_Select
+[2026.02.21-15.43.55:787][458]LogLoad: LoadMap: /Game/Levels/Game_Select
+[2026.02.21-15.43.55:787][458]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.43.55:789][458]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.43.55:789][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.43.55:789][458]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.43.55:843][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.21-15.43.55:847][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.02.21-15.43.55:850][458]LogStreaming: Display: FlushAsyncLoading(1337): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.21-15.43.55:874][458]LogAudio: Display: Audio Device (ID: 49) registered with world 'Game_Select'.
+[2026.02.21-15.43.55:874][458]LogChaosDD: Creating Chaos Debug Draw Scene for world Game_Select
+[2026.02.21-15.43.55:876][458]LogWorldPartition: ULevel::OnLevelLoaded(Game_Select)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.43.55:876][458]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.43.55:876][458]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.21-15.43.55:876][458]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.43.55:878][458]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' started...
+[2026.02.21-15.43.55:914][458]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' took 36.620 ms (total: 196.211 ms)
+[2026.02.21-15.43.55:915][458]LogWorldPartition: Display: WorldPartition initialize took 39.498 ms (total: 804.754 ms)
+[2026.02.21-15.43.55:915][458]LogPlayLevel: PIE: World Init took: (0.041259s)
+[2026.02.21-15.43.55:915][458]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.43.55:918][458]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game_Select.Game_Select up for play (max tick rate 0) at 2026.02.21-15.43.55
+[2026.02.21-15.43.55:918][458]LogWorld: Bringing up level for play took: 0.002478
+[2026.02.21-15.43.55:924][458]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.21-15.43.55:924][458]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.21-15.43.55:924][458]LogLoad: Took 0.136936 seconds to LoadMap(/Game/Levels/Game_Select)
+[2026.02.21-15.43.55:924][458]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Game_Select
+[2026.02.21-15.43.55:932][458]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.43.58:213][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.43.58:213][708]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Game_Select
+[2026.02.21-15.43.58:213][708]LogWorld: UWorld::CleanupWorld for Game_Select, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.43.58:214][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.43.58:214][708]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select
+[2026.02.21-15.43.58:215][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.43.58:220][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.43.58:239][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.43.58:239][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2026.02.21-15.43.58:240][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=4
+[2026.02.21-15.43.58:242][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=2
+[2026.02.21-15.43.58:253][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.02.21-15.43.58:393][709]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.02.21-15.44.00:576][920]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.44.00:595][920]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.44.07:480][715]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.21-15.44.07:487][715]LogContentBundle: [Splat_a_Rat(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.21-15.44.07:487][715]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' started...
+[2026.02.21-15.44.07:488][715]LogWorldPartition: Display: GenerateStreaming for 'Splat_a_Rat' took 726 us (total: 196.938 ms)
+[2026.02.21-15.44.07:488][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.21-15.44.07:523][715]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.44.07:527][715]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.21-15.44.07:528][715]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 764 us (total: 34.985 ms)
+[2026.02.21-15.44.07:528][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005402s)
+[2026.02.21-15.44.07:528][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Splat_a_Rat.Splat_a_Rat to /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat (0.005447s)
+[2026.02.21-15.44.07:549][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.02.21-15.44.07:552][715]LogChaosDD: Creating Chaos Debug Draw Scene for world Splat_a_Rat
+[2026.02.21-15.44.07:554][715]LogWorldPartition: ULevel::OnLevelLoaded(Splat_a_Rat)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.21-15.44.07:554][715]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.21-15.44.07:554][715]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.21-15.44.07:554][715]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.21-15.44.07:555][715]LogWorldPartition: Display: WorldPartition initialize took 1.177 ms (total: 805.931 ms)
+[2026.02.21-15.44.07:555][715]LogPlayLevel: PIE: World Init took: (0.002993s)
+[2026.02.21-15.44.07:555][715]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.21-15.44.07:556][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.21-15.44.07:556][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.21-15.44.07:556][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.21-15.44.07:556][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.21-15.44.07:556][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.21-15.44.07:558][715]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.21-15.44.07:620][715]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.21-15.44.07:620][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.21-15.44.07:620][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.21-15.44.07:620][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.21-15.44.07:620][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2026.02.21-15.44.07:620][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2026.02.21-15.44.07:624][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2026.02.21-15.44.07:624][715]LogInit: FAudioDevice initialized with ID 50.
+[2026.02.21-15.44.07:624][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2026.02.21-15.44.07:624][715]LogAudio: Display: Audio Device (ID: 50) registered with world 'Splat_a_Rat'.
+[2026.02.21-15.44.07:624][715]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2026.02.21-15.44.07:627][715]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.21-15.44.07:629][715]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat up for play (max tick rate 0) at 2026.02.21-15.44.07
+[2026.02.21-15.44.07:629][715]LogWorld: Bringing up level for play took: 0.001531
+[2026.02.21-15.44.07:631][715]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2026.02.21-15.44.07:635][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.44.07:635][715]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Player Controller Blueprint:  BP_ThirdPersonPlayerController
+[2026.02.21-15.44.07:638][715]PIE: Server logged in
+[2026.02.21-15.44.07:640][715]PIE: Play in editor total start time 0.153 seconds.
+[2026.02.21-15.44.07:685][716]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.21-15.44.08:824][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.44.08:824][835]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Splat_a_Rat
+[2026.02.21-15.44.08:825][835]LogWorld: UWorld::CleanupWorld for Splat_a_Rat, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.44.08:825][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.44.08:825][835]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Splat_a_Rat.Splat_a_Rat
+[2026.02.21-15.44.08:830][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.21-15.44.08:835][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.44.08:854][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.21-15.44.08:855][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2026.02.21-15.44.08:855][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=4
+[2026.02.21-15.44.08:856][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
+[2026.02.21-15.44.08:865][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.02.21-15.44.08:977][836]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2026.02.21-15.44.10:013][915]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.44.10:024][915]LogSlate: Window 'Message Log' being destroyed
+[2026.02.21-15.47.34:773][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16867.691406
+[2026.02.21-15.47.35:775][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.47.35:776][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16868.359375, Update Interval: 315.612061
+[2026.02.21-15.48.02:461][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.02.21-15.48.04:214][715]LogSlate: Window 'Save Content' being destroyed
+[2026.02.21-15.48.04:359][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.48.04:394][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S
+[2026.02.21-15.48.04:394][715]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HEU9NN42FHZ0RO89SG361S67D5A102494CE74352B471B35907AA13.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Splat_a_Rat/7/9A/HEU9NN42FHZ0RO89SG361S.uasset'
+[2026.02.21-15.48.04:404][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.585 ms (total: 6.75 sec)
+[2026.02.21-15.48.04:440][715]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.48.04:440][715]LogContentValidation: Enabled validators:
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.48.04:440][715]AssetCheck: /Game/Levels/Splat_a_Rat Validating asset
+[2026.02.21-15.48.10:402][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
