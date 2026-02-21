@@ -7626,3 +7626,33 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.21-15.48.04:440][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.21-15.48.04:440][715]AssetCheck: /Game/Levels/Splat_a_Rat Validating asset
 [2026.02.21-15.48.10:402][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.21-15.52.04:816][938]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.02.21-15.52.04:816][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.21-15.52.04:872][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.02.21-15.53.22:816][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17214.730469
+[2026.02.21-15.53.23:818][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.21-15.53.23:818][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17215.402344, Update Interval: 327.900635
+[2026.02.21-15.53.56:685][516]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.21-15.53.56:692][516]LogPSOHitching: Encountered 3200 PSO creation hitches so far (1095 graphics, 2105 compute). 0 of them were precached.
+[2026.02.21-15.53.56:785][516]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.02.21-15.54.56:071][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.21-15.54.56:128][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Barrel] ([2] browsable assets)...
+[2026.02.21-15.54.56:180][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Barrel.BP_Barrel]
+[2026.02.21-15.54.56:180][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Barrel]
+[2026.02.21-15.54.56:189][508]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Barrel
+[2026.02.21-15.54.56:189][508]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BarrelC91358364BE6C5C7A913D29A17347706.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Barrel.uasset'
+[2026.02.21-15.54.56:199][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.863 ms (total: 6.87 sec)
+[2026.02.21-15.54.56:242][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.21-15.54.56:242][508]LogContentValidation: Enabled validators:
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.21-15.54.56:242][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.21-15.54.56:243][508]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Barrel Validating asset
+[2026.02.21-15.54.58:057][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.02.21-15.55.00:249][923]LogPSOHitching: Encountered 3250 PSO creation hitches so far (1117 graphics, 2133 compute). 0 of them were precached.
+[2026.02.21-15.55.00:433][923]LogPSOHitching: Encountered 3300 PSO creation hitches so far (1130 graphics, 2170 compute). 0 of them were precached.
+[2026.02.21-15.55.00:671][923]LogPSOHitching: Encountered 3350 PSO creation hitches so far (1132 graphics, 2218 compute). 0 of them were precached.
+[2026.02.21-15.55.00:895][924]LogPSOHitching: Encountered 3400 PSO creation hitches so far (1149 graphics, 2251 compute). 0 of them were precached.
