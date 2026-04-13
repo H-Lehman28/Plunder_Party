@@ -3522,3 +3522,768 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.04.13-10.32.57:549][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.13-10.32.57:554][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2026.04.13-10.32.57:591][527]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.04.13-10.38.45:931][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5447.852539
+[2026.04.13-10.38.46:072][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-10.38.46:072][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5447.986328, Update Interval: 326.131775
+[2026.04.13-10.45.00:898][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5822.788574
+[2026.04.13-10.45.01:113][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-10.45.01:113][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5822.992188, Update Interval: 349.570007
+[2026.04.13-10.51.28:648][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6210.568359
+[2026.04.13-10.51.28:783][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-10.51.28:783][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6210.694824, Update Interval: 355.502808
+[2026.04.13-10.52.02:641][413]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.13-10.52.02:641][413]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.13-10.53.53:863][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.04.13-10.53.54:650][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-10.53.54:708][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.13-10.53.54:820][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.04.13-10.53.54:820][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.13-10.53.54:856][943]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.13-10.53.54:856][943]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter801615A84E8B19CDC61FD18E3EDFD9CD.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.13-10.53.54:866][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.263 ms (total: 1.07 sec)
+[2026.04.13-10.53.54:923][943]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-10.53.54:923][943]LogContentValidation: Enabled validators:
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-10.53.54:923][943]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-10.53.54:923][943]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.13-10.55.06:930][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.04.13-10.55.07:485][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-10.55.07:541][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_PegLeg] ([2] browsable assets)...
+[2026.04.13-10.55.07:616][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_PegLeg.BP_PegLeg]
+[2026.04.13-10.55.07:616][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_PegLeg]
+[2026.04.13-10.55.07:624][684]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_PegLeg
+[2026.04.13-10.55.07:624][684]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_PegLeg6531690F43C9879EA4A44BA922783A1B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_PegLeg.uasset'
+[2026.04.13-10.55.07:633][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.620 ms (total: 1.22 sec)
+[2026.04.13-10.55.07:690][684]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-10.55.07:690][684]LogContentValidation: Enabled validators:
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-10.55.07:690][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-10.55.07:690][684]AssetCheck: /Game/ThirdPerson/Blueprints/BP_PegLeg Validating asset
+[2026.04.13-10.58.22:272][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6624.263184
+[2026.04.13-10.58.22:425][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-10.58.22:425][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6624.405762, Update Interval: 319.092987
+[2026.04.13-11.03.55:188][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:189][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:203][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:204][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:207][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:207][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:207][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:207][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:207][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:208][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:227][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.03.55:228][152]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.04.26:295][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6988.277832
+[2026.04.13-11.04.27:295][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.04.27:295][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6988.944824, Update Interval: 340.278931
+[2026.04.13-11.08.59:013][ 64]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.13-11.10.52:684][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7374.667969
+[2026.04.13-11.10.53:684][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.10.53:684][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7375.335938, Update Interval: 344.756012
+[2026.04.13-11.14.11:497][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:497][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:498][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:498][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.14.11:499][  1]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.17.35:755][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7777.744629
+[2026.04.13-11.17.36:754][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.17.36:754][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7778.411133, Update Interval: 335.214081
+[2026.04.13-11.24.10:478][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8172.466309
+[2026.04.13-11.24.11:478][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.24.11:478][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8173.133301, Update Interval: 333.480042
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.26.38:340][241]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.160.131:59116, Sequence=0
+[2026.04.13-11.30.20:879][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8542.860352
+[2026.04.13-11.30.21:877][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.30.21:877][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8543.524414, Update Interval: 349.692688
+[2026.04.13-11.31.43:901][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.04.13-11.31.43:907][697]LogStreaming: Display: FlushAsyncLoading(1307): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-11.31.43:939][697]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.31.43:941][697]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.13-11.31.43:941][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.31.43:941][697]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Boat_Race.Boat_Race, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.31.44:030][697]LogWorldPartition: Display: WorldPartition initialize took 87.982 ms (total: 1.01 sec)
+[2026.04.13-11.31.44:034][697]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Boat_Race.Boat_Race
+[2026.04.13-11.31.44:034][697]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Boat_Race.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.13-11.31.44:058][697]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.31.44:058][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.44:058][697]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.13-11.31.44:086][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-11.31.44:092][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.04.13-11.31.44:095][697]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.31.44:095][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.44:095][697]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Boat_Race.Boat_Race
+[2026.04.13-11.31.44:122][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.04.13-11.31.44:148][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.13-11.31.44:175][697]LogAudio: Display: Audio Device (ID: 1) registered with world 'Boat_Race'.
+[2026.04.13-11.31.44:177][697]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.31.44:180][697]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.13-11.31.44:180][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.31.44:180][697]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Boat_Race.Boat_Race, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.31.44:196][697]LogWorldPartition: Display: WorldPartition initialize took 16.221 ms (total: 1.02 sec)
+[2026.04.13-11.31.44:211][697]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.13-11.31.44:235][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.04.13-11.31.44:247][697]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.13-11.31.44:248][697]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.693ms to complete.
+[2026.04.13-11.31.44:323][698]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.31.48:242][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.31.48:250][142]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.31.48:250][142]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.31.48:251][142]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 717 us (total: 289.840 ms)
+[2026.04.13-11.31.48:251][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.31.48:287][142]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.31.48:291][142]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.31.48:292][142]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 474 us (total: 12.430 ms)
+[2026.04.13-11.31.48:292][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004188s)
+[2026.04.13-11.31.48:292][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004250s)
+[2026.04.13-11.31.48:313][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.04.13-11.31.48:315][142]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.31.48:317][142]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.31.48:317][142]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.31.48:317][142]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.31.48:317][142]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.31.48:318][142]LogWorldPartition: Display: WorldPartition initialize took 989 us (total: 1.02 sec)
+[2026.04.13-11.31.48:318][142]LogPlayLevel: PIE: World Init took: (0.002933s)
+[2026.04.13-11.31.48:319][142]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.31.48:319][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.31.48:319][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.31.48:319][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.31.48:319][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.31.48:319][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.31.48:321][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.31.48:394][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.31.48:394][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.31.48:394][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.31.48:394][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.31.48:395][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.13-11.31.48:395][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.13-11.31.48:398][142]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.13-11.31.48:398][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.13-11.31.48:398][142]LogAudio: Display: Audio Device (ID: 15) registered with world 'Boat_Race'.
+[2026.04.13-11.31.48:398][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.13-11.31.48:398][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.13-11.31.48:406][142]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.31.48:407][142]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.31.48
+[2026.04.13-11.31.48:407][142]LogWorld: Bringing up level for play took: 0.001319
+[2026.04.13-11.31.48:409][142]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.13-11.31.48:419][142]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.48:422][142]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.48:425][142]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.48:425][142]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.31.48:425][142]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.31.48:425][142]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.31.48:427][142]PIE: Server logged in
+[2026.04.13-11.31.48:429][142]PIE: Play in editor total start time 0.178 seconds.
+[2026.04.13-11.31.48:476][143]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.31.49:819][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.31.49:819][292]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.31.49:819][292]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.31.49:820][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.49:820][292]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.31.49:821][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.31.49:825][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.49:847][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.31.49:847][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.13-11.31.49:847][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.04.13-11.31.49:849][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.04.13-11.31.49:860][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.04.13-11.31.49:928][294]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.13-11.31.53:143][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.31.53:152][654]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.31.53:152][654]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.31.53:153][654]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 715 us (total: 290.555 ms)
+[2026.04.13-11.31.53:153][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.31.53:197][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.31.53:201][654]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.31.53:201][654]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 469 us (total: 12.899 ms)
+[2026.04.13-11.31.53:201][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004035s)
+[2026.04.13-11.31.53:201][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004072s)
+[2026.04.13-11.31.53:223][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.04.13-11.31.53:225][654]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.31.53:226][654]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.31.53:226][654]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.31.53:226][654]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.31.53:227][654]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.31.53:227][654]LogWorldPartition: Display: WorldPartition initialize took 991 us (total: 1.02 sec)
+[2026.04.13-11.31.53:227][654]LogPlayLevel: PIE: World Init took: (0.002906s)
+[2026.04.13-11.31.53:228][654]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.31.53:228][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.31.53:228][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.31.53:228][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.31.53:228][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.31.53:228][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.31.53:230][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.31.53:297][654]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.31.53:297][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.31.53:298][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.31.53:298][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.31.53:298][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.13-11.31.53:298][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.13-11.31.53:300][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.13-11.31.53:300][654]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.13-11.31.53:300][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.13-11.31.53:300][654]LogAudio: Display: Audio Device (ID: 16) registered with world 'Boat_Race'.
+[2026.04.13-11.31.53:300][654]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.13-11.31.53:304][654]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.31.53:305][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.31.53
+[2026.04.13-11.31.53:305][654]LogWorld: Bringing up level for play took: 0.001163
+[2026.04.13-11.31.53:308][654]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.04.13-11.31.53:316][654]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.53:319][654]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.53:323][654]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.31.53:323][654]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.31.53:323][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.31.53:323][654]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.31.53:324][654]PIE: Server logged in
+[2026.04.13-11.31.53:326][654]PIE: Play in editor total start time 0.174 seconds.
+[2026.04.13-11.31.53:368][655]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.31.53:428][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.31.53:428][655]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.31.53:428][655]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.31.53:429][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.53:429][655]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.31.53:430][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.31.53:435][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.31.53:455][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.31.53:455][655]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.13-11.31.53:455][655]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.04.13-11.31.53:457][655]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.04.13-11.31.53:467][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.04.13-11.31.53:500][656]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.04.13-11.31.53:658][672]Cmd: SELECT NONE
+[2026.04.13-11.31.57:190][ 46]Cmd: EDIT COPY
+[2026.04.13-11.32.02:280][585]Cmd: EDIT COPY
+[2026.04.13-11.32.03:667][730]Cmd: EDIT PASTE
+[2026.04.13-11.32.03:675][730]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.13-11.32.41:262][648]Cmd: EDIT COPY
+[2026.04.13-11.32.41:589][683]Cmd: EDIT PASTE
+[2026.04.13-11.32.41:600][683]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.13-11.33.19:865][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-11.33.19:903][678]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/B/75/4SV0AAMAV1M9WYIIG8P597
+[2026.04.13-11.33.19:903][678]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/4SV0AAMAV1M9WYIIG8P5970B1285594A4177A56F70699039630151.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/B/75/4SV0AAMAV1M9WYIIG8P597.uasset'
+[2026.04.13-11.33.19:909][678]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/D/WU/TK1DB4MOEGL7O8XSLIQLQK
+[2026.04.13-11.33.19:909][678]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/TK1DB4MOEGL7O8XSLIQLQK088DE1C44E6A84B37B8F649ABF67CD1B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/D/WU/TK1DB4MOEGL7O8XSLIQLQK.uasset'
+[2026.04.13-11.33.19:914][678]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/3/DX/Y0IKEGM3JYSDWJE8SATH9J
+[2026.04.13-11.33.19:914][678]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Y0IKEGM3JYSDWJE8SATH9JC77F5CB04D9DD46D53DD83AD0ACD3401.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/3/DX/Y0IKEGM3JYSDWJE8SATH9J.uasset'
+[2026.04.13-11.33.19:926][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.542 ms (total: 1.28 sec)
+[2026.04.13-11.33.19:963][678]LogContentValidation: Display: Starting to validate 3 assets
+[2026.04.13-11.33.19:963][678]LogContentValidation: Enabled validators:
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-11.33.19:963][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-11.33.19:964][678]AssetCheck: /Game/Levels/Boat_Race Validating asset
+[2026.04.13-11.33.19:993][678]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.13-11.34.12:603][201]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.34.12:611][201]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.34.12:612][201]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.34.12:612][201]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 780 us (total: 291.335 ms)
+[2026.04.13-11.34.12:612][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.34.12:613][201]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.12:616][201]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.34.12:617][201]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 605 us (total: 13.505 ms)
+[2026.04.13-11.34.12:617][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004925s)
+[2026.04.13-11.34.12:617][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004959s)
+[2026.04.13-11.34.12:644][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.04.13-11.34.12:649][201]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.34.12:651][201]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.34.12:651][201]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.34.12:651][201]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.34.12:651][201]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.34.12:652][201]LogWorldPartition: Display: WorldPartition initialize took 1.136 ms (total: 1.03 sec)
+[2026.04.13-11.34.12:652][201]LogPlayLevel: PIE: World Init took: (0.003355s)
+[2026.04.13-11.34.12:653][201]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.34.12:653][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.34.12:653][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.34.12:653][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.34.12:653][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.34.12:653][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.34.12:656][201]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.34.12:730][201]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.34.12:731][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.34.12:731][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.34.12:731][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.34.12:732][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.13-11.34.12:732][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.13-11.34.12:734][201]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.13-11.34.12:734][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.13-11.34.12:734][201]LogAudio: Display: Audio Device (ID: 17) registered with world 'Boat_Race'.
+[2026.04.13-11.34.12:734][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.13-11.34.12:734][201]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.13-11.34.12:737][201]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.34.12:739][201]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.34.12
+[2026.04.13-11.34.12:739][201]LogWorld: Bringing up level for play took: 0.001237
+[2026.04.13-11.34.12:741][201]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.04.13-11.34.12:751][201]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.12:755][201]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.12:758][201]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.12:758][201]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.34.12:758][201]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.34.12:758][201]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.34.12:759][201]PIE: Server logged in
+[2026.04.13-11.34.12:761][201]PIE: Play in editor total start time 0.15 seconds.
+[2026.04.13-11.34.12:808][202]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.34.24:718][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.24:718][581]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.24:718][581]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.34.24:719][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.24:719][581]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.34.24:721][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.34.24:726][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.24:746][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.24:746][581]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.13-11.34.24:746][581]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.04.13-11.34.24:749][581]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.04.13-11.34.24:758][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.04.13-11.34.24:812][582]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.04.13-11.34.26:604][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.34.26:613][766]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.34.26:613][766]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.34.26:614][766]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 713 us (total: 292.049 ms)
+[2026.04.13-11.34.26:614][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.34.26:647][766]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.26:651][766]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.34.26:651][766]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 537 us (total: 14.042 ms)
+[2026.04.13-11.34.26:651][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004383s)
+[2026.04.13-11.34.26:651][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004421s)
+[2026.04.13-11.34.26:673][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.13-11.34.26:675][766]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.34.26:676][766]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.34.26:676][766]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.34.26:676][766]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.34.26:676][766]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.34.26:677][766]LogWorldPartition: Display: WorldPartition initialize took 1.054 ms (total: 1.03 sec)
+[2026.04.13-11.34.26:677][766]LogPlayLevel: PIE: World Init took: (0.002995s)
+[2026.04.13-11.34.26:678][766]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.34.26:678][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.34.26:678][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.34.26:678][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.34.26:678][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.34.26:678][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.34.26:680][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.34.26:748][766]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.34.26:749][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.34.26:749][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.34.26:749][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.34.26:749][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.13-11.34.26:749][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.13-11.34.26:752][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.13-11.34.26:752][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.13-11.34.26:753][766]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.13-11.34.26:753][766]LogAudio: Display: Audio Device (ID: 18) registered with world 'Boat_Race'.
+[2026.04.13-11.34.26:753][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.13-11.34.26:757][766]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.34.26:758][766]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.34.26
+[2026.04.13-11.34.26:758][766]LogWorld: Bringing up level for play took: 0.001197
+[2026.04.13-11.34.26:760][766]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.13-11.34.26:768][766]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.26:771][766]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.26:774][766]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.26:774][766]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.34.26:774][766]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.34.26:774][766]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.34.26:776][766]PIE: Server logged in
+[2026.04.13-11.34.26:778][766]PIE: Play in editor total start time 0.165 seconds.
+[2026.04.13-11.34.26:823][767]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.34.28:667][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.28:667][973]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.28:668][973]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.34.28:668][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.28:668][973]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.34.28:669][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.34.28:675][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.28:696][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.28:696][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.13-11.34.28:696][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.04.13-11.34.28:699][973]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.04.13-11.34.28:708][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.04.13-11.34.28:772][974]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.13-11.34.32:924][410]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.34.32:934][410]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.34.32:934][410]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.34.32:934][410]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 691 us (total: 292.741 ms)
+[2026.04.13-11.34.32:934][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.34.32:957][410]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.32:961][410]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.34.32:961][410]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 547 us (total: 14.590 ms)
+[2026.04.13-11.34.32:961][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004462s)
+[2026.04.13-11.34.32:961][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004500s)
+[2026.04.13-11.34.32:985][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2026.04.13-11.34.32:986][410]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.34.32:988][410]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.34.32:988][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.34.32:988][410]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.34.32:988][410]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.34.32:990][410]LogWorldPartition: Display: WorldPartition initialize took 1.107 ms (total: 1.03 sec)
+[2026.04.13-11.34.32:990][410]LogPlayLevel: PIE: World Init took: (0.003149s)
+[2026.04.13-11.34.32:990][410]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.34.32:990][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.34.32:990][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.34.32:990][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.34.32:990][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.34.32:991][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.34.32:993][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.34.33:061][410]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.34.33:061][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.34.33:061][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.34.33:061][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.34.33:062][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.13-11.34.33:062][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.13-11.34.33:064][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.13-11.34.33:064][410]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.13-11.34.33:064][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.13-11.34.33:064][410]LogAudio: Display: Audio Device (ID: 19) registered with world 'Boat_Race'.
+[2026.04.13-11.34.33:064][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.13-11.34.33:068][410]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.34.33:070][410]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.34.33
+[2026.04.13-11.34.33:070][410]LogWorld: Bringing up level for play took: 0.001252
+[2026.04.13-11.34.33:072][410]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.04.13-11.34.33:080][410]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.33:083][410]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.33:086][410]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.33:086][410]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.34.33:087][410]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.34.33:087][410]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.34.33:087][410]PIE: Server logged in
+[2026.04.13-11.34.33:089][410]PIE: Play in editor total start time 0.155 seconds.
+[2026.04.13-11.34.33:133][411]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.34.36:137][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.36:137][752]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.36:137][752]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.34.36:138][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.36:138][752]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.34.36:139][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.34.36:145][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.34.36:164][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.34.36:164][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.13-11.34.36:164][752]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.04.13-11.34.36:168][752]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.04.13-11.34.36:178][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.04.13-11.34.36:232][753]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.04.13-11.34.37:787][908]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-11.34.37:797][908]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-11.34.37:797][908]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.13-11.34.37:797][908]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 692 us (total: 293.434 ms)
+[2026.04.13-11.34.37:798][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-11.34.37:798][908]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.34.37:802][908]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.13-11.34.37:802][908]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 587 us (total: 15.177 ms)
+[2026.04.13-11.34.37:802][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004475s)
+[2026.04.13-11.34.37:802][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004506s)
+[2026.04.13-11.34.37:833][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.04.13-11.34.37:835][908]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.13-11.34.37:836][908]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-11.34.37:836][908]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.34.37:836][908]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.34.37:836][908]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-11.34.37:837][908]LogWorldPartition: Display: WorldPartition initialize took 1.184 ms (total: 1.03 sec)
+[2026.04.13-11.34.37:837][908]LogPlayLevel: PIE: World Init took: (0.003259s)
+[2026.04.13-11.34.37:838][908]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-11.34.37:838][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-11.34.37:838][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-11.34.37:838][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-11.34.37:838][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-11.34.37:838][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-11.34.37:841][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-11.34.37:912][908]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-11.34.37:912][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-11.34.37:912][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-11.34.37:912][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-11.34.37:912][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.13-11.34.37:912][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.13-11.34.37:916][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.13-11.34.37:916][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.13-11.34.37:916][908]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.13-11.34.37:916][908]LogAudio: Display: Audio Device (ID: 20) registered with world 'Boat_Race'.
+[2026.04.13-11.34.37:916][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.13-11.34.37:919][908]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.13-11.34.37:921][908]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.13-12.34.37
+[2026.04.13-11.34.37:921][908]LogWorld: Bringing up level for play took: 0.001343
+[2026.04.13-11.34.37:923][908]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.04.13-11.34.37:931][908]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 1090.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.37:934][908]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.37:937][908]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -1140.000000 -545.000000 112.012643
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.13-11.34.37:937][908]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.13-11.34.37:938][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.13-11.34.37:938][908]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.13-11.34.37:938][908]PIE: Server logged in
+[2026.04.13-11.34.37:940][908]PIE: Play in editor total start time 0.144 seconds.
+[2026.04.13-11.34.37:986][909]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.35.01:299][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.35.01:299][409]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.13-11.35.01:299][409]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.35.01:299][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.35.01:299][409]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.13-11.35.01:300][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-11.35.01:305][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.35.01:329][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-11.35.01:330][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.13-11.35.01:330][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.04.13-11.35.01:333][409]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.04.13-11.35.01:342][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.04.13-11.35.01:394][410]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.04.13-11.35.15:778][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2026.04.13-11.35.15:781][896]LogStreaming: Display: FlushAsyncLoading(1343): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-11.35.15:809][896]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.04.13-11.35.15:811][896]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.13-11.35.15:811][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.35.15:811][896]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.35.15:849][896]LogWorldPartition: Display: WorldPartition initialize took 38.279 ms (total: 1.07 sec)
+[2026.04.13-11.35.15:852][896]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.13-11.35.15:852][896]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Peg_Leg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.13-11.35.15:900][896]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.35.15:900][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.35.15:900][896]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Boat_Race.Boat_Race
+[2026.04.13-11.35.15:927][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-11.35.15:931][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.04.13-11.35.15:933][896]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-11.35.15:934][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-11.35.15:934][896]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.13-11.35.15:960][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.04.13-11.35.16:038][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.04.13-11.35.16:067][896]LogAudio: Display: Audio Device (ID: 1) registered with world 'Peg_Leg'.
+[2026.04.13-11.35.16:067][896]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.04.13-11.35.16:071][896]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.13-11.35.16:071][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-11.35.16:071][896]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-11.35.16:103][896]LogWorldPartition: Display: WorldPartition initialize took 32.848 ms (total: 1.10 sec)
+[2026.04.13-11.35.16:118][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.13-11.35.16:142][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.04.13-11.35.16:151][896]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.13-11.35.16:152][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.625ms to complete.
+[2026.04.13-11.35.16:240][898]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.13-11.36.50:520][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8932.921875
+[2026.04.13-11.36.50:677][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.36.50:677][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8933.069336, Update Interval: 354.830780
+[2026.04.13-11.41.57:821][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.04.13-11.41.58:851][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-11.41.58:883][470]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.13-11.41.58:993][470]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.04.13-11.41.58:993][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.13-11.41.59:029][470]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.13-11.41.59:030][470]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacterAC1A6F11424B72262F66B9A78AEC33BB.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.13-11.41.59:039][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.998 ms (total: 1.47 sec)
+[2026.04.13-11.41.59:098][470]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-11.41.59:098][470]LogContentValidation: Enabled validators:
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-11.41.59:098][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-11.41.59:098][470]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.13-11.42.20:310][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-11.42.20:348][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.13-11.42.20:348][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.13-11.42.20:383][592]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.13-11.42.20:384][592]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_ThirdPersonCharacter1CD9BC8E436E7F15A8C7E4AC84A70017.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.13-11.42.20:392][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.670 ms (total: 1.55 sec)
+[2026.04.13-11.42.20:447][592]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-11.42.20:447][592]LogContentValidation: Enabled validators:
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-11.42.20:447][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-11.42.20:448][592]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.13-11.43.31:866][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9334.287109
+[2026.04.13-11.43.32:011][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-11.43.32:011][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9334.422852, Update Interval: 354.206360
