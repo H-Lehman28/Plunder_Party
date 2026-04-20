@@ -10982,3 +10982,995 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.04.20-11.57.21:869][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.04.20-11.57.21:875][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2026.04.20-11.57.21:903][330]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.04.20-12.01.54:088][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10752.868164
+[2026.04.20-12.01.55:085][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.01.55:085][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10753.540039, Update Interval: 348.033691
+[2026.04.20-12.03.48:335][899]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-12.04.42:879][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.20-12.04.42:889][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto3
+[2026.04.20-12.04.42:889][ 62]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HWG145JYFAVAFXPZJDHF3G_Auto36738BDA84FD67E76B1D5EEB14E644C47.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto3.uasset'
+[2026.04.20-12.04.42:893][ 62]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto3
+[2026.04.20-12.04.42:893][ 62]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/P3FEEGSJDDS59Y04CN20HC_Auto332BA66694FE5B6207FD74DA27C15DC79.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto3.uasset'
+[2026.04.20-12.04.42:895][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.041
+[2026.04.20-12.04.42:895][ 62]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2026.04.20-12.08.23:165][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11141.956055
+[2026.04.20-12.08.24:164][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.08.24:164][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11142.621094, Update Interval: 349.692688
+[2026.04.20-12.14.45:885][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11524.682617
+[2026.04.20-12.14.46:883][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.14.46:883][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11525.349609, Update Interval: 349.659729
+[2026.04.20-12.21.26:610][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11925.413086
+[2026.04.20-12.21.27:609][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.21.27:609][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11926.078125, Update Interval: 316.990875
+[2026.04.20-12.27.39:666][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12298.465820
+[2026.04.20-12.27.40:665][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.27.40:665][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12299.131836, Update Interval: 353.433624
+[2026.04.20-12.31.23:626][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:626][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:626][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:627][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:631][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:631][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:631][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:640][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:640][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:640][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:641][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:642][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:642][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:642][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:644][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:943][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:946][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:946][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:953][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:954][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:954][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:955][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.31.23:957][865]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.34.15:065][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12693.889648
+[2026.04.20-12.34.16:064][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.34.16:064][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12694.554688, Update Interval: 311.686157
+[2026.04.20-12.39.17:400][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:400][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:401][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:401][285]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.39.17:835][287]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.40.00:890][416]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.20-12.40.00:890][416]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.20-12.40.00:992][416]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.04.20-12.40.00:992][416]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
+[2026.04.20-12.40.12:457][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13051.288086
+[2026.04.20-12.40.13:459][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.40.13:459][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13051.956055, Update Interval: 354.085510
+[2026.04.20-12.41.17:938][647]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.41.17:938][647]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.41.17:938][647]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.41.17:939][647]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.41.17:940][647]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:795][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:798][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:800][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:800][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:800][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:800][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:805][817]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:809][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:809][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:809][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:809][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:810][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:810][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.14:810][818]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:584][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:596][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:596][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:596][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:596][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:696][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:701][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:701][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.23:701][844]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:579][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:595][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:643][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:643][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:643][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:643][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:736][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:736][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:737][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:737][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.28:742][859]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:348][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:351][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:351][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:351][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.42.30:353][864]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.43.20:072][ 13]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.162.31:63667, Sequence=0
+[2026.04.20-12.47.00:862][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13459.697266
+[2026.04.20-12.47.01:859][678]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.47.01:859][678]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13460.361328, Update Interval: 348.551880
+[2026.04.20-12.48.21:466][449]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-12.48.21:475][449]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-12.48.21:475][449]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.20-12.48.21:476][449]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.031 ms (total: 70.147 ms)
+[2026.04.20-12.48.21:476][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-12.48.21:512][449]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-12.48.21:516][449]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-12.48.21:516][449]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 557 us (total: 33.984 ms)
+[2026.04.20-12.48.21:517][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004862s)
+[2026.04.20-12.48.21:517][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004908s)
+[2026.04.20-12.48.21:535][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.20-12.48.21:537][449]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.20-12.48.21:539][449]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-12.48.21:539][449]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-12.48.21:539][449]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-12.48.21:539][449]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-12.48.21:540][449]LogWorldPartition: Display: WorldPartition initialize took 1.129 ms (total: 1.48 sec)
+[2026.04.20-12.48.21:540][449]LogPlayLevel: PIE: World Init took: (0.003266s)
+[2026.04.20-12.48.21:541][449]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-12.48.21:541][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-12.48.21:541][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-12.48.21:541][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-12.48.21:541][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-12.48.21:541][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-12.48.21:543][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-12.48.21:617][449]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.20-12.48.21:618][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-12.48.21:618][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-12.48.21:618][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-12.48.21:619][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.04.20-12.48.21:619][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.04.20-12.48.21:620][449]LogInit: FAudioDevice initialized with ID 42.
+[2026.04.20-12.48.21:620][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.04.20-12.48.21:620][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.04.20-12.48.21:620][449]LogAudio: Display: Audio Device (ID: 42) registered with world 'Boat_Race'.
+[2026.04.20-12.48.21:620][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.04.20-12.48.21:625][449]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-12.48.21:627][449]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.20-13.48.21
+[2026.04.20-12.48.21:627][449]LogWorld: Bringing up level for play took: 0.001358
+[2026.04.20-12.48.21:629][449]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.04.20-12.48.21:645][449]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.48.21:646][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.20-12.48.21:646][449]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.20-12.48.21:646][449]PIE: Server logged in
+[2026.04.20-12.48.21:649][449]PIE: Play in editor total start time 0.173 seconds.
+[2026.04.20-12.48.21:700][450]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-12.48.26:398][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hit!
+[2026.04.20-12.48.26:594][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 361
+[2026.04.20-12.48.33:392][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-12.48.33:392][732]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-12.48.33:392][732]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.48.33:393][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.48.33:393][732]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.20-12.48.33:395][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-12.48.33:398][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.48.33:417][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-12.48.33:417][732]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.04.20-12.48.33:417][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.04.20-12.48.33:419][732]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.04.20-12.48.33:426][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.20-12.48.33:460][733]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.04.20-12.48.34:704][876]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-12.48.34:711][876]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-12.48.34:711][876]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.20-12.48.34:712][876]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 802 us (total: 70.949 ms)
+[2026.04.20-12.48.34:712][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-12.48.34:713][876]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-12.48.34:717][876]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-12.48.34:717][876]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 609 us (total: 34.594 ms)
+[2026.04.20-12.48.34:717][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004767s)
+[2026.04.20-12.48.34:717][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004802s)
+[2026.04.20-12.48.34:749][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.20-12.48.34:751][876]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.20-12.48.34:753][876]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-12.48.34:753][876]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-12.48.34:753][876]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-12.48.34:753][876]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-12.48.34:754][876]LogWorldPartition: Display: WorldPartition initialize took 1.187 ms (total: 1.48 sec)
+[2026.04.20-12.48.34:754][876]LogPlayLevel: PIE: World Init took: (0.003120s)
+[2026.04.20-12.48.34:755][876]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-12.48.34:755][876]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-12.48.34:755][876]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-12.48.34:755][876]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-12.48.34:755][876]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-12.48.34:755][876]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-12.48.34:757][876]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-12.48.34:831][876]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.20-12.48.34:831][876]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-12.48.34:831][876]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-12.48.34:831][876]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-12.48.34:832][876]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.04.20-12.48.34:832][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.04.20-12.48.34:835][876]LogInit: FAudioDevice initialized with ID 43.
+[2026.04.20-12.48.34:835][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.04.20-12.48.34:835][876]LogAudio: Display: Audio Device (ID: 43) registered with world 'Boat_Race'.
+[2026.04.20-12.48.34:835][876]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.04.20-12.48.34:835][876]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.04.20-12.48.34:838][876]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-12.48.34:839][876]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.20-13.48.34
+[2026.04.20-12.48.34:839][876]LogWorld: Bringing up level for play took: 0.001298
+[2026.04.20-12.48.34:842][876]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.04.20-12.48.34:857][876]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.48.34:857][876]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.20-12.48.34:857][876]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.20-12.48.34:858][876]PIE: Server logged in
+[2026.04.20-12.48.34:859][876]PIE: Play in editor total start time 0.148 seconds.
+[2026.04.20-12.48.34:908][877]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-12.48.40:460][474]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hit!
+[2026.04.20-12.48.40:656][495]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 361
+[2026.04.20-12.49.14:944][262]LogBlueprintUserMessages: [BP_FinishLine_C_UAID_4CD7178F4E2037C602_1684651264] You Win!
+[2026.04.20-12.49.14:953][263]LogBlueprintUserMessages: [BP_FinishLine_C_UAID_4CD7178F4E2037C602_1684651264] You Win!
+[2026.04.20-12.49.16:948][482]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Game_Select"
+[2026.04.20-12.49.16:948][482]LogNet: Browse: /Game/Levels/Game_Select
+[2026.04.20-12.49.16:948][482]LogLoad: LoadMap: /Game/Levels/Game_Select
+[2026.04.20-12.49.16:948][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-12.49.16:950][482]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.49.16:950][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.49.16:950][482]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.20-12.49.16:997][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-12.49.17:001][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.20-12.49.17:003][482]LogStreaming: Display: FlushAsyncLoading(1717): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-12.49.17:028][482]LogAudio: Display: Audio Device (ID: 43) registered with world 'Game_Select'.
+[2026.04.20-12.49.17:028][482]LogChaosDD: Creating Chaos Debug Draw Scene for world Game_Select
+[2026.04.20-12.49.17:030][482]LogWorldPartition: ULevel::OnLevelLoaded(Game_Select)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-12.49.17:030][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-12.49.17:030][482]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.20-12.49.17:030][482]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-12.49.17:032][482]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' started...
+[2026.04.20-12.49.17:063][482]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' took 30.353 ms (total: 101.302 ms)
+[2026.04.20-12.49.17:064][482]LogWorldPartition: Display: WorldPartition initialize took 33.558 ms (total: 1.51 sec)
+[2026.04.20-12.49.17:064][482]LogPlayLevel: PIE: World Init took: (0.035559s)
+[2026.04.20-12.49.17:064][482]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-12.49.17:067][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game_Select.Game_Select up for play (max tick rate 0) at 2026.04.20-13.49.17
+[2026.04.20-12.49.17:067][482]LogWorld: Bringing up level for play took: 0.002843
+[2026.04.20-12.49.17:081][482]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.49.17:081][482]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.49.17:081][482]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.49.17:081][482]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-12.49.17:081][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.20-12.49.17:081][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.04.20-12.49.17:082][482]LogLoad: Took 0.133886 seconds to LoadMap(/Game/Levels/Game_Select)
+[2026.04.20-12.49.17:082][482]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Game_Select
+[2026.04.20-12.49.17:092][482]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-12.49.18:062][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-12.49.18:062][584]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Game_Select
+[2026.04.20-12.49.18:062][584]LogWorld: UWorld::CleanupWorld for Game_Select, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-12.49.18:063][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.49.18:063][584]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select
+[2026.04.20-12.49.18:064][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-12.49.18:068][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-12.49.18:095][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-12.49.18:095][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.04.20-12.49.18:095][584]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.04.20-12.49.18:097][584]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.04.20-12.49.18:110][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.20-12.49.18:137][585]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.04.20-12.53.41:559][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13860.713867
+[2026.04.20-12.53.41:712][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-12.53.41:712][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13860.856445, Update Interval: 345.607483
+[2026.04.20-12.54.29:672][125]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.20-12.54.59:220][106]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.20-12.54.59:228][106]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.20-12.54.59:239][106]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.20-12.54.59:255][107]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.20-12.55.06:329][793]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Boat
+[2026.04.20-12.55.06:337][793]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.20-12.55.08:279][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat
+[2026.04.20-12.55.08:279][946]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.04.20-12.55.13:094][278]LogSlate: Window 'BP_Boat' being destroyed
+[2026.04.20-12.56.24:166][511]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat: [Compiler] In use pin  X Axis  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2026.04.20-12.56.24:166][511]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat: [Compiler] In use pin  Y Axis  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2026.04.20-12.56.24:166][511]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat: [Compiler] In use pin  X Axis  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2026.04.20-12.56.24:166][511]LogBlueprint: Error: [AssetLog] /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat: [Compiler] In use pin  Y Axis  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2026.04.20-12.56.24:232][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.20-12.56.39:457][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.20-12.56.57:538][427]LogEditorTransaction: Undo Paste clipboard contents
+[2026.04.20-12.58.14:423][344]Cmd: TRANSACTION UNDO
+[2026.04.20-12.58.14:423][344]LogEditorTransaction: Undo Add Out Parameter
+[2026.04.20-13.00.04:808][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14244.067383
+[2026.04.20-13.00.05:108][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.00.05:108][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14244.318359, Update Interval: 327.492310
+[2026.04.20-13.00.11:596][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Input/Touch/BPI_TouchInterface.BPI_TouchInterface
+[2026.04.20-13.00.11:597][695]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.04.20-13.00.25:312][270]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.00.25:312][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.00.25:378][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.04.20-13.00.30:472][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.20-13.00.31:122][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-13.00.31:179][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.20-13.00.31:179][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.20-13.00.31:189][905]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.20-13.00.31:189][905]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BoatE511206D49430EB9143E2481B49E0945.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.20-13.00.31:199][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.351 ms (total: 7.79 sec)
+[2026.04.20-13.00.31:246][905]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-13.00.31:246][905]LogContentValidation: Enabled validators:
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.00.31:246][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.00.31:246][905]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.20-13.00.31:264][905]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.00.37:762][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.04.20-13.00.44:398][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.20-13.00.45:081][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-13.00.45:130][359]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.20-13.00.45:139][359]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.20-13.00.45:139][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.20-13.00.45:149][359]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.20-13.00.45:150][359]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat248758CF400259EB2362BBAD0421F22B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.20-13.00.45:157][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.358 ms (total: 7.87 sec)
+[2026.04.20-13.00.45:212][359]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-13.00.45:212][359]LogContentValidation: Enabled validators:
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.00.45:212][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.00.45:212][359]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.20-13.01.41:165][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-13.01.41:172][370]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-13.01.41:172][370]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.20-13.01.41:173][370]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.053 ms (total: 102.356 ms)
+[2026.04.20-13.01.41:173][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-13.01.41:204][370]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.01.41:208][370]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-13.01.41:209][370]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 551 us (total: 35.146 ms)
+[2026.04.20-13.01.41:209][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004786s)
+[2026.04.20-13.01.41:209][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004830s)
+[2026.04.20-13.01.41:231][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.20-13.01.41:237][370]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.20-13.01.41:238][370]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-13.01.41:238][370]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-13.01.41:238][370]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-13.01.41:238][370]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-13.01.41:240][370]LogWorldPartition: Display: WorldPartition initialize took 1.189 ms (total: 1.51 sec)
+[2026.04.20-13.01.41:240][370]LogPlayLevel: PIE: World Init took: (0.003285s)
+[2026.04.20-13.01.41:241][370]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-13.01.41:241][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-13.01.41:241][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-13.01.41:241][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-13.01.41:241][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-13.01.41:241][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-13.01.41:243][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-13.01.41:318][370]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.20-13.01.41:318][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-13.01.41:318][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-13.01.41:318][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-13.01.41:319][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.04.20-13.01.41:319][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.04.20-13.01.41:323][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.04.20-13.01.41:323][370]LogInit: FAudioDevice initialized with ID 44.
+[2026.04.20-13.01.41:323][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.04.20-13.01.41:323][370]LogAudio: Display: Audio Device (ID: 44) registered with world 'Boat_Race'.
+[2026.04.20-13.01.41:323][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.04.20-13.01.41:327][370]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-13.01.41:328][370]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.20-14.01.41
+[2026.04.20-13.01.41:329][370]LogWorld: Bringing up level for play took: 0.001455
+[2026.04.20-13.01.41:331][370]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.04.20-13.01.41:346][370]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-13.01.41:347][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.20-13.01.41:347][370]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.20-13.01.41:347][370]PIE: Server logged in
+[2026.04.20-13.01.41:349][370]PIE: Play in editor total start time 0.178 seconds.
+[2026.04.20-13.01.41:398][371]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-13.01.42:645][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.01.42:645][505]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.01.42:645][505]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.01.42:646][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.01.42:646][505]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.20-13.01.42:648][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-13.01.42:652][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.01.42:673][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.01.42:674][505]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.04.20-13.01.42:674][505]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.04.20-13.01.42:677][505]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.04.20-13.01.42:684][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.20-13.01.42:743][506]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.04.20-13.03.48:336][ 87]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.20-13.04.31:282][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.20-13.04.31:292][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto4
+[2026.04.20-13.04.31:292][579]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HWG145JYFAVAFXPZJDHF3G_Auto400C9FAFB4EFE7043CCDB77BE6C92220C.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto4.uasset'
+[2026.04.20-13.04.31:298][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto4
+[2026.04.20-13.04.31:298][579]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/P3FEEGSJDDS59Y04CN20HC_Auto4995E60E24B02D241EEBC42A6276CAEB1.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto4.uasset'
+[2026.04.20-13.04.31:299][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.047
+[2026.04.20-13.04.31:299][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.04.20-13.06.31:234][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14630.897461
+[2026.04.20-13.06.31:388][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.06.31:388][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14631.042969, Update Interval: 351.520142
+[2026.04.20-13.07.09:837][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-13.07.09:844][470]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-13.07.09:845][470]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.20-13.07.09:846][470]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.052 ms (total: 103.408 ms)
+[2026.04.20-13.07.09:846][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-13.07.09:846][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.07.09:851][470]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-13.07.09:852][470]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 611 us (total: 35.757 ms)
+[2026.04.20-13.07.09:852][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005311s)
+[2026.04.20-13.07.09:852][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.005351s)
+[2026.04.20-13.07.09:878][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.20-13.07.09:882][470]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.20-13.07.09:884][470]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-13.07.09:884][470]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-13.07.09:884][470]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-13.07.09:884][470]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-13.07.09:885][470]LogWorldPartition: Display: WorldPartition initialize took 1.185 ms (total: 1.52 sec)
+[2026.04.20-13.07.09:885][470]LogPlayLevel: PIE: World Init took: (0.003376s)
+[2026.04.20-13.07.09:886][470]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-13.07.09:886][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-13.07.09:886][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-13.07.09:886][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-13.07.09:886][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-13.07.09:886][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-13.07.09:890][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-13.07.09:967][470]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.20-13.07.09:967][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-13.07.09:967][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-13.07.09:967][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-13.07.09:968][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.04.20-13.07.09:968][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.04.20-13.07.09:970][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.04.20-13.07.09:970][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.04.20-13.07.09:970][470]LogInit: FAudioDevice initialized with ID 45.
+[2026.04.20-13.07.09:970][470]LogAudio: Display: Audio Device (ID: 45) registered with world 'Boat_Race'.
+[2026.04.20-13.07.09:970][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.04.20-13.07.09:975][470]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-13.07.09:977][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.20-14.07.09
+[2026.04.20-13.07.09:977][470]LogWorld: Bringing up level for play took: 0.001383
+[2026.04.20-13.07.09:979][470]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2026.04.20-13.07.09:995][470]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-13.07.09:995][470]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.20-13.07.09:995][470]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.20-13.07.09:996][470]PIE: Server logged in
+[2026.04.20-13.07.09:998][470]PIE: Play in editor total start time 0.153 seconds.
+[2026.04.20-13.07.10:049][471]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-13.07.49:730][786]LogBlueprintUserMessages: [BP_FinishLine_C_UAID_4CD7178F4E2037C602_1684651264] You Win!
+[2026.04.20-13.07.49:730][786]LogBlueprintUserMessages: [BP_FinishLine_C_UAID_4CD7178F4E2037C602_1684651264] You Win!
+[2026.04.20-13.07.50:802][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.07.50:802][900]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.07.50:804][900]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.07.50:804][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.07.50:804][900]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.20-13.07.50:805][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-13.07.50:811][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.07.50:832][900]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-13.07.50:832][900]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.04.20-13.07.50:833][900]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.04.20-13.07.50:835][900]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.04.20-13.07.50:840][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.07.50:843][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.20-13.07.50:917][901]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2026.04.20-13.07.59:091][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-13.07.59:100][759]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-13.07.59:100][759]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.20-13.07.59:101][759]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 866 us (total: 104.274 ms)
+[2026.04.20-13.07.59:101][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-13.07.59:101][759]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.07.59:105][759]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.20-13.07.59:106][759]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 606 us (total: 36.363 ms)
+[2026.04.20-13.07.59:106][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005038s)
+[2026.04.20-13.07.59:106][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.005076s)
+[2026.04.20-13.07.59:134][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.20-13.07.59:138][759]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.20-13.07.59:140][759]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-13.07.59:140][759]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-13.07.59:140][759]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-13.07.59:140][759]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-13.07.59:140][759]LogWorldPartition: Display: WorldPartition initialize took 1.142 ms (total: 1.52 sec)
+[2026.04.20-13.07.59:140][759]LogPlayLevel: PIE: World Init took: (0.003077s)
+[2026.04.20-13.07.59:141][759]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-13.07.59:141][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-13.07.59:141][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-13.07.59:141][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-13.07.59:141][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-13.07.59:141][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-13.07.59:144][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-13.07.59:217][759]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.20-13.07.59:217][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-13.07.59:218][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-13.07.59:218][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-13.07.59:218][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.04.20-13.07.59:218][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2026.04.20-13.07.59:220][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.04.20-13.07.59:220][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2026.04.20-13.07.59:220][759]LogInit: FAudioDevice initialized with ID 46.
+[2026.04.20-13.07.59:220][759]LogAudio: Display: Audio Device (ID: 46) registered with world 'Boat_Race'.
+[2026.04.20-13.07.59:220][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.04.20-13.07.59:224][759]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.20-13.07.59:226][759]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.20-14.07.59
+[2026.04.20-13.07.59:226][759]LogWorld: Bringing up level for play took: 0.001243
+[2026.04.20-13.07.59:228][759]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2026.04.20-13.07.59:243][759]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.20-13.07.59:244][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.20-13.07.59:244][759]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.20-13.07.59:244][759]PIE: Server logged in
+[2026.04.20-13.07.59:247][759]PIE: Play in editor total start time 0.147 seconds.
+[2026.04.20-13.07.59:296][760]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.20-13.08.01:502][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.08.01:502][993]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.20-13.08.01:502][993]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.08.01:503][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.08.01:503][993]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.20-13.08.01:505][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-13.08.01:509][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.08.01:528][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-13.08.01:530][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.04.20-13.08.01:530][993]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.04.20-13.08.01:532][993]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.04.20-13.08.01:541][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.20-13.08.01:610][994]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2026.04.20-13.13.12:971][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15033.508789
+[2026.04.20-13.13.13:134][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.13.13:134][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15033.664062, Update Interval: 322.542816
+[2026.04.20-13.15.14:723][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.20-13.15.14:733][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto5
+[2026.04.20-13.15.14:733][815]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HWG145JYFAVAFXPZJDHF3G_Auto53B5E0DD046BDC7E48B13C2820FD47174.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G_Auto5.uasset'
+[2026.04.20-13.15.14:736][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto5
+[2026.04.20-13.15.14:736][815]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/P3FEEGSJDDS59Y04CN20HC_Auto59D5FAA994D540573205E1F99C3B3CFF0.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC_Auto5.uasset'
+[2026.04.20-13.15.14:738][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.065
+[2026.04.20-13.15.14:738][815]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2026.04.20-13.19.12:333][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15393.967773
+[2026.04.20-13.19.12:483][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.19.12:483][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15394.109375, Update Interval: 349.914246
+[2026.04.20-13.25.46:850][402]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15789.895508
+[2026.04.20-13.25.46:981][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.25.46:981][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15790.014648, Update Interval: 320.878326
+[2026.04.20-13.30.19:677][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.20-13.30.22:384][973]LogSlate: Window 'Save Content' being destroyed
+[2026.04.20-13.30.22:408][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-13.30.22:474][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G
+[2026.04.20-13.30.22:474][973]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/HWG145JYFAVAFXPZJDHF3G3CD0135D48A94F01924715AD6F592365.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/4/I5/HWG145JYFAVAFXPZJDHF3G.uasset'
+[2026.04.20-13.30.22:479][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC
+[2026.04.20-13.30.22:479][973]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/P3FEEGSJDDS59Y04CN20HCFA5CD4CF4ACCAF9B179FA3A7FD527BDE.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/2/QU/P3FEEGSJDDS59Y04CN20HC.uasset'
+[2026.04.20-13.30.22:490][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.402 ms (total: 7.95 sec)
+[2026.04.20-13.30.22:552][973]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.20-13.30.22:552][973]LogContentValidation: Enabled validators:
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-13.30.22:552][973]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-13.30.22:552][973]AssetCheck: /Game/Levels/Boat_Race Validating asset
+[2026.04.20-13.30.22:584][973]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-13.31.42:811][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16146.720703
+[2026.04.20-13.31.42:969][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-13.31.42:970][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16146.872070, Update Interval: 344.223145
+[2026.04.20-13.31.49:464][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.20-13.31.49:514][332]LogStall: Shutdown...
+[2026.04.20-13.31.49:514][332]LogStall: Shutdown complete.
+[2026.04.20-13.31.49:618][332]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.49:619][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.49:865][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.49:865][332]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.49:865][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:044][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.50:044][332]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:044][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:292][332]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:292][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:298][332]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:298][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:398][332]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:398][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:405][332]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:405][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:474][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.50:474][332]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:474][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:645][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.50:645][332]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:645][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:813][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.50:813][332]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:813][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:971][332]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:971][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.50:978][332]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.50:978][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:019][332]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:019][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:062][332]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.20-13.31.51:062][332]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:062][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:118][332]LogSlate: Window 'Plunder_Party - Unreal Editor' being destroyed
+[2026.04.20-13.31.51:779][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.20-13.31.51:804][332]Cmd: QUIT_EDITOR
+[2026.04.20-13.31.51:804][333]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.20-13.31.51:810][333]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.20-13.31.51:811][333]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.20-13.31.51:811][333]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.20-13.31.51:811][333]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:811][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:811][333]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Boat_Race.Boat_Race
+[2026.04.20-13.31.51:820][333]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.20-13.31.51:820][333]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.20-13.31.51:821][333]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.20-13.31.51:844][333]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:844][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:846][333]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:846][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:849][333]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:849][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:850][333]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:850][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:852][333]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:852][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:854][333]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:854][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:856][333]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:856][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:858][333]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:858][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:860][333]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-13.31.51:860][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-13.31.51:862][333]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.20-13.31.51:862][333]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.20-13.31.51:865][333]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.20-13.31.52:636][333]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.20-13.31.52:636][333]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.20-13.31.52:636][333]LogAudio: Display: Audio Device unregistered from world 'Boat_Race'.
+[2026.04.20-13.31.52:636][333]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.20-13.31.52:636][333]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.20-13.31.52:638][333]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.20-13.31.52:648][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.20-13.31.52:648][333]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.20-13.31.52:650][333]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.04.20-13.31.52:655][333]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.20-13.31.52:655][333]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2026.04.20-13.31.52:655][333]LogSlate: Slate User Destroyed.  User Index 2, Is Virtual User: 0
+[2026.04.20-13.31.52:655][333]LogSlate: Slate User Destroyed.  User Index 3, Is Virtual User: 0
+[2026.04.20-13.31.52:655][333]LogExit: Preparing to exit.
+[2026.04.20-13.31.52:702][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.20-13.31.52:709][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:709][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:709][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.52:710][333]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.20-13.31.53:453][333]LogEditorDataStorage: Deinitializing
+[2026.04.20-13.31.53:680][333]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.20-13.31.53:729][333]LogExit: Editor shut down
+[2026.04.20-13.31.53:739][333]LogExit: Transaction tracking system shut down
+[2026.04.20-13.31.54:165][333]LogExit: Object subsystem successfully closed.
+[2026.04.20-13.31.54:186][333]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.20-13.31.54:897][333]LogMemoryProfiler: Shutdown
+[2026.04.20-13.31.54:897][333]LogNetworkingProfiler: Shutdown
+[2026.04.20-13.31.54:897][333]LoadingProfiler: Shutdown
+[2026.04.20-13.31.54:897][333]LogTimingProfiler: Shutdown
+[2026.04.20-13.31.54:898][333]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.20-13.31.54:898][333]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.20-13.31.55:343][333]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.20-13.31.55:382][333]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.20-13.31.55:382][333]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA470BD5E-4EE7-8B9F-DB70-68B8421CBCF7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d93753404fb64a399078c29ac9160d34%7C%7C4545e642-e10b-47c2-a378-1be3ad4e52a0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.20-13.31.55:926][333]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.20-13.31.55:926][333]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.20-13.31.55:926][333]RenderDocPlugin: plugin has been unloaded.
+[2026.04.20-13.31.55:926][333]LogXGEController: Cleaning working directory: C:/Users/2407002/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.20-13.31.55:930][333]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.20-13.31.55:930][333]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.20-13.31.55:930][333]LogPakFile: Destroying PakPlatformFile
+[2026.04.20-13.31.56:713][333]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.20-13.31.56:862][333]LogExit: Exiting.
+[2026.04.20-13.31.56:895][333]Log file closed, 04/20/26 14:31:56
