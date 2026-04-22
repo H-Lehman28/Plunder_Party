@@ -2313,3 +2313,1593 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.22-09.34.30:126][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.22-09.34.30:126][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.22-09.34.30:126][537]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.22-09.39.06:129][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1338.126465
+[2026.04.22-09.39.07:128][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-09.39.07:128][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1338.792847, Update Interval: 309.629822
+[2026.04.22-09.40.02:090][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.04.22-09.40.02:096][  5]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.046
+[2026.04.22-09.40.02:097][  5]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-09.40.02:102][  5]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-09.40.02:102][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-09.40.02:119][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto1
+[2026.04.22-09.40.02:119][  5]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI_Auto19658E4AC45764B8FE3ED419F1D7D3D64.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto1.uasset'
+[2026.04.22-09.40.02:120][  5]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.04.22-09.40.14:463][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.22-09.40.17:020][211]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-09.41.10:878][213]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.22-09.41.10:879][213]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.22-09.44.45:338][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1677.345337
+[2026.04.22-09.44.45:491][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-09.44.45:491][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1677.487915, Update Interval: 324.652252
+[2026.04.22-09.45.47:795][384]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Row-ManiaUI  to imply a specific type.
+[2026.04.22-09.45.47:795][384]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.04.22-09.45.47:844][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.04.22-09.45.57:506][415]LogBlueprint: Warning: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] 'WBP Row- Mania UI' does not inherit from 'Actor' ( Cast To WBP_Row-ManiaUI  would always fail).
+[2026.04.22-09.45.57:548][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.22-09.46.01:000][792]LogEditorTransaction: Undo Move Node
+[2026.04.22-09.46.01:691][820]LogEditorTransaction: Undo Create Pin Link
+[2026.04.22-09.46.07:162][381]LogBlueprint: Warning: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] 'WBP Row- Mania UI' does not inherit from 'Primitive Component' ( Cast To WBP_Row-ManiaUI  would always fail).
+[2026.04.22-09.46.07:200][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.22-09.46.08:567][524]LogEditorTransaction: Undo Create Pin Link
+[2026.04.22-09.46.08:943][531]LogEditorTransaction: Undo Move Node
+[2026.04.22-09.46.09:689][597]LogEditorTransaction: Undo Add Node
+[2026.04.22-09.46.10:067][637]LogEditorTransaction: Undo Delete current selection
+[2026.04.22-09.46.14:544][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.22-09.48.57:813][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.22-09.48.58:238][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.48.58:299][580]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-09.48.58:398][580]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-09.48.58:398][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-09.48.58:411][580]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-09.48.58:412][580]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat6D522F2543B7078F263143ADB18B035D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-09.48.58:425][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.457 ms (total: 1.05 sec)
+[2026.04.22-09.48.58:483][580]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.48.58:483][580]LogContentValidation: Enabled validators:
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.48.58:483][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.48.58:483][580]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-09.49.10:468][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.22-09.49.11:045][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.49.11:099][896]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-09.49.11:100][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-09.49.11:108][896]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-09.49.11:109][896]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine9CAB50CB4EBC2ED8DD37D1BE2158F7C0.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-09.49.11:116][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.750 ms (total: 1.12 sec)
+[2026.04.22-09.49.11:182][896]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.49.11:182][896]LogContentValidation: Enabled validators:
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.49.11:182][896]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.49.11:183][896]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-09.50.46:273][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2038.287354
+[2026.04.22-09.50.46:396][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-09.50.46:396][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2038.400879, Update Interval: 325.725281
+[2026.04.22-09.51.29:526][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.04.22-09.51.29:531][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.029
+[2026.04.22-09.51.29:532][112]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-09.51.29:536][112]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-09.51.29:536][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-09.51.29:552][112]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto2
+[2026.04.22-09.51.29:552][112]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI_Auto27CB705944B22F54738F938887957ABAC.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto2.uasset'
+[2026.04.22-09.51.29:553][112]LogFileHelpers: Auto-saving content packages took 0.022
+[2026.04.22-09.51.36:807][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.22-09.51.40:686][697]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-09.51.44:689][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.51.44:752][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-09.51.44:752][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-09.51.44:772][ 20]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-09.51.44:773][ 20]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI62DC844041F57500B5AE34A02BBA6369.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-09.51.44:783][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.600 ms (total: 1.21 sec)
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: Enabled validators:
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.51.44:834][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.51.44:834][ 20]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-09.53.47:494][489]LogSlate: Window 'Delete Function' being destroyed
+[2026.04.22-09.53.54:355][217]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Winner . Please refresh node or break links to remove pin.
+[2026.04.22-09.53.54:355][217]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Winner . Please refresh node or break links to remove pin.
+[2026.04.22-09.53.54:356][217]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_FinishLine.uasset: [Compiler] Could not find a function named "GetWinner" in 'BP_Boat_C'.
+Make sure 'BP_Boat_C' has been compiled for  Get Winner
+[2026.04.22-09.53.54:405][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.22-09.53.59:689][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.22-09.54.00:281][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.54.00:334][817]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-09.54.00:334][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-09.54.00:345][817]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-09.54.00:346][817]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine56EE37674F22D44F83350C9CD8AE5EF2.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-09.54.00:354][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.219 ms (total: 1.29 sec)
+[2026.04.22-09.54.00:401][817]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.54.00:401][817]LogContentValidation: Enabled validators:
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.54.00:401][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.54.00:401][817]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-09.54.02:412][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.22-09.54.02:976][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.54.03:033][ 51]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-09.54.03:130][ 51]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-09.54.03:130][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-09.54.03:146][ 51]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-09.54.03:146][ 51]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BoatA6FF903C493AC15E2D13418C5EEC0115.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-09.54.03:154][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.628 ms (total: 1.46 sec)
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: Enabled validators:
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.54.03:217][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.54.03:217][ 51]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-09.56.49:664][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2401.674805
+[2026.04.22-09.56.49:984][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-09.56.49:984][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2401.981689, Update Interval: 319.971924
+[2026.04.22-09.57.02:510][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.22-09.57.03:072][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.57.03:138][860]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-09.57.03:241][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-09.57.03:241][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-09.57.03:253][860]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-09.57.03:253][860]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat6FF1CA21421C7FFE1312E88200CEE58A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-09.57.03:261][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.243 ms (total: 1.65 sec)
+[2026.04.22-09.57.03:320][860]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.57.03:320][860]LogContentValidation: Enabled validators:
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.57.03:320][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.57.03:320][860]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-09.57.25:810][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.22-09.57.26:312][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.57.26:371][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-09.57.26:371][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-09.57.26:379][358]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-09.57.26:379][358]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine007BF7954D6634B67C749DA56024B5C1.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-09.57.26:388][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.942 ms (total: 1.73 sec)
+[2026.04.22-09.57.26:436][358]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.57.26:436][358]LogContentValidation: Enabled validators:
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.57.26:436][358]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.57.26:436][358]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-09.57.39:120][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.04.22-09.57.39:644][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.57.39:687][546]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-09.57.39:785][546]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-09.57.39:786][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-09.57.39:800][546]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-09.57.39:801][546]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat8749858540A661D0AB2265B2D7D53AB9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-09.57.39:810][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.026 ms (total: 1.90 sec)
+[2026.04.22-09.57.39:854][546]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.57.39:855][546]LogContentValidation: Enabled validators:
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.57.39:855][546]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.57.39:855][546]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-09.58.12:694][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.04.22-09.58.13:259][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.58.13:304][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-09.58.13:304][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-09.58.13:311][ 78]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-09.58.13:312][ 78]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine5337B9E34B9202E8463056A7EA25E729.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-09.58.13:319][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.409 ms (total: 1.96 sec)
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: Enabled validators:
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.58.13:369][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.58.13:369][ 78]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-09.58.24:604][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.22-09.58.25:232][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-09.58.25:288][174]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-09.58.25:382][174]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-09.58.25:382][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-09.58.25:396][174]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-09.58.25:397][174]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat797A863A486E46660BE25BA0BAF9D0F5.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-09.58.25:405][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.385 ms (total: 2.13 sec)
+[2026.04.22-09.58.25:452][174]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-09.58.25:452][174]LogContentValidation: Enabled validators:
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-09.58.25:452][174]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-09.58.25:452][174]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-10.01.41:443][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.04.22-10.01.42:595][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.01.42:654][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-10.01.42:654][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-10.01.42:672][491]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-10.01.42:673][491]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLineE6FC93A34692D6ED7287A58D30DDE109.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-10.01.42:683][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.581 ms (total: 2.22 sec)
+[2026.04.22-10.01.42:739][491]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.01.42:739][491]LogContentValidation: Enabled validators:
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.01.42:739][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.01.42:739][491]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-10.01.45:466][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.01.45:505][749]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-10.01.45:599][749]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-10.01.45:599][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-10.01.45:613][749]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-10.01.45:613][749]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat45FC9CE84788C362A6C74D9CCA410958.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-10.01.45:623][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.818 ms (total: 2.37 sec)
+[2026.04.22-10.01.45:672][749]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.01.45:672][749]LogContentValidation: Enabled validators:
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.01.45:672][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.01.45:672][749]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-10.02.41:988][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2753.991699
+[2026.04.22-10.02.42:131][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.02.42:132][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2754.121338, Update Interval: 355.693237
+[2026.04.22-10.03.12:542][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-10.03.18:281][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.03.18:335][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-10.03.18:335][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-10.03.18:347][759]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-10.03.18:347][759]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine618351B4473EEBE8C3BD43893CF147D5.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-10.03.18:355][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.580 ms (total: 2.45 sec)
+[2026.04.22-10.03.18:402][759]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.03.18:402][759]LogContentValidation: Enabled validators:
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.03.18:402][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.03.18:402][759]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-10.03.33:633][541]LogEditorTransaction: Undo Move Node
+[2026.04.22-10.03.35:659][726]LogEditorTransaction: Redo Move Node
+[2026.04.22-10.04.16:920][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.04.22-10.04.17:721][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.04.17:772][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-10.04.17:772][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-10.04.17:781][142]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-10.04.17:781][142]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine1AFE80CC4F272FAA07C0F29024A1BC41.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-10.04.17:791][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.554 ms (total: 2.52 sec)
+[2026.04.22-10.04.17:838][142]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.04.17:838][142]LogContentValidation: Enabled validators:
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.04.17:838][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.04.17:838][142]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-10.06.20:016][276]LogSlate: Window 'Delete Function' being destroyed
+[2026.04.22-10.06.21:392][400]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_Boat.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Get Winner . Please refresh node or break links to remove pin.
+[2026.04.22-10.06.21:393][400]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_Boat.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Winner . Please refresh node or break links to remove pin.
+[2026.04.22-10.06.21:393][400]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_Boat.uasset: [Compiler] In use pin  Boat Ref  no longer exists on node  Get Winner . Please refresh node or break links to remove pin.
+[2026.04.22-10.06.21:393][400]LogBlueprint: Error: [AssetLog] C:\Users\2407002\Documents\GitHub\Plunder_Party\Plunder_Party\Content\ThirdPerson\Blueprints\BP_Boat.uasset: [Compiler] Could not find a function named "GetWinner" in 'BP_FinishLine_C'.
+Make sure 'BP_FinishLine_C' has been compiled for  Get Winner
+[2026.04.22-10.06.21:440][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.22-10.06.21:851][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.06.21:905][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-10.06.21:906][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-10.06.21:914][436]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-10.06.21:915][436]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLineE99EEEDF4A6C75BEB79AC3958B4DA00F.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-10.06.21:922][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.858 ms (total: 2.59 sec)
+[2026.04.22-10.06.21:974][436]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.06.21:974][436]LogContentValidation: Enabled validators:
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.06.21:974][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.06.21:974][436]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-10.06.30:176][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-10.06.30:749][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.06.30:810][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-10.06.30:901][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-10.06.30:902][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-10.06.30:915][242]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-10.06.30:915][242]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_BoatBFDF6C9C4E6A25AD334F3FBCD79B3F2F.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-10.06.30:925][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.699 ms (total: 2.76 sec)
+[2026.04.22-10.06.30:991][242]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.06.30:991][242]LogContentValidation: Enabled validators:
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.06.30:991][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.06.30:992][242]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-10.06.43:615][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.04.22-10.06.43:992][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.06.44:040][625]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-10.06.44:134][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-10.06.44:134][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-10.06.44:149][625]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-10.06.44:149][625]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat9ACB800F4C53FBF3668219A83B84A4F7.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-10.06.44:159][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.774 ms (total: 2.93 sec)
+[2026.04.22-10.06.44:225][625]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.06.44:225][625]LogContentValidation: Enabled validators:
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.06.44:225][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.06.44:225][625]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-10.07.04:381][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.04.22-10.07.04:864][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.07.04:926][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_FinishLine] ([2] browsable assets)...
+[2026.04.22-10.07.04:926][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_FinishLine]
+[2026.04.22-10.07.04:936][651]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_FinishLine
+[2026.04.22-10.07.04:936][651]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_FinishLine4C4D1C8D4B816B79302671831E00366F.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_FinishLine.uasset'
+[2026.04.22-10.07.04:946][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.088 ms (total: 3.01 sec)
+[2026.04.22-10.07.05:008][651]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.07.05:008][651]LogContentValidation: Enabled validators:
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.07.05:008][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.07.05:008][651]AssetCheck: /Game/ThirdPerson/Blueprints/BP_FinishLine Validating asset
+[2026.04.22-10.07.24:768][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.22-10.07.26:835][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.07.26:887][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Boat] ([2] browsable assets)...
+[2026.04.22-10.07.26:928][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Boat.BP_Boat]
+[2026.04.22-10.07.26:928][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Boat]
+[2026.04.22-10.07.26:945][886]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Boat
+[2026.04.22-10.07.26:946][886]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BP_Boat20B0830E4699A8255E204EAE435017DC.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/BP_Boat.uasset'
+[2026.04.22-10.07.26:953][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.898 ms (total: 3.13 sec)
+[2026.04.22-10.07.27:004][886]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.07.27:004][886]LogContentValidation: Enabled validators:
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.07.27:004][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.07.27:004][886]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Boat Validating asset
+[2026.04.22-10.08.54:763][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.04.22-10.08.55:807][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.08.55:859][241]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.08.55:866][241]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.08.55:866][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.08.55:886][241]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-10.08.55:886][241]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUIF4B6186B408C155D663EAA8CC4C476BF.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-10.08.55:897][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.571 ms (total: 3.22 sec)
+[2026.04.22-10.08.55:959][241]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.08.55:959][241]LogContentValidation: Enabled validators:
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.08.55:959][241]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.08.55:960][241]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-10.09.19:662][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3151.679443
+[2026.04.22-10.09.19:802][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.09.19:802][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3151.805664, Update Interval: 320.279541
+[2026.04.22-10.12.18:781][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.22-10.12.19:427][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.12.19:476][531]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.12.19:479][531]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.12.19:479][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.12.19:492][531]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-10.12.19:493][531]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUIBBD8A6EF46081A4E5E85A9A467E33FFF.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-10.12.19:505][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.151 ms (total: 3.30 sec)
+[2026.04.22-10.12.19:543][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.12.19:543][531]LogContentValidation: Enabled validators:
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.12.19:543][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.12.19:543][531]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-10.12.48:253][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.04.22-10.12.49:488][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.12.49:526][901]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.12.49:531][901]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.12.49:531][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.12.49:544][901]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-10.12.49:545][901]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI1332D4AD40B355282EAEBFB4DD76385E.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-10.12.49:556][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.119 ms (total: 3.37 sec)
+[2026.04.22-10.12.49:610][901]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.12.49:610][901]LogContentValidation: Enabled validators:
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.12.49:610][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.12.49:610][901]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-10.13.27:537][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.13.27:544][882]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.13.27:544][882]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.13.27:545][882]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 695 us (total: 36.200 ms)
+[2026.04.22-10.13.27:546][882]LogPlayLevel: [PlayLevel] Compiling WBP_Row-ManiaUI before play...
+[2026.04.22-10.13.27:640][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-10.13.27:643][882]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2026.04.22-10.13.27:670][882]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.13.27:674][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.13.27:675][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 460 us (total: 2.387 ms)
+[2026.04.22-10.13.27:675][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004301s)
+[2026.04.22-10.13.27:675][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004342s)
+[2026.04.22-10.13.27:698][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.04.22-10.13.27:700][882]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.13.27:702][882]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.13.27:702][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.13.27:702][882]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.13.27:702][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.13.27:703][882]LogWorldPartition: Display: WorldPartition initialize took 967 us (total: 557.378 ms)
+[2026.04.22-10.13.27:703][882]LogPlayLevel: PIE: World Init took: (0.003034s)
+[2026.04.22-10.13.27:704][882]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.13.27:704][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.13.27:704][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.13.27:704][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.13.27:704][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.13.27:704][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.13.27:706][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.13.27:767][882]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.13.27:767][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.13.27:767][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.13.27:767][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.13.27:768][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.04.22-10.13.27:768][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.04.22-10.13.27:769][882]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.22-10.13.27:769][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.22-10.13.27:769][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.04.22-10.13.27:769][882]LogAudio: Display: Audio Device (ID: 6) registered with world 'Boat_Race'.
+[2026.04.22-10.13.27:769][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.22-10.13.27:774][882]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.13.27:776][882]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.13.27
+[2026.04.22-10.13.27:776][882]LogWorld: Bringing up level for play took: 0.001290
+[2026.04.22-10.13.27:778][882]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.22-10.13.27:779][882]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.13.27:782][882]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.13.27:783][882]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.13.27:784][882]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.13.27:785][882]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.13.27:785][882]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.13.27:785][882]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.13.27:785][882]PIE: Server logged in
+[2026.04.22-10.13.27:787][882]PIE: Play in editor total start time 0.244 seconds.
+[2026.04.22-10.13.27:820][883]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.14.20:631][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.14.20:631][285]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.14.20:631][285]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.14.20:632][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.14.20:632][285]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.14.20:633][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.14.20:638][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.14.20:663][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.14.20:663][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.22-10.14.20:664][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.04.22-10.14.20:666][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.04.22-10.14.20:674][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.04.22-10.14.20:709][286]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.22-10.15.09:815][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.04.22-10.15.09:818][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.025
+[2026.04.22-10.15.09:818][464]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.15.09:821][464]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.15.09:821][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.15.09:855][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto3
+[2026.04.22-10.15.09:855][464]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI_Auto38D326E634A7AE78F97091A9327DD3025.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI_Auto3.uasset'
+[2026.04.22-10.15.09:856][464]LogFileHelpers: Auto-saving content packages took 0.038
+[2026.04.22-10.15.34:234][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3526.255371
+[2026.04.22-10.15.34:375][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.15.34:375][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3526.387939, Update Interval: 334.787445
+[2026.04.22-10.17.24:807][304]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.04.22-10.17.35:273][ 44]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.04.22-10.17.35:285][ 44]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.04.22-10.17.45:914][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-10.17.47:537][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.17.47:578][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.17.47:581][913]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.17.47:581][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.17.47:595][913]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-10.17.47:596][913]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI8F7C0715476765B8DC060FAFD61FEBC1.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-10.17.47:606][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.869 ms (total: 3.44 sec)
+[2026.04.22-10.17.47:661][913]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.17.47:661][913]LogContentValidation: Enabled validators:
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.17.47:661][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.17.47:662][913]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-10.17.54:181][364]LogDerivedDataCache: C:/Users/2407002/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.22-10.21.02:921][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2026.04.22-10.21.03:519][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.21.03:581][883]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI] ([2] browsable assets)...
+[2026.04.22-10.21.03:585][883]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI.WBP_Row-ManiaUI]
+[2026.04.22-10.21.03:585][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI]
+[2026.04.22-10.21.03:606][883]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI
+[2026.04.22-10.21.03:608][883]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WBP_Row-ManiaUI353CCF6D41817838AD11E2950DD8EF43.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/ThirdPerson/Blueprints/WBP_Row-ManiaUI.uasset'
+[2026.04.22-10.21.03:620][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.129 ms (total: 3.54 sec)
+[2026.04.22-10.21.03:681][883]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.21.03:682][883]LogContentValidation: Enabled validators:
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.21.03:682][883]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.21.03:682][883]AssetCheck: /Game/ThirdPerson/Blueprints/WBP_Row-ManiaUI Validating asset
+[2026.04.22-10.21.08:676][215]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.21.08:682][215]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.21.08:682][215]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.21.08:683][215]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 644 us (total: 36.845 ms)
+[2026.04.22-10.21.08:683][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.21.08:683][215]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.21.08:686][215]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.21.08:688][215]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 467 us (total: 2.854 ms)
+[2026.04.22-10.21.08:688][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004047s)
+[2026.04.22-10.21.08:688][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004076s)
+[2026.04.22-10.21.08:711][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.04.22-10.21.08:713][215]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.21.08:715][215]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.21.08:715][215]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.21.08:715][215]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.21.08:715][215]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.21.08:716][215]LogWorldPartition: Display: WorldPartition initialize took 943 us (total: 558.322 ms)
+[2026.04.22-10.21.08:716][215]LogPlayLevel: PIE: World Init took: (0.002870s)
+[2026.04.22-10.21.08:716][215]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.21.08:716][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.21.08:716][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.21.08:716][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.21.08:716][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.21.08:716][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.21.08:720][215]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.21.08:778][215]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.21.08:778][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.21.08:778][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.21.08:778][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.21.08:778][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.22-10.21.08:779][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.22-10.21.08:781][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.22-10.21.08:781][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.22-10.21.08:781][215]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.22-10.21.08:781][215]LogAudio: Display: Audio Device (ID: 7) registered with world 'Boat_Race'.
+[2026.04.22-10.21.08:781][215]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.22-10.21.08:784][215]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.21.08:785][215]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.21.08
+[2026.04.22-10.21.08:786][215]LogWorld: Bringing up level for play took: 0.001076
+[2026.04.22-10.21.08:788][215]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.04.22-10.21.08:789][215]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.21.08:791][215]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.21.08:793][215]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.21.08:794][215]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.21.08:794][215]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.21.08:794][215]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.21.08:794][215]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.21.08:795][215]PIE: Server logged in
+[2026.04.22-10.21.08:797][215]PIE: Play in editor total start time 0.114 seconds.
+[2026.04.22-10.21.08:835][216]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.22.00:392][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3912.424072
+[2026.04.22-10.22.00:704][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.22.00:704][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3912.723145, Update Interval: 303.925903
+[2026.04.22-10.22.16:900][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.22.16:900][954]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.22.16:900][954]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.22.16:900][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.16:900][954]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.22.16:903][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.22.16:908][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.16:928][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.22.16:928][954]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.22-10.22.16:928][954]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.22-10.22.16:931][954]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.22-10.22.16:936][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.22.16:939][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.22-10.22.16:978][955]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.04.22-10.22.37:574][479]LogStreaming: Display: FlushAsyncLoading(778): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.22.37:648][479]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.04.22-10.22.37:649][479]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.22-10.22.37:649][479]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.22.37:649][479]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.22.37:650][479]LogWorldPartition: Display: WorldPartition initialize took 1.782 ms (total: 560.105 ms)
+[2026.04.22-10.22.39:616][617]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.22-10.22.39:630][617]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.39:630][617]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.39:630][617]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.22.39:646][618]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.22-10.22.41:123][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.22-10.22.41:126][727]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.04.22-10.22.41:132][727]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.41:132][727]LogActorFactory: Actor Factory attempting to spawn World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.41:144][727]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Levels/Peg_Leg_LevelInstance_3433320a5f040606_0) is flushing async loading
+[2026.04.22-10.22.41:144][727]LogStreaming: Display: FlushAsyncLoading(825): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.22.41:156][727]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.22-10.22.41:156][727]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.22.41:156][727]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Game/Levels/Peg_Leg_LevelInstance_3433320a5f040606_0.Peg_Leg, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=21440.00, Y=680.00, Z=10.00), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.22.41:157][727]LogActorComponent: ReregisterComponent: (/Temp/Game/Levels/Peg_Leg_LevelInstance_3433320a5f040606_0.Peg_Leg:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2026.04.22-10.22.41:177][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.22-10.22.41:179][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.22-10.22.41:179][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.22-10.22.41:179][727]LogActorComponent: ReregisterComponent: (/Temp/Game/Levels/Peg_Leg_LevelInstance_3433320a5f040606_0.Peg_Leg:PersistentLevel.PostProcessVolume_UAID_F4A475FF15A3736A02_1961895679.BrushComponent0) Not currently registered. Aborting.
+[2026.04.22-10.22.41:179][727]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.22-10.22.41:179][727]LogWorldPartition: Display: WorldPartition initialize took 22.201 ms (total: 582.306 ms)
+[2026.04.22-10.22.41:208][727]LogLevelInstance: Loaded 1 levels in 0.064 seconds
+[2026.04.22-10.22.41:223][727]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.22-10.22.43:354][867]Cmd: TRANSACTION UNDO
+[2026.04.22-10.22.43:355][867]LogEditorTransaction: Undo Place Objects
+[2026.04.22-10.22.43:375][867]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.22.43:375][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.43:375][867]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Game/Levels/Peg_Leg_LevelInstance_3433320a5f040606_0.Peg_Leg
+[2026.04.22-10.22.43:400][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.04.22-10.22.43:426][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.04.22-10.22.43:452][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.04.22-10.22.43:454][867]LogLevelInstance: Unloaded 1 levels in 0.082 seconds
+[2026.04.22-10.22.47:361][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.22-10.22.47:364][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.47:364][113]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Peg_Leg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.22-10.22.47:438][113]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.22.47:438][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.47:474][113]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.22.47:474][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.47:474][113]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Boat_Race.Boat_Race
+[2026.04.22-10.22.47:501][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.22.47:506][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.22-10.22.47:511][113]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.22.47:511][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.22.47:511][113]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.22.47:540][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.22-10.22.47:621][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.22-10.22.47:623][113]LogStreaming: Display: FlushAsyncLoading(869): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.22.47:648][113]LogAudio: Display: Audio Device (ID: 1) registered with world 'Peg_Leg'.
+[2026.04.22-10.22.47:648][113]LogChaosDD: Creating Chaos Debug Draw Scene for world Peg_Leg
+[2026.04.22-10.22.47:651][113]LogWorldPartition: ULevel::OnLevelLoaded(Peg_Leg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.22-10.22.47:651][113]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.22.47:651][113]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Peg_Leg.Peg_Leg, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.22.47:678][113]LogWorldPartition: Display: WorldPartition initialize took 26.985 ms (total: 609.292 ms)
+[2026.04.22-10.22.47:689][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.22-10.22.47:719][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.04.22-10.22.47:729][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.22-10.22.47:729][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.659ms to complete.
+[2026.04.22-10.22.47:766][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.22-10.22.47:827][114]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.22.50:530][309]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.04.22-10.22.50:567][310]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.04.22-10.22.50:599][311]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.04.22-10.22.50:648][313]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.04.22-10.22.51:740][396]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Peg_Leg.Peg_Leg:PersistentLevel.Peg_Leg
+[2026.04.22-10.22.51:741][396]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.04.22-10.23.13:350][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.23.13:456][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.04.22-10.23.13:471][ 83]LogSavePackage: Moving output files for package: /Game/Levels/Peg_Leg
+[2026.04.22-10.23.13:471][ 83]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Peg_LegE78240ED4F0771C2677783B7B8CA651D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Peg_Leg.umap'
+[2026.04.22-10.23.13:479][ 83]LogFileHelpers: All files are already saved.
+[2026.04.22-10.23.13:482][ 83]LogFileHelpers: Saving map 'Peg_Leg' took 0.085
+[2026.04.22-10.23.13:492][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.082 ms (total: 3.68 sec)
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: Enabled validators:
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.23.13:548][ 83]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.23.13:548][ 83]AssetCheck: /Game/Levels/Peg_Leg Validating asset
+[2026.04.22-10.23.23:859][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.04.22-10.23.23:862][914]LogStreaming: Display: FlushAsyncLoading(914): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.23.23:891][914]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.23.23:893][914]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.22-10.23.23:893][914]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.23.23:893][914]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Boat_Race.Boat_Race, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.23.23:914][914]LogWorldPartition: Display: WorldPartition initialize took 20.766 ms (total: 630.058 ms)
+[2026.04.22-10.23.23:916][914]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Boat_Race.Boat_Race
+[2026.04.22-10.23.23:917][914]Cmd: MAP LOAD FILE="../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Boat_Race.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.22-10.23.23:960][914]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.23.23:960][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.23.23:982][914]LogWorld: UWorld::CleanupWorld for Peg_Leg, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.23.23:982][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.23.23:982][914]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Peg_Leg.Peg_Leg
+[2026.04.22-10.23.24:012][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.23.24:016][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.04.22-10.23.24:020][914]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.23.24:020][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.23.24:020][914]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Boat_Race.Boat_Race
+[2026.04.22-10.23.24:045][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.04.22-10.23.24:100][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.04.22-10.23.24:127][914]LogAudio: Display: Audio Device (ID: 1) registered with world 'Boat_Race'.
+[2026.04.22-10.23.24:127][914]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.23.24:130][914]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.04.22-10.23.24:130][914]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.23.24:130][914]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Boat_Race.Boat_Race, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.23.24:145][914]LogWorldPartition: Display: WorldPartition initialize took 15.870 ms (total: 645.929 ms)
+[2026.04.22-10.23.24:157][914]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.22-10.23.24:181][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.04.22-10.23.24:190][914]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.22-10.23.24:191][914]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.571ms to complete.
+[2026.04.22-10.23.24:232][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.22-10.23.24:288][915]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.23.27:256][133]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Boat_Race.Boat_Race:PersistentLevel.Boat_Race
+[2026.04.22-10.23.27:256][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.04.22-10.23.52:747][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.04.22-10.23.53:416][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.23.53:507][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.04.22-10.23.53:520][256]LogSavePackage: Moving output files for package: /Game/Levels/Boat_Race
+[2026.04.22-10.23.53:521][256]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Boat_RaceDC09FC154A9382863FB9DBB8C514CA1B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/Levels/Boat_Race.umap'
+[2026.04.22-10.23.53:529][256]LogFileHelpers: All files are already saved.
+[2026.04.22-10.23.53:532][256]LogFileHelpers: Saving map 'Boat_Race' took 0.066
+[2026.04.22-10.23.53:541][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.779 ms (total: 3.81 sec)
+[2026.04.22-10.23.53:597][256]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.22-10.23.53:597][256]LogContentValidation: Enabled validators:
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.23.53:597][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.23.53:597][256]AssetCheck: /Game/Levels/Boat_Race Validating asset
+[2026.04.22-10.23.54:712][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.23.54:719][338]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.23.54:719][338]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.23.54:720][338]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 742 us (total: 37.587 ms)
+[2026.04.22-10.23.54:720][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.23.54:720][338]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.23.54:724][338]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.23.54:725][338]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 484 us (total: 3.339 ms)
+[2026.04.22-10.23.54:725][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004727s)
+[2026.04.22-10.23.54:725][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004755s)
+[2026.04.22-10.23.54:746][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.04.22-10.23.54:749][338]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.23.54:751][338]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.23.54:751][338]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.23.54:751][338]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.23.54:751][338]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.23.54:752][338]LogWorldPartition: Display: WorldPartition initialize took 992 us (total: 646.921 ms)
+[2026.04.22-10.23.54:752][338]LogPlayLevel: PIE: World Init took: (0.002756s)
+[2026.04.22-10.23.54:752][338]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.23.54:752][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.23.54:752][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.23.54:752][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.23.54:752][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.23.54:752][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.23.54:754][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.23.54:813][338]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.23.54:813][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.23.54:813][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.23.54:813][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.23.54:814][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.22-10.23.54:814][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.22-10.23.54:816][338]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.22-10.23.54:816][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.22-10.23.54:816][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.22-10.23.54:816][338]LogAudio: Display: Audio Device (ID: 8) registered with world 'Boat_Race'.
+[2026.04.22-10.23.54:816][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.22-10.23.54:819][338]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.23.54:821][338]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.23.54
+[2026.04.22-10.23.54:821][338]LogWorld: Bringing up level for play took: 0.001179
+[2026.04.22-10.23.54:823][338]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.04.22-10.23.54:824][338]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.23.54:825][338]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.23.54:828][338]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.23.54:829][338]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.23.54:829][338]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.23.54:830][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.23.54:830][338]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.23.54:831][338]PIE: Server logged in
+[2026.04.22-10.23.54:833][338]PIE: Play in editor total start time 0.114 seconds.
+[2026.04.22-10.23.54:870][339]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.24.51:557][979]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.22-10.24.51:557][979]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.04.22-10.24.53:567][146]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Game_Select"
+[2026.04.22-10.24.53:567][146]LogNet: Browse: /Game/Levels/Game_Select
+[2026.04.22-10.24.53:567][146]LogLoad: LoadMap: /Game/Levels/Game_Select
+[2026.04.22-10.24.53:567][146]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.24.53:568][146]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.24.53:568][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.24.53:568][146]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.24.53:590][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.24.53:593][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.04.22-10.24.53:596][146]LogStreaming: Display: FlushAsyncLoading(958): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.24.53:618][146]LogAudio: Display: Audio Device (ID: 8) registered with world 'Game_Select'.
+[2026.04.22-10.24.53:618][146]LogChaosDD: Creating Chaos Debug Draw Scene for world Game_Select
+[2026.04.22-10.24.53:620][146]LogWorldPartition: ULevel::OnLevelLoaded(Game_Select)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.24.53:620][146]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.24.53:620][146]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.22-10.24.53:620][146]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.24.53:622][146]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' started...
+[2026.04.22-10.24.53:655][146]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' took 34.197 ms (total: 71.785 ms)
+[2026.04.22-10.24.53:658][146]LogWorldPartition: Display: WorldPartition initialize took 36.972 ms (total: 683.894 ms)
+[2026.04.22-10.24.53:658][146]LogPlayLevel: PIE: World Init took: (0.038825s)
+[2026.04.22-10.24.53:658][146]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.22-10.24.53:660][146]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game_Select.Game_Select up for play (max tick rate 0) at 2026.04.22-11.24.53
+[2026.04.22-10.24.53:660][146]LogWorld: Bringing up level for play took: 0.002332
+[2026.04.22-10.24.53:672][146]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.24.53:672][146]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.24.53:672][146]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.24.53:672][146]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.24.53:673][146]LogLoad: Took 0.106116 seconds to LoadMap(/Game/Levels/Game_Select)
+[2026.04.22-10.24.53:673][146]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Game_Select
+[2026.04.22-10.24.53:682][146]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.25.02:799][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.25.02:799][867]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Game_Select
+[2026.04.22-10.25.02:799][867]LogWorld: UWorld::CleanupWorld for Game_Select, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.25.02:800][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.25.02:800][867]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select
+[2026.04.22-10.25.02:802][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.25.02:807][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.25.02:824][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.25.02:825][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.22-10.25.02:825][867]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.22-10.25.02:828][867]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.22-10.25.02:838][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.04.22-10.25.02:867][868]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.04.22-10.25.12:568][658]LogSlate: Window 'WBP_Row-ManiaUI' being destroyed
+[2026.04.22-10.27.54:433][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4266.431152
+[2026.04.22-10.27.54:551][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.27.54:551][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4266.542969, Update Interval: 354.962616
+[2026.04.22-10.30.52:929][ 23]Cmd: EDIT COPY
+[2026.04.22-10.30.54:093][154]Cmd: EDIT PASTE
+[2026.04.22-10.30.59:858][788]Cmd: EDIT COPY
+[2026.04.22-10.31.00:118][816]Cmd: EDIT PASTE
+[2026.04.22-10.31.11:496][ 82]Cmd: TRANSACTION UNDO
+[2026.04.22-10.31.11:496][ 82]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.31.21:332][141]Cmd: EDIT COPY
+[2026.04.22-10.31.21:613][171]Cmd: EDIT PASTE
+[2026.04.22-10.31.42:730][513]Cmd: EDIT COPY
+[2026.04.22-10.31.42:982][541]Cmd: EDIT PASTE
+[2026.04.22-10.31.50:161][333]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.31.50:168][333]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.31.50:168][333]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.31.50:170][333]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 2.558 ms (total: 74.344 ms)
+[2026.04.22-10.31.50:172][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.31.50:197][333]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.31.50:200][333]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.31.50:201][333]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 501 us (total: 3.840 ms)
+[2026.04.22-10.31.50:201][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004352s)
+[2026.04.22-10.31.50:201][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004392s)
+[2026.04.22-10.31.50:226][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.04.22-10.31.50:229][333]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.31.50:230][333]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.31.50:230][333]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.31.50:230][333]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.31.50:230][333]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.31.50:231][333]LogWorldPartition: Display: WorldPartition initialize took 1.046 ms (total: 684.941 ms)
+[2026.04.22-10.31.50:231][333]LogPlayLevel: PIE: World Init took: (0.003005s)
+[2026.04.22-10.31.50:232][333]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.31.50:232][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.31.50:232][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.31.50:232][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.31.50:232][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.31.50:232][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.31.50:235][333]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.31.50:295][333]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.31.50:295][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.31.50:295][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.31.50:295][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.31.50:296][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.22-10.31.50:296][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.22-10.31.50:298][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.22-10.31.50:298][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.22-10.31.50:298][333]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.22-10.31.50:298][333]LogAudio: Display: Audio Device (ID: 9) registered with world 'Boat_Race'.
+[2026.04.22-10.31.50:298][333]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.22-10.31.50:302][333]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.31.50:303][333]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.31.50
+[2026.04.22-10.31.50:303][333]LogWorld: Bringing up level for play took: 0.001267
+[2026.04.22-10.31.50:305][333]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.04.22-10.31.50:306][333]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.31.50:308][333]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.31.50:309][333]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.31.50:310][333]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.31.50:310][333]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.31.50:311][333]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.31.50:311][333]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.31.50:311][333]PIE: Server logged in
+[2026.04.22-10.31.50:313][333]PIE: Play in editor total start time 0.146 seconds.
+[2026.04.22-10.31.50:352][334]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.32.01:373][632]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.32.01:569][655]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.32.01:907][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.32.01:907][692]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.32.01:907][692]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.32.01:907][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.32.01:907][692]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.32.01:910][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.32.01:915][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.32.01:937][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.32.01:938][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.22-10.32.01:938][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.22-10.32.01:940][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.22-10.32.01:950][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.04.22-10.32.02:011][693]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.04.22-10.32.05:810][ 90]Cmd: EDIT COPY
+[2026.04.22-10.32.06:949][213]Cmd: EDIT PASTE
+[2026.04.22-10.32.15:003][ 58]Cmd: EDIT COPY
+[2026.04.22-10.32.15:289][ 88]Cmd: EDIT PASTE
+[2026.04.22-10.32.20:972][679]Cmd: EDIT COPY
+[2026.04.22-10.32.21:237][706]Cmd: EDIT PASTE
+[2026.04.22-10.32.28:345][449]Cmd: EDIT COPY
+[2026.04.22-10.32.28:582][473]Cmd: EDIT PASTE
+[2026.04.22-10.32.56:497][519]Cmd: EDIT COPY
+[2026.04.22-10.32.57:029][581]Cmd: EDIT PASTE
+[2026.04.22-10.33.05:156][506]Cmd: EDIT COPY
+[2026.04.22-10.33.05:433][538]Cmd: EDIT PASTE
+[2026.04.22-10.33.16:615][797]Cmd: EDIT COPY
+[2026.04.22-10.33.16:842][823]Cmd: EDIT PASTE
+[2026.04.22-10.33.26:417][887]Cmd: TRANSACTION UNDO
+[2026.04.22-10.33.26:417][887]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.33.29:683][191]Cmd: TRANSACTION UNDO
+[2026.04.22-10.33.29:683][191]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.33.33:695][625]Cmd: TRANSACTION UNDO
+[2026.04.22-10.33.33:695][625]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.33.35:469][773]Cmd: TRANSACTION REDO
+[2026.04.22-10.33.35:469][773]LogEditorTransaction: Redo Move Elements
+[2026.04.22-10.33.49:123][270]Cmd: EDIT COPY
+[2026.04.22-10.33.49:500][312]Cmd: EDIT PASTE
+[2026.04.22-10.34.00:167][477]Cmd: EDIT COPY
+[2026.04.22-10.34.00:518][515]Cmd: EDIT PASTE
+[2026.04.22-10.34.06:080][144]Cmd: EDIT COPY
+[2026.04.22-10.34.06:328][171]Cmd: EDIT PASTE
+[2026.04.22-10.34.12:101][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.34.12:108][824]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.34.12:108][824]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.34.12:109][824]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.232 ms (total: 75.576 ms)
+[2026.04.22-10.34.12:109][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.34.12:146][824]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.34.12:150][824]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.34.12:151][824]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 596 us (total: 4.437 ms)
+[2026.04.22-10.34.12:151][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004951s)
+[2026.04.22-10.34.12:151][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.004992s)
+[2026.04.22-10.34.12:174][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.04.22-10.34.12:177][824]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.34.12:179][824]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.34.12:179][824]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.34.12:179][824]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.34.12:179][824]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.34.12:180][824]LogWorldPartition: Display: WorldPartition initialize took 1.145 ms (total: 686.087 ms)
+[2026.04.22-10.34.12:180][824]LogPlayLevel: PIE: World Init took: (0.003204s)
+[2026.04.22-10.34.12:181][824]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.34.12:181][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.34.12:181][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.34.12:181][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.34.12:181][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.34.12:181][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.34.12:183][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.34.12:247][824]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.34.12:247][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.34.12:247][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.34.12:247][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.34.12:248][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.22-10.34.12:248][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.22-10.34.12:249][824]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.22-10.34.12:249][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.22-10.34.12:249][824]LogAudio: Display: Audio Device (ID: 10) registered with world 'Boat_Race'.
+[2026.04.22-10.34.12:249][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.22-10.34.12:249][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.22-10.34.12:253][824]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.34.12:255][824]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.34.12
+[2026.04.22-10.34.12:255][824]LogWorld: Bringing up level for play took: 0.001556
+[2026.04.22-10.34.12:257][824]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.04.22-10.34.12:258][824]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.34.12:260][824]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.34.12:262][824]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.34.12:263][824]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.34.12:263][824]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.34.12:263][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.34.12:263][824]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.34.12:265][824]PIE: Server logged in
+[2026.04.22-10.34.12:267][824]PIE: Play in editor total start time 0.158 seconds.
+[2026.04.22-10.34.12:308][825]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.34.23:372][123]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.34.23:571][146]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.34.24:223][223]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.34.24:418][246]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.34.24:997][314]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.34.25:197][337]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.34.34:607][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.34.34:607][439]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.34.34:607][439]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.34.34:607][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.34.34:607][439]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.34.34:610][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.34.34:614][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.34.34:634][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.34.34:634][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.22-10.34.34:634][439]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.22-10.34.34:636][439]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.22-10.34.34:640][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.34.34:643][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.22-10.34.34:703][440]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.04.22-10.34.41:631][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4673.604004
+[2026.04.22-10.34.41:755][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.34.41:755][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4673.721191, Update Interval: 317.595154
+[2026.04.22-10.35.33:793][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.22-10.35.33:801][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/9/QN/48I79N2E8ITNSWFZBB3VAN_Auto4
+[2026.04.22-10.35.33:801][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/48I79N2E8ITNSWFZBB3VAN_Auto42F9FC2424A35BEE3556B02867C2A7E27.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/9/QN/48I79N2E8ITNSWFZBB3VAN_Auto4.uasset'
+[2026.04.22-10.35.33:805][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/KA/QDHX79SNUMX59YAYQOW1YQ_Auto4
+[2026.04.22-10.35.33:805][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/QDHX79SNUMX59YAYQOW1YQ_Auto4DD2E684540BB4288DC13C0A0940057DA.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/KA/QDHX79SNUMX59YAYQOW1YQ_Auto4.uasset'
+[2026.04.22-10.35.33:809][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/5R/OHRLOINXP3WSXGC9PUKW05_Auto4
+[2026.04.22-10.35.33:809][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/OHRLOINXP3WSXGC9PUKW05_Auto4204B607140F69E2B1F068FBF9DB17D6D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/5R/OHRLOINXP3WSXGC9PUKW05_Auto4.uasset'
+[2026.04.22-10.35.33:814][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/6A/B6F92HE75063QAOKRXNDE5_Auto4
+[2026.04.22-10.35.33:814][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/B6F92HE75063QAOKRXNDE5_Auto486C3751D41CCFF1A2BDD7689F25289CA.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/6A/B6F92HE75063QAOKRXNDE5_Auto4.uasset'
+[2026.04.22-10.35.33:818][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/HB/YZBECWGY232Z37AONQQD2Z_Auto4
+[2026.04.22-10.35.33:818][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/YZBECWGY232Z37AONQQD2Z_Auto484BCE7694938E1581C5FCAAB2DA6788D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/HB/YZBECWGY232Z37AONQQD2Z_Auto4.uasset'
+[2026.04.22-10.35.33:822][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/8C/DOI63ELBMAK9BJSEBC62OR_Auto4
+[2026.04.22-10.35.33:822][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/DOI63ELBMAK9BJSEBC62OR_Auto4F933359C4A4F618365014FB68525940E.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/4/8C/DOI63ELBMAK9BJSEBC62OR_Auto4.uasset'
+[2026.04.22-10.35.33:827][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/6/BN/947WBQPZJ1S75FEDJ9CUU7_Auto4
+[2026.04.22-10.35.33:827][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/947WBQPZJ1S75FEDJ9CUU7_Auto48C9A111A407E0EDD64710CAD52D18236.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/6/BN/947WBQPZJ1S75FEDJ9CUU7_Auto4.uasset'
+[2026.04.22-10.35.33:831][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/6/AM/61H6L7YQ024PKUYJY6U3VZ_Auto4
+[2026.04.22-10.35.33:831][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/61H6L7YQ024PKUYJY6U3VZ_Auto4737C08464F12BD2AAF661B9409ADEE35.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/6/AM/61H6L7YQ024PKUYJY6U3VZ_Auto4.uasset'
+[2026.04.22-10.35.33:835][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/7E/BK3JVYGPBDMCAAJR3MEBI2_Auto4
+[2026.04.22-10.35.33:835][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BK3JVYGPBDMCAAJR3MEBI2_Auto4C39B2E20417F8409A06A4082E6A334AB.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/7E/BK3JVYGPBDMCAAJR3MEBI2_Auto4.uasset'
+[2026.04.22-10.35.33:838][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/GP/32OROUFR35E2YX3VT94O8J_Auto4
+[2026.04.22-10.35.33:838][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/32OROUFR35E2YX3VT94O8J_Auto494D7501F445FDF97E6E81E987D7695E7.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/GP/32OROUFR35E2YX3VT94O8J_Auto4.uasset'
+[2026.04.22-10.35.33:842][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/1/HE/H2JRUHND4XHKFZ29ZOZNW1_Auto4
+[2026.04.22-10.35.33:842][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/H2JRUHND4XHKFZ29ZOZNW1_Auto40E3082E646E47069A9E01AB0FC59594A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/1/HE/H2JRUHND4XHKFZ29ZOZNW1_Auto4.uasset'
+[2026.04.22-10.35.33:846][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/9G/K94BWAT0SRX09USPT70VAO_Auto4
+[2026.04.22-10.35.33:846][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/K94BWAT0SRX09USPT70VAO_Auto4792170944985AAF1916D9DAB1AF7F606.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/9G/K94BWAT0SRX09USPT70VAO_Auto4.uasset'
+[2026.04.22-10.35.33:850][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/ZV/9IWA4P4W16RHC9FLKWZAFJ_Auto4
+[2026.04.22-10.35.33:850][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/9IWA4P4W16RHC9FLKWZAFJ_Auto4B4A5691F4EC1D6E17562F3A79173F2B2.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/0/ZV/9IWA4P4W16RHC9FLKWZAFJ_Auto4.uasset'
+[2026.04.22-10.35.33:853][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/CJ/LMOATZTYR96AKNSAOY45U4_Auto4
+[2026.04.22-10.35.33:853][888]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/LMOATZTYR96AKNSAOY45U4_Auto4B4965A834CC467A033B6BB95D09C1303.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/CJ/LMOATZTYR96AKNSAOY45U4_Auto4.uasset'
+[2026.04.22-10.35.33:854][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.084
+[2026.04.22-10.35.33:854][888]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2026.04.22-10.35.35:592][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.22-10.35.37:973][ 75]LogSlate: Window 'Save Content' being destroyed
+[2026.04.22-10.35.38:003][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.22-10.35.38:042][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/8/7E/BK3JVYGPBDMCAAJR3MEBI2
+[2026.04.22-10.35.38:042][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/BK3JVYGPBDMCAAJR3MEBI258F23EB241661E3C70140A83B49BA1BC.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/8/7E/BK3JVYGPBDMCAAJR3MEBI2.uasset'
+[2026.04.22-10.35.38:047][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/0/GP/32OROUFR35E2YX3VT94O8J
+[2026.04.22-10.35.38:047][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/32OROUFR35E2YX3VT94O8JDEDE13214F555D1A993439B83821A9B6.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/0/GP/32OROUFR35E2YX3VT94O8J.uasset'
+[2026.04.22-10.35.38:052][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/1/HE/H2JRUHND4XHKFZ29ZOZNW1
+[2026.04.22-10.35.38:052][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/H2JRUHND4XHKFZ29ZOZNW1D9F90D234B16C2F64569FF83A5902F53.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/1/HE/H2JRUHND4XHKFZ29ZOZNW1.uasset'
+[2026.04.22-10.35.38:055][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/7/9G/K94BWAT0SRX09USPT70VAO
+[2026.04.22-10.35.38:055][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/K94BWAT0SRX09USPT70VAO32DCF5DF4D96AE4A1D38B3BD1D1DEBE2.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/7/9G/K94BWAT0SRX09USPT70VAO.uasset'
+[2026.04.22-10.35.38:060][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/0/ZV/9IWA4P4W16RHC9FLKWZAFJ
+[2026.04.22-10.35.38:060][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/9IWA4P4W16RHC9FLKWZAFJ61FD52C946C184D3C84513B53438A693.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/0/ZV/9IWA4P4W16RHC9FLKWZAFJ.uasset'
+[2026.04.22-10.35.38:063][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/8/CJ/LMOATZTYR96AKNSAOY45U4
+[2026.04.22-10.35.38:063][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/LMOATZTYR96AKNSAOY45U4914EF0804E0F3EEEA7F78292D3FC3896.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/8/CJ/LMOATZTYR96AKNSAOY45U4.uasset'
+[2026.04.22-10.35.38:067][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/9/QN/48I79N2E8ITNSWFZBB3VAN
+[2026.04.22-10.35.38:067][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/48I79N2E8ITNSWFZBB3VAN68726A2F4C66C9DCE57335BDFC3CFD5B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/9/QN/48I79N2E8ITNSWFZBB3VAN.uasset'
+[2026.04.22-10.35.38:071][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/7/KA/QDHX79SNUMX59YAYQOW1YQ
+[2026.04.22-10.35.38:071][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/QDHX79SNUMX59YAYQOW1YQ6ACAB0DF43E13413E2FA718BFA3B6B7F.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/7/KA/QDHX79SNUMX59YAYQOW1YQ.uasset'
+[2026.04.22-10.35.38:076][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/0/5R/OHRLOINXP3WSXGC9PUKW05
+[2026.04.22-10.35.38:076][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/OHRLOINXP3WSXGC9PUKW05DF35AB16434E800EA657C3AD4D4BE944.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/0/5R/OHRLOINXP3WSXGC9PUKW05.uasset'
+[2026.04.22-10.35.38:080][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/A/6A/B6F92HE75063QAOKRXNDE5
+[2026.04.22-10.35.38:080][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/B6F92HE75063QAOKRXNDE52B64ED7B4DFCA9FB5E8295A1EE561826.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/A/6A/B6F92HE75063QAOKRXNDE5.uasset'
+[2026.04.22-10.35.38:084][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/A/HB/YZBECWGY232Z37AONQQD2Z
+[2026.04.22-10.35.38:084][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/YZBECWGY232Z37AONQQD2ZDECFA1E14342B417D6FB4AB3AA68900C.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/A/HB/YZBECWGY232Z37AONQQD2Z.uasset'
+[2026.04.22-10.35.38:088][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/4/8C/DOI63ELBMAK9BJSEBC62OR
+[2026.04.22-10.35.38:088][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/DOI63ELBMAK9BJSEBC62OR0517F9BD46035CE6F6A652B82A9B7FFA.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/4/8C/DOI63ELBMAK9BJSEBC62OR.uasset'
+[2026.04.22-10.35.38:093][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/6/BN/947WBQPZJ1S75FEDJ9CUU7
+[2026.04.22-10.35.38:093][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/947WBQPZJ1S75FEDJ9CUU7ED98ECE84A0DCB3DD36207BDCDDABE20.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/6/BN/947WBQPZJ1S75FEDJ9CUU7.uasset'
+[2026.04.22-10.35.38:098][ 75]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Boat_Race/6/AM/61H6L7YQ024PKUYJY6U3VZ
+[2026.04.22-10.35.38:098][ 75]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/61H6L7YQ024PKUYJY6U3VZ89B0F22D42355D1682D68FB81A620BDD.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Content/__ExternalActors__/Levels/Boat_Race/6/AM/61H6L7YQ024PKUYJY6U3VZ.uasset'
+[2026.04.22-10.35.38:110][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.482 ms (total: 3.91 sec)
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: Display: Starting to validate 14 assets
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: Enabled validators:
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.22-10.35.38:186][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.22-10.35.38:186][ 75]AssetCheck: /Game/Levels/Boat_Race Validating asset
+[2026.04.22-10.35.38:224][ 75]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.22-10.38.27:108][ 10]Cmd: EDIT COPY
+[2026.04.22-10.38.27:371][ 39]Cmd: EDIT PASTE
+[2026.04.22-10.38.39:956][436]Cmd: EDIT COPY
+[2026.04.22-10.38.39:956][436]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.04.22-10.38.40:171][460]Cmd: EDIT PASTE
+[2026.04.22-10.38.40:171][460]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.04.22-10.38.45:348][ 37]Cmd: TRANSACTION UNDO
+[2026.04.22-10.38.45:348][ 37]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.38.46:836][150]Cmd: EDIT COPY
+[2026.04.22-10.38.47:191][189]Cmd: EDIT PASTE
+[2026.04.22-10.38.55:101][ 71]Cmd: EDIT COPY
+[2026.04.22-10.38.55:409][107]Cmd: EDIT PASTE
+[2026.04.22-10.39.15:000][388]Cmd: EDIT COPY
+[2026.04.22-10.39.15:314][425]Cmd: EDIT PASTE
+[2026.04.22-10.39.35:948][736]Cmd: EDIT COPY
+[2026.04.22-10.39.36:330][779]Cmd: EDIT PASTE
+[2026.04.22-10.39.48:177][ 83]LogStreaming: Display: FlushAsyncLoading(1024): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.40.09:353][519]Cmd: TRANSACTION UNDO
+[2026.04.22-10.40.09:353][519]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.40.10:273][572]Cmd: EDIT COPY
+[2026.04.22-10.40.10:607][611]Cmd: EDIT PASTE
+[2026.04.22-10.40.19:566][649]Cmd: EDIT COPY
+[2026.04.22-10.40.19:972][697]Cmd: EDIT PASTE
+[2026.04.22-10.40.35:170][400]Cmd: EDIT COPY
+[2026.04.22-10.40.35:465][432]Cmd: EDIT PASTE
+[2026.04.22-10.40.36:405][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5028.415527
+[2026.04.22-10.40.36:549][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.40.36:549][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5028.551758, Update Interval: 316.035034
+[2026.04.22-10.40.39:928][918]Cmd: EDIT COPY
+[2026.04.22-10.40.40:257][955]Cmd: EDIT PASTE
+[2026.04.22-10.41.37:258][322]Cmd: EDIT COPY
+[2026.04.22-10.41.37:591][359]Cmd: EDIT PASTE
+[2026.04.22-10.41.45:109][177]Cmd: EDIT COPY
+[2026.04.22-10.41.45:373][206]Cmd: EDIT PASTE
+[2026.04.22-10.41.55:157][284]Cmd: EDIT COPY
+[2026.04.22-10.41.55:441][316]Cmd: EDIT PASTE
+[2026.04.22-10.42.02:183][ 51]Cmd: EDIT COPY
+[2026.04.22-10.42.02:498][ 86]Cmd: EDIT PASTE
+[2026.04.22-10.42.09:246][825]Cmd: EDIT COPY
+[2026.04.22-10.42.09:502][854]Cmd: EDIT PASTE
+[2026.04.22-10.42.16:541][634]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.42.16:541][634]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.42.32:440][375]Cmd: EDIT COPY
+[2026.04.22-10.42.32:755][409]Cmd: EDIT PASTE
+[2026.04.22-10.42.38:058][985]Cmd: EDIT COPY
+[2026.04.22-10.42.38:325][ 13]Cmd: EDIT PASTE
+[2026.04.22-10.42.48:328][109]Cmd: EDIT COPY
+[2026.04.22-10.42.48:675][146]Cmd: EDIT PASTE
+[2026.04.22-10.42.54:132][747]Cmd: EDIT COPY
+[2026.04.22-10.42.54:397][775]Cmd: EDIT PASTE
+[2026.04.22-10.42.58:857][254]Cmd: EDIT COPY
+[2026.04.22-10.42.59:099][279]Cmd: EDIT PASTE
+[2026.04.22-10.43.05:138][945]Cmd: EDIT COPY
+[2026.04.22-10.43.05:418][976]Cmd: EDIT PASTE
+[2026.04.22-10.43.22:077][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.43.22:084][817]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.43.22:084][817]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.43.22:086][817]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.432 ms (total: 77.009 ms)
+[2026.04.22-10.43.22:086][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.43.22:113][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.43.22:118][817]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.43.22:119][817]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 802 us (total: 5.239 ms)
+[2026.04.22-10.43.22:119][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006038s)
+[2026.04.22-10.43.22:119][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.006079s)
+[2026.04.22-10.43.22:155][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.04.22-10.43.22:157][817]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.43.22:159][817]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.43.22:159][817]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.43.22:159][817]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.43.22:159][817]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.43.22:161][817]LogWorldPartition: Display: WorldPartition initialize took 1.388 ms (total: 687.475 ms)
+[2026.04.22-10.43.22:161][817]LogPlayLevel: PIE: World Init took: (0.003403s)
+[2026.04.22-10.43.22:161][817]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.22-10.43.22:161][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.43.22:161][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.43.22:162][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.43.22:162][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.43.22:162][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.43.22:162][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.43.22:162][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.43.22:162][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.43.22:162][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.43.22:162][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.43.22:162][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.43.22:165][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.43.22:223][817]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.43.22:223][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.43.22:223][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.43.22:223][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.43.22:224][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.22-10.43.22:224][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.22-10.43.22:226][817]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.22-10.43.22:226][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.22-10.43.22:226][817]LogAudio: Display: Audio Device (ID: 11) registered with world 'Boat_Race'.
+[2026.04.22-10.43.22:226][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.22-10.43.22:226][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.22-10.43.22:230][817]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.43.22:232][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.43.22
+[2026.04.22-10.43.22:232][817]LogWorld: Bringing up level for play took: 0.001590
+[2026.04.22-10.43.22:235][817]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.22-10.43.22:236][817]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.43.22:238][817]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.43.22:239][817]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.43.22:240][817]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.43.22:240][817]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.43.22:241][817]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.43.22:241][817]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.43.22:241][817]PIE: Server logged in
+[2026.04.22-10.43.22:242][817]PIE: Play in editor total start time 0.159 seconds.
+[2026.04.22-10.43.22:283][818]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.43.33:331][116]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.43.33:528][139]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.43.34:183][216]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.43.34:380][239]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.43.34:959][307]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.43.35:155][330]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.43.40:173][921]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.43.40:368][944]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.43.41:269][ 50]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.43.41:468][ 73]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.43.45:094][498]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.43.45:290][521]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.43.47:430][773]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.43.47:626][796]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.43.47:735][809]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.43.47:933][832]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.43.48:068][848]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.43.48:264][871]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.43.59:535][200]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.22-10.43.59:535][200]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.04.22-10.44.01:548][437]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Game_Select"
+[2026.04.22-10.44.01:548][437]LogNet: Browse: /Game/Levels/Game_Select
+[2026.04.22-10.44.01:548][437]LogLoad: LoadMap: /Game/Levels/Game_Select
+[2026.04.22-10.44.01:548][437]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.44.01:550][437]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.44.01:550][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.44.01:550][437]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.44.01:601][437]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.44.01:605][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.04.22-10.44.01:608][437]LogStreaming: Display: FlushAsyncLoading(1025): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.44.01:637][437]LogAudio: Display: Audio Device (ID: 11) registered with world 'Game_Select'.
+[2026.04.22-10.44.01:637][437]LogChaosDD: Creating Chaos Debug Draw Scene for world Game_Select
+[2026.04.22-10.44.01:638][437]LogWorldPartition: ULevel::OnLevelLoaded(Game_Select)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.44.01:639][437]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.44.01:639][437]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.22-10.44.01:639][437]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.44.01:640][437]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' started...
+[2026.04.22-10.44.01:667][437]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' took 27.247 ms (total: 104.256 ms)
+[2026.04.22-10.44.01:668][437]LogWorldPartition: Display: WorldPartition initialize took 29.852 ms (total: 717.328 ms)
+[2026.04.22-10.44.01:668][437]LogPlayLevel: PIE: World Init took: (0.031764s)
+[2026.04.22-10.44.01:668][437]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.22-10.44.01:671][437]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game_Select.Game_Select up for play (max tick rate 0) at 2026.04.22-11.44.01
+[2026.04.22-10.44.01:671][437]LogWorld: Bringing up level for play took: 0.002358
+[2026.04.22-10.44.01:682][437]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.44.01:682][437]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.44.01:682][437]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.44.01:682][437]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.44.01:683][437]LogLoad: Took 0.135600 seconds to LoadMap(/Game/Levels/Game_Select)
+[2026.04.22-10.44.01:683][437]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Game_Select
+[2026.04.22-10.44.01:692][437]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.44.02:724][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.44.02:724][550]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Game_Select
+[2026.04.22-10.44.02:724][550]LogWorld: UWorld::CleanupWorld for Game_Select, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.44.02:725][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.44.02:725][550]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select
+[2026.04.22-10.44.02:727][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.44.02:731][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.44.02:765][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.44.02:765][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.22-10.44.02:765][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.04.22-10.44.02:767][550]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.04.22-10.44.02:777][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.22-10.44.02:833][551]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.22-10.46.03:450][327]Cmd: TRANSACTION UNDO
+[2026.04.22-10.46.03:450][327]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.46.04:425][387]Cmd: EDIT COPY
+[2026.04.22-10.46.04:903][443]Cmd: EDIT PASTE
+[2026.04.22-10.46.11:084][150]Cmd: EDIT COPY
+[2026.04.22-10.46.11:360][182]Cmd: EDIT PASTE
+[2026.04.22-10.46.19:427][105]Cmd: EDIT COPY
+[2026.04.22-10.46.19:693][135]Cmd: EDIT PASTE
+[2026.04.22-10.46.24:544][690]Cmd: EDIT COPY
+[2026.04.22-10.46.24:778][717]Cmd: EDIT PASTE
+[2026.04.22-10.46.31:791][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5383.791016
+[2026.04.22-10.46.31:926][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.46.31:927][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5383.919434, Update Interval: 314.383362
+[2026.04.22-10.46.39:944][376]Cmd: TRANSACTION UNDO
+[2026.04.22-10.46.39:944][376]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.46.41:629][518]Cmd: TRANSACTION REDO
+[2026.04.22-10.46.41:629][518]LogEditorTransaction: Redo Move Elements
+[2026.04.22-10.46.47:693][183]Cmd: EDIT COPY
+[2026.04.22-10.46.47:938][209]Cmd: EDIT PASTE
+[2026.04.22-10.47.22:635][ 86]Cmd: EDIT COPY
+[2026.04.22-10.47.22:878][113]Cmd: EDIT PASTE
+[2026.04.22-10.48.06:769][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.04.22-10.48.06:777][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/AY/AWACAVUGK645AOT6BHN5GZ_Auto5
+[2026.04.22-10.48.06:777][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/AWACAVUGK645AOT6BHN5GZ_Auto52B0B993041D79530D71265B72AE0C7A9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/AY/AWACAVUGK645AOT6BHN5GZ_Auto5.uasset'
+[2026.04.22-10.48.06:781][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/71/SCUL74EWKZ21TBBU2T2Q01_Auto5
+[2026.04.22-10.48.06:781][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/SCUL74EWKZ21TBBU2T2Q01_Auto59F4B799347B84A397C40B78A9BC8715E.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/71/SCUL74EWKZ21TBBU2T2Q01_Auto5.uasset'
+[2026.04.22-10.48.06:785][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/0S/Y8N85B99ZWZVOIS9C54R1S_Auto5
+[2026.04.22-10.48.06:786][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Y8N85B99ZWZVOIS9C54R1S_Auto592EC8D6C4E200BD33B81029CE396180B.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/0S/Y8N85B99ZWZVOIS9C54R1S_Auto5.uasset'
+[2026.04.22-10.48.06:790][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/9/IZ/LT603PHJPVA59JYZP4D7AX_Auto5
+[2026.04.22-10.48.06:790][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/LT603PHJPVA59JYZP4D7AX_Auto5EBEF3FDF41AB27FF314254B5BF25457C.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/9/IZ/LT603PHJPVA59JYZP4D7AX_Auto5.uasset'
+[2026.04.22-10.48.06:795][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/MD/NBSBSP989XW9GM9RXF0G5C_Auto5
+[2026.04.22-10.48.06:795][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/NBSBSP989XW9GM9RXF0G5C_Auto5AF23C0AD43DB57FD025262990AE1CF9D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/MD/NBSBSP989XW9GM9RXF0G5C_Auto5.uasset'
+[2026.04.22-10.48.06:799][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/YY/QKIZLFO8K5VXBAB7JZBZNR_Auto5
+[2026.04.22-10.48.06:799][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/QKIZLFO8K5VXBAB7JZBZNR_Auto5EBCEB55342AA3D16887BD49CEACC5738.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/YY/QKIZLFO8K5VXBAB7JZBZNR_Auto5.uasset'
+[2026.04.22-10.48.06:803][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/9S/WKQDA460MPZ06ACK5DGETR_Auto5
+[2026.04.22-10.48.06:803][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/WKQDA460MPZ06ACK5DGETR_Auto5CFCFDEDA4CC2FD88A66CDB8B076A55F8.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/9S/WKQDA460MPZ06ACK5DGETR_Auto5.uasset'
+[2026.04.22-10.48.06:807][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/IM/S4QXMHEEYTAQZVVU89TMK2_Auto5
+[2026.04.22-10.48.06:807][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/S4QXMHEEYTAQZVVU89TMK2_Auto5B3C08EE149B14E9B891F16ABEBBFADC9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/IM/S4QXMHEEYTAQZVVU89TMK2_Auto5.uasset'
+[2026.04.22-10.48.06:811][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/EE/MMXD2FB04D9EM5FSE04YSV_Auto5
+[2026.04.22-10.48.06:811][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/MMXD2FB04D9EM5FSE04YSV_Auto5DE992A6542D202274C8D0A8D96729012.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/EE/MMXD2FB04D9EM5FSE04YSV_Auto5.uasset'
+[2026.04.22-10.48.06:816][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/VV/L1YSB9CG97YHYDI0K7BTV3_Auto5
+[2026.04.22-10.48.06:816][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/L1YSB9CG97YHYDI0K7BTV3_Auto50437B7CE4BE644D1B99B44B94806E92C.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/2/VV/L1YSB9CG97YHYDI0K7BTV3_Auto5.uasset'
+[2026.04.22-10.48.06:820][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/V9/T1DIJGH23Z0FZ7CM3YLT1U_Auto5
+[2026.04.22-10.48.06:820][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/T1DIJGH23Z0FZ7CM3YLT1U_Auto5F0E38E2E4728421380807BB5D476C017.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/V9/T1DIJGH23Z0FZ7CM3YLT1U_Auto5.uasset'
+[2026.04.22-10.48.06:825][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/D/LB/3MRHAVN55W8JP2XV2A19VU_Auto5
+[2026.04.22-10.48.06:825][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/3MRHAVN55W8JP2XV2A19VU_Auto51E386097407C80E443F90FA710086C9D.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/D/LB/3MRHAVN55W8JP2XV2A19VU_Auto5.uasset'
+[2026.04.22-10.48.06:828][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/D/HI/KRBS7SX5QPG44QT5YEFPDG_Auto5
+[2026.04.22-10.48.06:829][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/KRBS7SX5QPG44QT5YEFPDG_Auto59F813E1C4E7BAF10B54F83BE5ED7EE24.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/D/HI/KRBS7SX5QPG44QT5YEFPDG_Auto5.uasset'
+[2026.04.22-10.48.06:833][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/QV/YRANW5EKMI3PX09Y2AIZBM_Auto5
+[2026.04.22-10.48.06:833][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/YRANW5EKMI3PX09Y2AIZBM_Auto537F951C24F815C377F503B974ED1E88A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/QV/YRANW5EKMI3PX09Y2AIZBM_Auto5.uasset'
+[2026.04.22-10.48.06:838][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/TV/FORN38OF55KFLBDRVUHMMH_Auto5
+[2026.04.22-10.48.06:838][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/FORN38OF55KFLBDRVUHMMH_Auto54D1257DB41F41BAEC44BDF97DC6C1E53.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/TV/FORN38OF55KFLBDRVUHMMH_Auto5.uasset'
+[2026.04.22-10.48.06:843][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/9C/8XDG9N1Q3C583165HF0BJC_Auto5
+[2026.04.22-10.48.06:843][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/8XDG9N1Q3C583165HF0BJC_Auto5C008E01B40E548EE633EE9870C0B6DDB.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/9C/8XDG9N1Q3C583165HF0BJC_Auto5.uasset'
+[2026.04.22-10.48.06:847][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/P8/11POZAA7XB85SXE5J363K7_Auto5
+[2026.04.22-10.48.06:847][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/11POZAA7XB85SXE5J363K7_Auto54AF9F1474B8390DAF4FD3281738B2A17.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/A/P8/11POZAA7XB85SXE5J363K7_Auto5.uasset'
+[2026.04.22-10.48.06:853][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/OG/V3LEAF3HG0LMCNC2W9V1RP_Auto5
+[2026.04.22-10.48.06:853][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/V3LEAF3HG0LMCNC2W9V1RP_Auto552B58ACB44635FAE5A122F971A11A5F9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/C/OG/V3LEAF3HG0LMCNC2W9V1RP_Auto5.uasset'
+[2026.04.22-10.48.06:857][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/WA/GSXH4SWYMTQST4ERBL044P_Auto5
+[2026.04.22-10.48.06:857][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/GSXH4SWYMTQST4ERBL044P_Auto5CC081EE548609061F0400196E05C31E5.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/E/WA/GSXH4SWYMTQST4ERBL044P_Auto5.uasset'
+[2026.04.22-10.48.06:862][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/3/64/CSMJTVSNYD9R02WC5EVLDQ_Auto5
+[2026.04.22-10.48.06:862][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/CSMJTVSNYD9R02WC5EVLDQ_Auto50802BD0744A1E4B194D9E7B938BEB7F5.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/3/64/CSMJTVSNYD9R02WC5EVLDQ_Auto5.uasset'
+[2026.04.22-10.48.06:867][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/ZA/NT95RTD8VHQ9SZYSA3DZXK_Auto5
+[2026.04.22-10.48.06:867][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/NT95RTD8VHQ9SZYSA3DZXK_Auto5C39CCAC74CDD95AA2E06438DDB341CE0.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/8/ZA/NT95RTD8VHQ9SZYSA3DZXK_Auto5.uasset'
+[2026.04.22-10.48.06:871][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/OC/T67AJY7I0LJKNNNH9L9QRH_Auto5
+[2026.04.22-10.48.06:871][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/T67AJY7I0LJKNNNH9L9QRH_Auto52E78D28948AFFCA25EBE60B7F0E626D9.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/7/OC/T67AJY7I0LJKNNNH9L9QRH_Auto5.uasset'
+[2026.04.22-10.48.06:876][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/3/2A/IW1EJ7OFK8VR79VLAJX84M_Auto5
+[2026.04.22-10.48.06:876][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/IW1EJ7OFK8VR79VLAJX84M_Auto595857E554EB6E0F0EBCCC49075F00E5A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/3/2A/IW1EJ7OFK8VR79VLAJX84M_Auto5.uasset'
+[2026.04.22-10.48.06:880][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/1Q/V3BQ6P1W39CM2OE8OAVSJN_Auto5
+[2026.04.22-10.48.06:880][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/V3BQ6P1W39CM2OE8OAVSJN_Auto5EDF1147B4DC8D0FDBD5B26B66CAEF86A.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/1Q/V3BQ6P1W39CM2OE8OAVSJN_Auto5.uasset'
+[2026.04.22-10.48.06:884][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/3I/409HWJQCYRR8L5CZ914K3C_Auto5
+[2026.04.22-10.48.06:884][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/409HWJQCYRR8L5CZ914K3C_Auto519907BC84CDC1249B48E748A5321FBA4.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/3I/409HWJQCYRR8L5CZ914K3C_Auto5.uasset'
+[2026.04.22-10.48.06:889][964]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/6Q/FN3MBJKSZW1D5E41UIJHA6_Auto5
+[2026.04.22-10.48.06:890][964]LogSavePackage: Moving '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/FN3MBJKSZW1D5E41UIJHA6_Auto594CA982F439F820F679FF1B23D23F3BE.tmp' to '../../../../../../Users/2407002/Documents/GitHub/Plunder_Party/Plunder_Party/Saved/Autosaves/Game/__ExternalActors__/Levels/Boat_Race/B/6Q/FN3MBJKSZW1D5E41UIJHA6_Auto5.uasset'
+[2026.04.22-10.48.06:892][964]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Boat_Race' took 0.147
+[2026.04.22-10.48.06:892][964]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2026.04.22-10.48.33:251][924]Cmd: TRANSACTION UNDO
+[2026.04.22-10.48.33:251][924]LogEditorTransaction: Undo Move Elements
+[2026.04.22-10.48.33:917][946]Cmd: EDIT COPY
+[2026.04.22-10.48.34:887][ 55]Cmd: EDIT PASTE
+[2026.04.22-10.48.41:693][804]Cmd: EDIT COPY
+[2026.04.22-10.48.41:940][831]Cmd: EDIT PASTE
+[2026.04.22-10.48.48:928][606]Cmd: EDIT COPY
+[2026.04.22-10.48.49:149][629]Cmd: EDIT PASTE
+[2026.04.22-10.49.01:453][939]Cmd: EDIT COPY
+[2026.04.22-10.49.01:753][973]Cmd: EDIT PASTE
+[2026.04.22-10.49.06:964][545]Cmd: EDIT COPY
+[2026.04.22-10.49.07:204][572]Cmd: EDIT PASTE
+[2026.04.22-10.49.18:403][815]Cmd: EDIT COPY
+[2026.04.22-10.49.18:776][857]Cmd: EDIT PASTE
+[2026.04.22-10.49.46:807][995]Cmd: EDIT COPY
+[2026.04.22-10.49.47:061][ 24]Cmd: EDIT PASTE
+[2026.04.22-10.49.51:237][489]Cmd: EDIT COPY
+[2026.04.22-10.49.51:517][521]Cmd: EDIT PASTE
+[2026.04.22-10.50.03:804][889]Cmd: EDIT COPY
+[2026.04.22-10.50.04:069][919]Cmd: EDIT PASTE
+[2026.04.22-10.50.10:053][588]Cmd: EDIT COPY
+[2026.04.22-10.50.10:280][614]Cmd: EDIT PASTE
+[2026.04.22-10.50.15:258][165]Cmd: EDIT COPY
+[2026.04.22-10.50.15:531][196]Cmd: EDIT PASTE
+[2026.04.22-10.50.20:022][689]Cmd: EDIT COPY
+[2026.04.22-10.50.20:237][713]Cmd: EDIT PASTE
+[2026.04.22-10.50.26:950][456]Cmd: EDIT COPY
+[2026.04.22-10.50.27:180][482]Cmd: EDIT PASTE
+[2026.04.22-10.50.31:370][939]Cmd: EDIT COPY
+[2026.04.22-10.50.31:586][963]Cmd: EDIT PASTE
+[2026.04.22-10.50.36:193][470]Cmd: EDIT COPY
+[2026.04.22-10.50.36:406][494]Cmd: EDIT PASTE
+[2026.04.22-10.50.39:878][870]Cmd: EDIT COPY
+[2026.04.22-10.50.40:104][895]Cmd: EDIT PASTE
+[2026.04.22-10.50.43:544][273]Cmd: EDIT COPY
+[2026.04.22-10.50.43:804][303]Cmd: EDIT PASTE
+[2026.04.22-10.50.48:508][822]Cmd: EDIT COPY
+[2026.04.22-10.50.48:757][850]Cmd: EDIT PASTE
+[2026.04.22-10.50.53:777][414]Cmd: EDIT COPY
+[2026.04.22-10.50.54:241][468]Cmd: EDIT PASTE
+[2026.04.22-10.51.06:661][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.22-10.51.06:668][857]LogContentBundle: [Boat_Race(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.22-10.51.06:668][857]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' started...
+[2026.04.22-10.51.06:671][857]LogWorldPartition: Display: GenerateStreaming for 'Boat_Race' took 1.991 ms (total: 106.248 ms)
+[2026.04.22-10.51.06:671][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.22-10.51.06:692][857]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.51.06:698][857]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.22-10.51.06:699][857]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 980 us (total: 6.220 ms)
+[2026.04.22-10.51.06:699][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007598s)
+[2026.04.22-10.51.06:699][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Boat_Race.Boat_Race to /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race (0.007640s)
+[2026.04.22-10.51.06:722][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.04.22-10.51.06:724][857]LogChaosDD: Creating Chaos Debug Draw Scene for world Boat_Race
+[2026.04.22-10.51.06:726][857]LogWorldPartition: ULevel::OnLevelLoaded(Boat_Race)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.51.06:726][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.51.06:726][857]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.22-10.51.06:726][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.51.06:728][857]LogWorldPartition: Display: WorldPartition initialize took 1.597 ms (total: 718.925 ms)
+[2026.04.22-10.51.06:728][857]LogPlayLevel: PIE: World Init took: (0.003574s)
+[2026.04.22-10.51.06:728][857]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.22-10.51.06:728][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.22-10.51.06:728][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.22-10.51.06:728][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.22-10.51.06:728][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.22-10.51.06:729][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.22-10.51.06:731][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.22-10.51.06:789][857]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.22-10.51.06:789][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.22-10.51.06:789][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.22-10.51.06:789][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.22-10.51.06:791][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.04.22-10.51.06:791][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.04.22-10.51.06:793][857]LogInit: FAudioDevice initialized with ID 12.
+[2026.04.22-10.51.06:793][857]LogAudio: Display: Audio Device (ID: 12) registered with world 'Boat_Race'.
+[2026.04.22-10.51.06:793][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.04.22-10.51.06:793][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.04.22-10.51.06:793][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.22-10.51.06:798][857]LogLoad: Game class is 'GM_Row_Mania_C'
+[2026.04.22-10.51.06:801][857]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race up for play (max tick rate 0) at 2026.04.22-11.51.06
+[2026.04.22-10.51.06:801][857]LogWorld: Bringing up level for play took: 0.002743
+[2026.04.22-10.51.06:803][857]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.04.22-10.51.06:804][857]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_0)
+[2026.04.22-10.51.06:806][857]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_1)
+[2026.04.22-10.51.06:807][857]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_2)
+[2026.04.22-10.51.06:808][857]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Boat_C /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race:PersistentLevel.BP_Boat_C_3)
+[2026.04.22-10.51.06:809][857]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.51.06:809][857]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.04.22-10.51.06:809][857]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 1,
+[2026.04.22-10.51.06:809][857]PIE: Server logged in
+[2026.04.22-10.51.06:812][857]PIE: Play in editor total start time 0.143 seconds.
+[2026.04.22-10.51.06:851][858]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.51.17:890][156]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.18:087][179]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.18:739][256]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.51.18:931][279]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.51.19:506][347]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.51.19:701][370]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.51.24:695][961]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.51.24:893][984]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.51.25:789][ 90]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.25:986][113]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.29:579][538]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.29:775][561]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.31:906][813]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.51.32:100][836]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.51.32:212][849]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.51.32:407][872]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.51.32:569][891]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.32:762][914]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.35:403][226]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.35:601][249]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.36:564][363]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.51.36:758][386]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.51.37:028][418]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.51.37:222][441]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.51.37:626][489]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.37:823][512]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.38:059][540]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.51.38:257][563]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.51.39:718][736]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.39:913][759]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.40:497][828]LogBlueprintUserMessages: [BP_Boat_C_3] Hit!
+[2026.04.22-10.51.40:695][851]LogBlueprintUserMessages: [BP_Boat_C_3] 361
+[2026.04.22-10.51.41:651][964]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.41:753][976]LogBlueprintUserMessages: [BP_Boat_C_2] Hit!
+[2026.04.22-10.51.41:846][987]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.41:948][999]LogBlueprintUserMessages: [BP_Boat_C_2] 361
+[2026.04.22-10.51.43:943][235]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.22-10.51.43:943][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.04.22-10.51.45:486][418]LogBlueprintUserMessages: [BP_Boat_C_1] Hit!
+[2026.04.22-10.51.45:681][441]LogBlueprintUserMessages: [BP_Boat_C_1] 361
+[2026.04.22-10.51.45:953][473]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Game_Select"
+[2026.04.22-10.51.45:953][473]LogNet: Browse: /Game/Levels/Game_Select
+[2026.04.22-10.51.45:953][473]LogLoad: LoadMap: /Game/Levels/Game_Select
+[2026.04.22-10.51.45:953][473]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Boat_Race
+[2026.04.22-10.51.45:954][473]LogWorld: UWorld::CleanupWorld for Boat_Race, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.51.45:956][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.51.45:956][473]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Boat_Race.Boat_Race
+[2026.04.22-10.51.46:009][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.22-10.51.46:012][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.04.22-10.51.46:016][473]LogStreaming: Display: FlushAsyncLoading(1091): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.22-10.51.46:042][473]LogAudio: Display: Audio Device (ID: 12) registered with world 'Game_Select'.
+[2026.04.22-10.51.46:042][473]LogChaosDD: Creating Chaos Debug Draw Scene for world Game_Select
+[2026.04.22-10.51.46:044][473]LogWorldPartition: ULevel::OnLevelLoaded(Game_Select)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.22-10.51.46:044][473]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.22-10.51.46:044][473]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.04.22-10.51.46:044][473]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.22-10.51.46:045][473]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' started...
+[2026.04.22-10.51.46:078][473]LogWorldPartition: Display: GenerateStreaming for 'Game_Select' took 33.526 ms (total: 139.774 ms)
+[2026.04.22-10.51.46:079][473]LogWorldPartition: Display: WorldPartition initialize took 36.119 ms (total: 755.044 ms)
+[2026.04.22-10.51.46:079][473]LogPlayLevel: PIE: World Init took: (0.038042s)
+[2026.04.22-10.51.46:079][473]LogLoad: Game class is 'GM_LocalMultiplayer_C'
+[2026.04.22-10.51.46:082][473]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Game_Select.Game_Select up for play (max tick rate 0) at 2026.04.22-11.51.46
+[2026.04.22-10.51.46:083][473]LogWorld: Bringing up level for play took: 0.002415
+[2026.04.22-10.51.46:095][473]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.51.46:095][473]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.51.46:095][473]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.51.46:095][473]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2026.04.22-10.51.46:096][473]LogLoad: Took 0.142133 seconds to LoadMap(/Game/Levels/Game_Select)
+[2026.04.22-10.51.46:096][473]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Game_Select
+[2026.04.22-10.51.46:104][473]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.22-10.51.47:392][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.51.47:392][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Game_Select
+[2026.04.22-10.51.47:392][617]LogWorld: UWorld::CleanupWorld for Game_Select, bSessionEnded=true, bCleanupResources=true
+[2026.04.22-10.51.47:393][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.51.47:393][617]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Game_Select.Game_Select
+[2026.04.22-10.51.47:395][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.22-10.51.47:399][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.22-10.51.47:420][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.22-10.51.47:420][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.22-10.51.47:420][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.04.22-10.51.47:422][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.04.22-10.51.47:432][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.04.22-10.51.47:484][618]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.04.22-10.52.38:592][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5750.584473
+[2026.04.22-10.52.38:731][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.22-10.52.38:731][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5750.715820, Update Interval: 355.462524
+[2026.04.22-10.54.31:711][553]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.54.31:711][553]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.56.31:951][230]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.56.31:954][230]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2026.04.22-10.56.32:057][230]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 2 out of 16 tries.
+[2026.04.22-10.56.32:057][230]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 2 out of 16 tries.
