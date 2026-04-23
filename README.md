@@ -79,16 +79,9 @@ How did you address problems, bugs, or limitations?
 
 ---
 
-## Testing *(Approx. 10–15% of word count)*
+## Testing
 
-### What testing methods did you use?
-
-* Did you conduct internal testing, peer testing, or user testing?
-* What were your key goals in testing?
-* What did you observe or learn from testing?
-* How did testing influence the final result?
-
-You may include screenshots, graphs, tables, or embedded videos to demonstrate tests and results.
+Unfortunately, due to a number of reasons including unforeseen technical issues and several personal issues, there were many bugs that rendered the minigames almost unplayable that were not fixed until very late into development, meaning there was not enough time to perform user testing and gather data on tests.
 
 ---
 
@@ -106,7 +99,7 @@ You may include screenshots, graphs, tables, or embedded videos to demonstrate t
 
 An aspect that I felt worked very well in this project was how well I collaborated with the game designers.
 
-However, there are many things in this project that I think did not go as well as they could have. The biggest example of this is the movement of the boats in Row-Mania. My original intention was for the boats to move forward and steer left and right, however despite trying several different methods I could not get the movement to work properly before the deadline, so I simply copied over the default player movement. If I had more time on the project, I would try other methods to get the boat's movement working as intended. Other aspects of the project I would improve upon if I had more time would be to add additional features that I considered but could not implement, such as being able to hit and stun other players in Splat-a-Rat, or adding the special rat that gives bonus points.
+However, there are many things in this project that I think did not go as well as they could have. The biggest example of this is the movement of the boats in Row-Mania. My original intention was for the boats to move forward and steer left and right, however despite trying several different methods I could not get the movement to work properly before the deadline, so I simply copied over the default player movement. If I had more time on the project, I would try other methods to get the boat's movement working as intended. Other aspects of the project I would improve upon if I had more time would be to add additional features that I considered but could not implement, such as being able to hit and stun other players in Splat-a-Rat, or adding the special rat that gives bonus points. I would also make sure to set aside enough time to conduct user testing and gather results from those tests.
 
 ---
 
