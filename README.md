@@ -25,27 +25,7 @@ My task for this project was to work in a team with game design students to crea
 
 ---
 
-## Research *(Approx. 20-30% of word count)*
-
-### What sources or references have you identified as relevant to this task?
-
-Reflect on the **type** and **relevance** of sources explored. Justify your research direction in relation to the task brief and target outcomes.
-
-* What types of sources did you explore and why?
-* Which types of sources did you avoid and why?
-* How does the research relate to the user experience, technical approach, or creative aim?
-
-#### Sources
-
-For each source, provide:
-
-1. An **opening paragraph** describing the source's creator/publisher, reputation, and relevance.
-2. A **bullet list** of what you analysed or learned from it.
-3. A **closing paragraph** evaluating its usefulness or limitations.
-
-You may include both **academic resources** and **industry examples** (e.g. documentation, games, developer talks). You are encouraged to include plenty of images, videos and diagrams.
-
-> You should have at least 1 game source as inspiration, 1 documentation/tutorial source and 1 academic source at a minimum.
+## Research
 
 To create the different minigames for this project, I researched similar games for inspiration on game mechanics. The first minigame, Peg Leg, is a game where there is a peg leg object that players fight over. As inspiration for this minigame, I researched Mario Kart 8 Deluxe, specifically the Shine Thief minigame in the game's battle mode.
 
@@ -77,29 +57,27 @@ Were any methods unfamiliar or experimental? Did they succeed? Did they change y
 
 How did you address problems, bugs, or limitations?
 
+When creating the Peg Leg minigame I created a script that would transfer the peg leg from one player to another when they collide. When two players collide the script would check to see if the player is holding the peg leg. If they were holding it they would lose the peg leg and their counter would stop decreasing, and vice versa if they were not. However in this script I had forgotten to check if the other player was holding the peg leg, leading to a bug where if two players that were not holding the peg leg collided they would both gain the peg leg. The way I fixed this was by changing the way the peg leg was transferred. Instead of making it so that the peg leg was instantly transferred when the players collide, I changed it so that when the players collide the peg leg item respawns and has to be picked up again. I feel that this method works much better than the simple transfer since it allows a bit more competiton between players, who have to race to grab the peg leg first. However there is a slight issue where the peg leg respawns in the centre of the map instead of being closer to the player, since trying to spawn the peg leg object near the player caused the game to crash.
+
+For the Splat-a-Rat minigame I created a simple script where, when the player's hammer collided with a rat in a barrel, it would get rid of the rat and increase the players score. The code itself was relatively simple and had no real errors, however there were several problems with how the score was displayed on the UI. Initially when a player scored a point, it would increase every players score on the UI. 
+
 ---
 
 ## Testing
 
-Unfortunately, due to a number of reasons including unforeseen technical issues and several personal issues, there were many bugs that rendered the minigames almost unplayable that were not fixed until very late into development, meaning there was not enough time to perform user testing and gather data on tests.
+Unfortunately, due to a number of reasons including unforeseen technical issues and several personal issues, there were many bugs that rendered the minigames almost unplayable that were not fixed until very late into development, meaning there was not enough time to perform user testing and gather data on tests. In the future I will make sure to get bug fixes done earlier in order to ensure that I can gather user testing data.
 
 ---
 
-## Critical Reflection *(Approx. 10–15% of word count)*
+## Critical Reflection
 
-### What went well?
+An aspect that I felt worked very well in this project was how well I collaborated with the game designers. I feel that we worked together well for the most part, and that I was able to create the games that the designers envisioned in a way that I am satisfied with.
 
-* What strengths or successes stood out in the final piece?
-* Did anything exceed expectations?
+However, there are many things in this project that I think did not go as well as they could have. The biggest example of this is the movement of the boats in Row-Mania. My original intention was for the boats to move forward and steer left and right, however despite trying several different methods I could not get the movement to work properly before the deadline, so I simply copied over the default player movement. If I had more time on the project, I would try other methods to get the boat's movement working as intended.
 
-### What could be improved or done differently next time?
+Another aspect that I felt did not go well in this project was the implementation of the game's graphics. Due to many last minute issues with gameplay mechanics and poor communication between designers and developer, many of the game's graphics were not able to be properly implemented, meaning most were default unreal engine graphics and placeholders. If I were to do this project again, I would make sure to implement graphics and models into the game as I go along instead of leaving it until the end of development.
 
-* Were there things that didn’t work? Why?
-* What would you try differently with more time or resources?
-
-An aspect that I felt worked very well in this project was how well I collaborated with the game designers.
-
-However, there are many things in this project that I think did not go as well as they could have. The biggest example of this is the movement of the boats in Row-Mania. My original intention was for the boats to move forward and steer left and right, however despite trying several different methods I could not get the movement to work properly before the deadline, so I simply copied over the default player movement. If I had more time on the project, I would try other methods to get the boat's movement working as intended. Other aspects of the project I would improve upon if I had more time would be to add additional features that I considered but could not implement, such as being able to hit and stun other players in Splat-a-Rat, or adding the special rat that gives bonus points. I would also make sure to set aside enough time to conduct user testing and gather results from those tests.
+Other aspects of the project I would improve upon if I had more time would be to add additional features that I considered but could not implement, such as being able to hit and stun other players in Splat-a-Rat, or adding the special rat that gives bonus points. I would also make sure to set aside enough time to conduct user testing and gather results from those tests.
 
 ---
 
